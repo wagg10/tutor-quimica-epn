@@ -1,0 +1,87 @@
+### 1. Fundamento químico del problema
+
+Para determinar el estado de oxidación de un elemento en un compuesto, se aplica la regla de que la suma de los estados de oxidación de todos los átomos debe ser igual a la carga total de la especie. En un compuesto neutro, la suma es igual a cero. Para átomos conocidos, se usan sus estados de oxidación comunes.
+
+### 2. Información proporcionada
+
+El compuesto analizado es el ácido nítrico:
+
+\[
+\mathrm{HNO_3}
+\]
+
+El ácido nítrico es un compuesto neutro.
+
+El hidrógeno, cuando se enlaza con no metales, tiene estado de oxidación:
+
+\[
+\mathrm{H} = +1
+\]
+
+El oxígeno, en la mayoría de sus compuestos, tiene estado de oxidación:
+
+\[
+\mathrm{O} = -2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el ácido nítrico.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un compuesto neutro:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+Si se desconoce el estado de oxidación de un elemento, se representa como \(x\).
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos en la ecuación de balance de estados de oxidación:
+
+\[
+(+1) + x + 3(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+1 + x - 6 = 0
+\]
+
+\[
+x - 5 = 0
+\]
+
+\[
+x = +5
+\]
+
+Se verifica la suma:
+
+\[
+(+1) + (+5) + 3(-2) = 1 + 5 - 6 = 0
+\]
+
+La suma es igual a cero, por lo tanto, el cálculo es correcto.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{EO_{N}} = +5}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del nitrógeno en el ácido nítrico es:
+
+\[
++5
+\]
+
+Este valor indica que el nitrógeno se oxida considerablemente en este compuesto, lo que refleja su alta capacidad oxidante.

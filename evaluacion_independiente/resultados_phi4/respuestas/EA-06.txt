@@ -1,0 +1,69 @@
+### 1. Fundamento químico del problema
+
+El número másico de un isótopo representa la suma de protones y neutrones. El número atómico indica la cantidad de protones. Para determinar el número de neutrones, se aplica la diferencia entre el número másico y el número atómico.
+
+### 2. Información proporcionada
+
+El isótopo tiene número másico:
+
+\[
+A = 14
+\]
+
+El número atómico es:
+
+\[
+Z = 6
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de neutrones del isótopo.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El número másico se expresa como:
+
+\[
+A = Z + \#n^0
+\]
+
+Despejando el número de neutrones:
+
+\[
+\#n^0 = A - Z
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores del problema:
+
+\[
+\#n^0 = 14 - 6
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la operación matemática:
+
+\[
+\#n^0 = 8
+\]
+
+Se verifica que el número másico es la suma de protones y neutrones:
+
+\[
+14 = 6 + 8
+\]
+
+La unidad de neutrones es neutro, por lo tanto, el resultado es correcto.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#n^0 = 8}
+\]
+
+### 8. Conclusión
+
+El isótopo tiene 8 neutrones porque el número másico es 14 y el número atómico es 6.

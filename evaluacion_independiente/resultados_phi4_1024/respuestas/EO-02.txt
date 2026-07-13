@@ -1,0 +1,87 @@
+### 1. Fundamento químico del problema
+
+Para determinar el estado de oxidación de un elemento en un compuesto, se aplica la regla de neutralidad eléctrica. En un compuesto neutro, la suma de los estados de oxidación de todos los átomos debe ser igual a cero.
+
+### 2. Información proporcionada
+
+El compuesto dado es:
+
+\[
+\mathrm{K_2Cr_2O_7}
+\]
+
+El potasio (\(\mathrm{K}\)) es un metal alcalino y, en compuestos, siempre tiene estado de oxidación:
+
+\[
+\mathrm{K} = +1
+\]
+
+El oxígeno (\(\mathrm{O}\)) es un no metal y, en la mayoría de sus compuestos, tiene estado de oxidación:
+
+\[
+\mathrm{O} = -2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del cromo (\(\mathrm{Cr}\)) en el dicromato de potasio.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La suma de los estados de oxidación en un compuesto neutro es igual a cero:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+Para el dicromato de potasio:
+
+\[
+2(\mathrm{K}) + 2(\mathrm{Cr}) + 7(\mathrm{O}) = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos:
+
+\[
+2(+1) + 2(\mathrm{Cr}) + 7(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+2 + 2(\mathrm{Cr}) - 14 = 0
+\]
+
+\[
+2(\mathrm{Cr}) - 12 = 0
+\]
+
+\[
+2(\mathrm{Cr}) = 12
+\]
+
+\[
+\mathrm{Cr} = 6
+\]
+
+Verificación aritmética: \(2 + 2(6) - 14 = 2 + 12 - 14 = 0\). La operación es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Cr} = +6}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del cromo en el dicromato de potasio es:
+
+\[
++6
+\]
+
+Este resultado indica que el cromo se encuentra en su estado de oxidación máximo en este compuesto, lo que es característico de los óxidos de cromo en reacciones de oxidación-reducción.

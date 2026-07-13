@@ -1,0 +1,27 @@
+Para determinar cuántos moles de agua hay en 36 g de \( \mathrm{H_2O} \), se utiliza la masa molar del agua, que es 18,02 g/mol.
+
+**Paso 1: Escribir la relación química entre masa y moles.**
+
+\[
+n = \frac{m}{PM}
+\]
+
+**Paso 2: Sustituir los valores en la fórmula.**
+
+\[
+n = \frac{36 \text{ g de } \mathrm{H_2O}}{18,02 \text{ g/mol}}
+\]
+
+**Paso 3: Realizar la operación aritmética.**
+
+\[
+n = 2,0 \text{ moles de } \mathrm{H_2O}
+\]
+
+**Verificación aritmética:** 36 dividido entre 18,02 es aproximadamente 2,0. El resultado es consistente con la relación de 1 mol de agua por cada 18 g.
+
+**Respuesta final:**
+
+\[
+\boxed{n = 2,0 \text{ moles de } \mathrm{H_2O}}
+\]

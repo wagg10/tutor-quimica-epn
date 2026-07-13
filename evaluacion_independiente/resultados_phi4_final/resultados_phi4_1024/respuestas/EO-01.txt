@@ -1,0 +1,81 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación es una propiedad formal que indica la carga hipotética que tendría un átomo si todos los electrones de valencia se transfirieran hacia el átomo más electronegativo de la molécula. En compuestos iónicos o poliatómicos, se asignan estados de oxidación bajo la premisa de que los elementos más electronegativos adquieren la carga que indica su electronegatividad y los demás se determinan por diferencia de carga.
+
+### 2. Información proporcionada
+
+El compuesto analizado es el permanganato de potasio, con fórmula química:
+
+\[
+\mathrm{KMnO_4}
+\]
+
+Los elementos presentes son:
+
+- Potasio (K)
+- Manganeso (Mn)
+- Oxígeno (O)
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del manganeso en el compuesto \(\mathrm{KMnO_4}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El potasio, al ser un metal alcalino, presenta un estado de oxidación fijo de:
+
+\[
+\mathrm{K} = +1
+\]
+
+El oxígeno, en la mayoría de sus compuestos, presenta un estado de oxidación de:
+
+\[
+\mathrm{O} = -2
+\]
+
+Como el compuesto \(\mathrm{KMnO_4}\) es neutro, la suma de los estados de oxidación debe ser igual a cero:
+
+\[
+(+1) + (\mathrm{Mn}) + 4(-2) = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos en la ecuación de balance de estados de oxidación:
+
+\[
+(+1) + (\mathrm{Mn}) + 4(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se desarrolla la operación aritmética:
+
+\[
++1 + (\mathrm{Mn}) - 8 = 0
+\]
+
+Se agrupan los términos constantes:
+
+\[
+(\mathrm{Mn}) - 7 = 0
+\]
+
+Se despeja el estado de oxidación del manganeso:
+
+\[
+\mathrm{Mn} = +7
+\]
+
+Verificación aritmética: \(+1 - 8 = -7\). Para que la suma sea cero, el manganeso debe ser \(+7\).
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Mn} = +7}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del manganeso en el permanganato de potasio es \(+7\). Este valor se obtiene porque el potasio contribuye con \(+1\) y cada oxígeno con \(-2\), requiriendo que el manganeso asuma una carga positiva alta para balancear la carga total a cero.

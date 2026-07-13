@@ -1,0 +1,22 @@
+Para ordenar de menor a mayor energía de ionización a los elementos Na, Mg y Cl, seguimos estos pasos:
+
+**Paso 1: Ubicar los elementos en la tabla periódica.**
+- Na (Sodio): Pertenece al grupo IA (metales alcalinos).
+- Mg (Magnesio): Pertenece al grupo IIA (metales alcalinotérreos).
+- Cl (Cloro): Pertenece al grupo VIIA (no metales).
+
+**Paso 2: Recordar la tendencia general de la energía de ionización.**
+- En el mismo grupo, de arriba hacia abajo, la energía de ionización disminuye porque los electrones se encuentran más alejados del núcleo y son más fáciles de remover.
+- En el mismo periodo, de izquierda a derecha, la energía de ionización aumenta porque los elementos son más electronegativos y retienen sus electrones con mayor fuerza.
+
+**Paso 3: Comparar los elementos.**
+- Na y Mg están en el mismo periodo (3) y el Mg es más electronegativo que el Na, por lo tanto, el Mg tiene mayor energía de ionización que el Na.
+- El Cl está en el mismo periodo (3) y a la derecha del Mg, por lo tanto, el Cl tiene mayor energía de ionización que el Mg.
+
+**Paso 4: Concluir el orden.**
+- El orden de energía de ionización es: Na < Mg < Cl.
+
+**Respuesta final:**
+\[
+\boxed{\text{Orden de menor a mayor energía de ionización: Na < Mg < Cl}}
+\]

@@ -1,0 +1,71 @@
+### 1. Fundamento químico del problema
+
+Para convertir una masa en moles se utiliza la masa molar de la sustancia. En este caso, la sustancia es agua (\(\mathrm{H_2O}\)) y su masa molar es \(18,02 \, \mathrm{g/mol}\).
+
+### 2. Información proporcionada
+
+Masa de agua:
+
+\[
+36 \, \mathrm{g \, H_2O}
+\]
+
+Masa molar del agua:
+
+\[
+18,02 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos moles de agua hay en \(36 \, \mathrm{g}\) de \(\mathrm{H_2O}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación entre masa, masa molar y número de moles se expresa como:
+
+\[
+n = \frac{m}{M}
+\]
+
+donde:
+
+\[
+n = \text{moles de sustancia}
+\]
+
+\[
+m = \text{masa de la sustancia}
+\]
+
+\[
+M = \text{masa molar de la sustancia}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores dados en la fórmula:
+
+\[
+n = \frac{36 \, \mathrm{g}}{18,02 \, \mathrm{g/mol}}
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la división:
+
+\[
+n = 1,998 \, \mathrm{mol}
+\]
+
+Verificación aritmética: \(36 \div 18,02 \approx 1,998\). La operación es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{n = 1,998 \, \mathrm{mol \, H_2O}}
+\]
+
+### 8. Conclusión
+
+La masa de \(36 \, \mathrm{g}\) de agua corresponde a aproximadamente \(1,998 \, \mathrm{mol}\) de \(\mathrm{H_2O}\). Este resultado permite conocer la cantidad de sustancia en unidades de moles, lo cual es fundamental para realizar cálculos estequiométricos en reacciones químicas.

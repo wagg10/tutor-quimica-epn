@@ -1,0 +1,59 @@
+### 1. Fundamento químico del problema
+
+Para determinar el número de neutrones de un isótopo, se aplica la relación fundamental entre el número atómico, el número de masa y el número de neutrones.
+
+### 2. Información proporcionada
+
+El isótopo tiene:
+
+\[
+A = 14
+\]
+
+\[
+Z = 6
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de neutrones del isótopo.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El número de masa se expresa como:
+
+\[
+A = Z + n^0
+\]
+
+Despejando el número de neutrones:
+
+\[
+n^0 = A - Z
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores del isótopo:
+
+\[
+n^0 = 14 - 6
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la operación matemática:
+
+\[
+n^0 = 8
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{n^0 = 8}
+\]
+
+### 8. Conclusión
+
+El isótopo tiene \(8\) neutrones porque el número de masa es \(14\) y el número atómico es \(6\).

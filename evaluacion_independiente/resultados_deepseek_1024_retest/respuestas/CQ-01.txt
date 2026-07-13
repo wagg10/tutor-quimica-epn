@@ -1,0 +1,19 @@
+### Definición
+
+La configuración electrónica es la disposición ordenada de los electrones en los orbitales de un átomo, siguiendo el principio de Aufbau y las reglas de exclusión de Pauli y Hund.
+
+### Explicación
+
+La configuración electrónica permite conocer la distribución de los electrones en los niveles de energía, subniveles y orbitales de un átomo. Esta distribución determina la estructura electrónica del elemento, sus propiedades químicas y su ubicación en la tabla periódica.
+
+### Ejemplo
+
+Para el cloro, con número atómico \(Z = 17\), la configuración electrónica es:
+
+\[
+\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5
+\]
+
+### Importancia en Química
+
+La configuración electrónica es útil porque permite predecir la reactividad, la capacidad de enlace y la formación de compuestos. Además, permite entender por qué los elementos se organizan en periodos y grupos de la tabla periódica.

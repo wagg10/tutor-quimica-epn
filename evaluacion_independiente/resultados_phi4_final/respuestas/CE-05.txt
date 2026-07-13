@@ -1,0 +1,109 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite ubicar a los elementos en la tabla periódica y predecir sus propiedades químicas. Para un catión, se debe restar el número de electrones que pierde el átomo neutro.
+
+### 2. Información proporcionada
+
+El sodio tiene número atómico:
+
+\[
+Z = 11
+\]
+
+El ion indicado es:
+
+\[
+\mathrm{Na^+}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del ion sodio, \(\mathrm{Na^+}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un catión:
+
+\[
+\mathrm{Catión} \Rightarrow \text{se pierden electrones}
+\]
+
+Para el sodio:
+
+\[
+\mathrm{Na} \Rightarrow \mathrm{Na^+} + e^-
+\]
+
+### 5. Aplicación de los datos
+
+El sodio pierde un electrón para formar el catión sodio:
+
+\[
+\mathrm{Na} \Rightarrow \mathrm{Na^+} + e^-
+\]
+
+### 6. Resolución paso a paso
+
+El sodio tiene número atómico:
+
+\[
+Z = 11
+\]
+
+Por lo tanto, el átomo neutro de sodio tiene:
+
+\[
+e^- = 11
+\]
+
+El ion sodio se forma cuando el sodio pierde un electrón:
+
+\[
+\mathrm{Na} \Rightarrow \mathrm{Na^+} + e^-
+\]
+
+Entonces:
+
+\[
+11 - 1 = 10
+\]
+
+El ion sodio tiene:
+
+\[
+e^- = 10
+\]
+
+La configuración electrónica del sodio neutro es:
+
+\[
+\mathrm{Na}: 1s^2 \ 2s^2 \ 2p^6 \ 3s^1
+\]
+
+El electrón que se pierde es el último de la capa más externa:
+
+\[
+3s^1
+\]
+
+Por eso:
+
+\[
+\mathrm{Na^+}: 1s^2 \ 2s^2 \ 2p^6
+\]
+
+La configuración electrónica del ion sodio es:
+
+\[
+\boxed{\mathrm{Na^+}: 1s^2 \ 2s^2 \ 2p^6}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na^+}: 1s^2 \ 2s^2 \ 2p^6}
+\]
+
+### 8. Conclusión
+
+El ion sodio se forma cuando el sodio pierde un electrón de su capa más externa. Por eso, su configuración electrónica es \(1s^2 \ 2s^2 \ 2p^6\), con un total de 10 electrones.

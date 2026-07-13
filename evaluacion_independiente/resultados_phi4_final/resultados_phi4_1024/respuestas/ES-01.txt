@@ -1,0 +1,95 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se obtiene sumando las masas atómicas de todos los átomos que componen su fórmula química. Para el hidróxido de calcio, \(\mathrm{Ca(OH)_2}\), se suman las masas de calcio, oxígeno y hidrógeno, multiplicando por los subíndices correspondientes.
+
+### 2. Información proporcionada
+
+Fórmula del compuesto: \(\mathrm{Ca(OH)_2}\).
+
+Masas atómicas:
+
+\[
+\mathrm{Ca} = 40,08 \, \mathrm{g/mol}
+\]
+
+\[
+\mathrm{O} = 16,00 \, \mathrm{g/mol}
+\]
+
+\[
+\mathrm{H} = 1,008 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa molar del hidróxido de calcio, \(\mathrm{Ca(OH)_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se calcula con la siguiente expresión:
+
+\[
+PM = \sum (PA_i \times n_i)
+\]
+
+donde \(PA_i\) es la masa atómica del elemento \(i\) y \(n_i\) es el número de átomos de ese elemento en la fórmula.
+
+### 5. Aplicación de los datos
+
+Para el compuesto \(\mathrm{Ca(OH)_2}\), se identifican los elementos y sus subíndices:
+
+\[
+\mathrm{Ca}: 1
+\]
+
+\[
+\mathrm{O}: 2
+\]
+
+\[
+\mathrm{H}: 2
+\]
+
+Se sustituyen los valores en la expresión:
+
+\[
+PM = (40,08 \times 1) + (16,00 \times 2) + (1,008 \times 2)
+\]
+
+### 6. Resolución paso a paso
+
+Se calcula el aporte de cada elemento:
+
+\[
+\mathrm{Ca}: 40,08 \, \mathrm{g/mol}
+\]
+
+\[
+\mathrm{O}: 16,00 \times 2 = 32,00 \, \mathrm{g/mol}
+\]
+
+\[
+\mathrm{H}: 1,008 \times 2 = 2,016 \, \mathrm{g/mol}
+\]
+
+Se suman los valores:
+
+\[
+PM = 40,08 + 32,00 + 2,016
+\]
+
+\[
+PM = 74,096 \, \mathrm{g/mol}
+\]
+
+Verificación aritmética: \(40,08 + 32,00 = 72,08\). Luego, \(72,08 + 2,016 = 74,096\). La suma es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 74,096 \, \mathrm{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar del hidróxido de calcio es \(74,096 \, \mathrm{g/mol}\). Este valor representa la masa de una sola molécula de \(\mathrm{Ca(OH)_2}\) expresada en gramos, y es fundamental para convertir entre masa y número de moles en este tipo de compuestos.

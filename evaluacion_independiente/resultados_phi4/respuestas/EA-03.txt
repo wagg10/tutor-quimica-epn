@@ -1,0 +1,79 @@
+### 1. Fundamento químico del problema
+
+El número atómico \(Z\) indica la cantidad de protones de un átomo. En un átomo neutro, el número de protones es igual al número de electrones. Para un catión, se debe restar la carga positiva indicada por el exponente.
+
+### 2. Información proporcionada
+
+El ion dado es:
+
+\[
+\mathrm{Al^{3+}}
+\]
+
+El número atómico del aluminio es:
+
+\[
+Z = 13
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de electrones del ion \(\mathrm{Al^{3+}}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+\#e^- = Z
+\]
+
+Para un catión:
+
+\[
+\#e^- = Z - (\text{carga positiva})
+\]
+
+### 5. Aplicación de los datos
+
+Primero se identifica el número de protones del aluminio:
+
+\[
+\#p^+ = 13
+\]
+
+Luego se aplica la relación para un catión:
+
+\[
+\#e^- = 13 - 3
+\]
+
+### 6. Resolución paso a paso
+
+El aluminio tiene número atómico \(Z = 13\), por lo tanto, el átomo neutro de aluminio tiene:
+
+\[
+\#e^- = 13
+\]
+
+Como el ion \(\mathrm{Al^{3+}}\) tiene carga positiva \(+3\), significa que el átomo de aluminio perdió 3 electrones.
+
+Entonces:
+
+\[
+\#e^- = 13 - 3
+\]
+
+\[
+\#e^- = 10
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#e^- = 10}
+\]
+
+### 8. Conclusión
+
+El ion \(\mathrm{Al^{3+}}\) tiene 10 electrones porque el átomo neutro de aluminio tiene 13 electrones y pierde 3 electrones para formar el catión.

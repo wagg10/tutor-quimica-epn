@@ -1,0 +1,7 @@
+eje,n_total,n_numerico,n_resultado_correcto,pct_resultado_correcto,pct_estructura_completa
+estructura_atomica,6,6,6,100.0 %,100.0 %
+configuracion_electronica,7,3,2,66.7 %,100.0 %
+propiedades_periodicas,7,0,0,-,85.7 %
+estados_oxidacion,7,6,6,100.0 %,100.0 %
+reacciones_quimicas,7,6,5,83.3 %,100.0 %
+estequiometria,6,6,4,66.7 %,83.3 %

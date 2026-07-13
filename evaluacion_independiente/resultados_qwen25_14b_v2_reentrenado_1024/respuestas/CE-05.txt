@@ -1,0 +1,105 @@
+### 1. Fundamento químico del problema
+
+El ion sodio positivo se forma cuando el átomo neutro de sodio pierde un electrón externo.
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Como el sodio pierde un electrón, su configuración electrónica cambia.
+
+### 2. Información proporcionada
+
+El sodio neutro tiene configuración:
+
+\[
+\mathrm{Na}: 1s^2\,2s^2\,2p^6\,3s^1
+\]
+
+El ion sodio positivo se representa como:
+
+\[
+\mathrm{Na^+}
+\]
+
+El sodio tiene número atómico:
+
+\[
+Z = 11
+\]
+
+Por lo tanto, el átomo neutro de sodio tiene 11 electrones.
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del ion Na+.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Cuando un átomo forma un catión, pierde electrones.
+
+\[
+\text{catión} \Rightarrow \text{pérdida de electrones}
+\]
+
+En el caso del sodio:
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Como el sodio pierde un electrón, su configuración electrónica cambia.
+
+### 5. Aplicación de los datos
+
+El átomo neutro de sodio tiene configuración:
+
+\[
+\mathrm{Na}: 1s^2\,2s^2\,2p^6\,3s^1
+\]
+
+Como el ion sodio positivo se forma cuando el átomo neutro de sodio pierde un electrón externo, se pierde el electrón del subnivel más externo.
+
+\[
+\mathrm{Na^+}: 1s^2\,2s^2\,2p^6
+\]
+
+### 6. Resolución paso a paso
+
+El átomo neutro de sodio tiene configuración:
+
+\[
+\mathrm{Na}: 1s^2\,2s^2\,2p^6\,3s^1
+\]
+
+El ion sodio positivo se representa como:
+
+\[
+\mathrm{Na^+}
+\]
+
+El ion sodio positivo se forma cuando el átomo neutro de sodio pierde un electrón externo.
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Como el sodio pierde un electrón, su configuración electrónica cambia.
+
+\[
+\mathrm{Na^+}: 1s^2\,2s^2\,2p^6
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na^+}: 1s^2\,2s^2\,2p^6}
+\]
+
+### 8. Conclusión
+
+El ion sodio positivo se forma cuando el átomo neutro de sodio pierde un electrón externo. Por eso, su configuración electrónica es:
+
+\[
+\mathrm{Na^+}: 1s^2\,2s^2\,2p^6
+\]

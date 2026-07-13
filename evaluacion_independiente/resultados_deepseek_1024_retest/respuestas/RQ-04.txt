@@ -1,0 +1,67 @@
+Para balancear la reacción Fe + O2 -> Fe2O3, seguimos estos pasos:
+
+**Paso 1: Escribir la ecuación química incompleta.**
+
+\[
+\mathrm{Fe} + \mathrm{O_2} \longrightarrow \mathrm{Fe_2O_3}
+\]
+
+**Paso 2: Contar los átomos de cada elemento en los reactivos y productos.**
+
+\[
+\mathrm{Fe}: 1 \quad \text{en reactivos}
+\]
+
+\[
+\mathrm{Fe}: 2 \quad \text{en productos}
+\]
+
+\[
+\mathrm{O}: 2 \quad \text{en reactivos}
+\]
+
+\[
+\mathrm{O}: 3 \quad \text{en productos}
+\]
+
+**Paso 3: Balancear el hierro (Fe).**
+
+Para que haya 2 átomos de hierro en los productos, ponemos un coeficiente 2 al hierro en los reactivos.
+
+\[
+2\mathrm{Fe} + \mathrm{O_2} \longrightarrow \mathrm{Fe_2O_3}
+\]
+
+**Paso 4: Balancear el oxígeno (O).**
+
+En los productos hay 3 átomos de oxígeno. Para balancearlos, ponemos un coeficiente 3 al oxígeno en los reactivos.
+
+\[
+2\mathrm{Fe} + 3\mathrm{O_2} \longrightarrow \mathrm{Fe_2O_3}
+\]
+
+**Paso 5: Verificar los átomos.**
+
+\[
+\mathrm{Fe}: 2 \quad \text{en reactivos y productos}
+\]
+
+\[
+\mathrm{O}: 6 \quad \text{en reactivos y productos}
+\]
+
+La ecuación está balanceada.
+
+**Paso 6: Identificar el coeficiente estequiométrico del O2.**
+
+El coeficiente estequiométrico del oxígeno es:
+
+\[
+\boxed{3}
+\]
+
+**Respuesta final:**
+
+\[
+\boxed{3}
+\]

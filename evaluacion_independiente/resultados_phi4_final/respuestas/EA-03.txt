@@ -1,0 +1,75 @@
+### 1. Fundamento químico del problema
+
+Para determinar el número de electrones de un catión, se aplica el principio de conservación de la carga. Un catión se forma cuando un átomo pierde electrones. Por lo tanto, el número de electrones del ion se obtiene restando la carga del átomo neutro.
+
+### 2. Información proporcionada
+
+El elemento indicado es el aluminio:
+
+\[
+\mathrm{Al}
+\]
+
+El número atómico del aluminio es:
+
+\[
+Z = 13
+\]
+
+El ion indicado es:
+
+\[
+\mathrm{Al^{3+}}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de electrones del ion \(\mathrm{Al^{3+}}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+\#e^- = Z
+\]
+
+Para un catión:
+
+\[
+\#e^- = Z - (\text{carga del catión})
+\]
+
+### 5. Aplicación de los datos
+
+El aluminio neutro tiene:
+
+\[
+\#e^- = 13
+\]
+
+Como el ion es \(\mathrm{Al^{3+}}\), el átomo pierde \(3\) electrones.
+
+### 6. Resolución paso a paso
+
+Se aplica la relación para un catión:
+
+\[
+\#e^- = 13 - 3
+\]
+
+\[
+\#e^- = 10
+\]
+
+Verificación aritmética: \(13 - 3 = 10\). La operación es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#e^- = 10}
+\]
+
+### 8. Conclusión
+
+El ion \(\mathrm{Al^{3+}}\) tiene \(10\) electrones porque el aluminio neutro tiene \(13\) electrones y pierde \(3\) electrones al formar el catión.

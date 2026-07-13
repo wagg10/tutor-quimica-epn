@@ -1,0 +1,53 @@
+### 1. Fundamento químico del problema
+
+Los elementos Li, Na y K pertenecen a la familia de los metales alcalinos (Grupo IA). Al desplazarse hacia abajo en un mismo grupo, aumenta el número de niveles principales de energía (\(n\)) debido a la adición de electrones externos.
+
+### 2. Información proporcionada
+
+Elementos: Li, Na y K.
+
+Familia: Metales alcalinos (Grupo IA).
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de mayor a menor radio atómico los elementos Li, Na y K.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Al desplazarse hacia abajo en un mismo grupo, aumenta el radio atómico porque se añade un nivel principal de energía.
+
+### 5. Aplicación de los datos
+
+Li, Na y K pertenecen al Grupo IA.
+
+El orden de los elementos es:
+
+\[
+\mathrm{Li} < \mathrm{Na} < \mathrm{K}
+\]
+
+### 6. Resolución paso a paso
+
+Como Li, Na y K pertenecen al Grupo IA, se desplazan hacia abajo verticalmente.
+
+A medida que se desciende, aumenta el número de niveles principales de energía (\(n\)).
+
+Por eso, el radio atómico aumenta.
+
+El orden de los elementos es:
+
+\[
+\mathrm{Li} < \mathrm{Na} < \mathrm{K}
+\]
+
+### 7. Resultado obtenido
+
+El orden de mayor a menor radio atómico es:
+
+\[
+\boxed{\mathrm{K} > \mathrm{Na} > \mathrm{Li}}
+\]
+
+### 8. Conclusión
+
+El radio atómico aumenta al descender en un mismo grupo porque se añade un nivel principal de energía. Por eso, el orden es \(\mathrm{K} > \mathrm{Na} > \mathrm{Li}\).

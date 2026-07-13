@@ -1,0 +1,81 @@
+### 1. Fundamento químico del problema
+
+El número atómico \(Z\) indica la cantidad de protones de un átomo. En un átomo neutro, el número de electrones es igual al número de protones. Para un anión, se debe sumar la carga negativa, porque el átomo gana electrones.
+
+### 2. Información proporcionada
+
+El ion dado es:
+
+\[
+\mathrm{S^{2-}}
+\]
+
+El azufre tiene número atómico:
+
+\[
+Z = 16
+\]
+
+Esto significa que el átomo neutro de azufre tiene:
+
+\[
+\#p^+ = 16
+\]
+
+Por lo tanto, también tiene:
+
+\[
+\#e^- = 16
+\]
+
+El ion \(\mathrm{S^{2-}}\) tiene carga \(-2\), lo que indica que el átomo de azufre ganó \(2\) electrones.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de electrones del ion \(\mathrm{S^{2-}}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+\#e^- = Z
+\]
+
+Para un anión:
+
+\[
+\#e^- = Z + (\text{carga negativa})
+\]
+
+### 5. Aplicación de los datos
+
+Para el ion \(\mathrm{S^{2-}}\), se aplica:
+
+\[
+\#e^- = 16 + 2
+\]
+
+### 6. Resolución paso a paso
+
+El azufre tiene número atómico \(Z = 16\), por lo tanto, el átomo neutro de azufre tiene \(16\) electrones.
+
+Como el ion \(\mathrm{S^{2-}}\) tiene carga \(-2\), el átomo de azufre ganó \(2\) electrones.
+
+Entonces:
+
+\[
+\#e^- = 16 + 2 = 18
+\]
+
+Verificación aritmética: \(16 + 2 = 18\). La operación es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#e^- = 18}
+\]
+
+### 8. Conclusión
+
+El ion \(\mathrm{S^{2-}}\) tiene \(18\) electrones porque el azufre neutro tiene \(16\) electrones y el ion gana \(2\) electrones debido a su carga \(-2\).

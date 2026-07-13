@@ -1,0 +1,55 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite ubicar a los elementos en la tabla periódica y predecir sus propiedades químicas. Para un átomo neutro, el número de electrones es igual al número atómico.
+
+### 2. Información proporcionada
+
+Elemento: cloro, \(\mathrm{Cl}\).
+
+Número atómico: \(Z = 17\).
+
+Tipo de especie: átomo neutro.
+
+Número de electrones: \(e^- = 17\).
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del cloro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+Z = \#p^+ = \#e^-
+\]
+
+El orden de llenado de los subniveles se rige por la regla de Aufbau.
+
+### 5. Aplicación de los datos
+
+Como el cloro es un átomo neutro, tiene 17 electrones.
+
+### 6. Resolución paso a paso
+
+Se distribuyen los 17 electrones siguiendo el orden de llenado:
+
+\[
+1s^2 \quad 2s^2 \quad 2p^6 \quad 3s^2 \quad 3p^5
+\]
+
+Verificación aritmética:
+
+\[
+2 + 2 + 6 + 2 + 5 = 17
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del cloro muestra que sus últimos electrones se encuentran en el subnivel \(3p^5\), lo que explica su alta electronegatividad y su comportamiento como un anfígeno en las reacciones químicas.

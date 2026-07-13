@@ -1,0 +1,41 @@
+id,eje,tipo,esperado,unidad,num_detectado,todos_los_numeros,resultado_correcto,apartados_detectados,apartados_faltantes,estructura_completa,contenido_no_solicitado,clasificacion,archivo_respuesta
+EA-01,estructura_atomica,ejercicio_numerico,19,,19.0,19.0,True,8/8,,True,False,correcto,respuestas/EA-01.txt
+EA-02,estructura_atomica,ejercicio_numerico,35,,35.0,35.0,True,8/8,,True,False,correcto,respuestas/EA-02.txt
+EA-03,estructura_atomica,ejercicio_numerico,10,,10.0,10.0,True,8/8,,True,False,correcto,respuestas/EA-03.txt
+EA-04,estructura_atomica,ejercicio_numerico,18,,18.0,18.0,True,8/8,,True,False,correcto,respuestas/EA-04.txt
+EA-05,estructura_atomica,ejercicio_numerico,30,,30.0,0.0;30.0,True,8/8,,True,False,correcto,respuestas/EA-05.txt
+EA-06,estructura_atomica,ejercicio_numerico,8,,8.0,0.0;8.0,True,8/8,,True,False,correcto,respuestas/EA-06.txt
+CE-01,configuracion_electronica,ejercicio_simbolico,1s2 2s2 2p6 3s2 3p6 4s2 3d6,,6.0,1.0;2.0;2.0;2.0;2.0;6.0;3.0;2.0;3.0;6.0;4.0;2.0;3.0;6.0,,8/8,,True,False,revision_manual,respuestas/CE-01.txt
+CE-02,configuracion_electronica,ejercicio_simbolico,1s2 2s2 2p6 3s2 3p5,,5.0,1.0;2.0;2.0;2.0;2.0;6.0;3.0;2.0;3.0;5.0,,8/8,,True,False,revision_manual,respuestas/CE-02.txt
+CE-03,configuracion_electronica,ejercicio_numerico,6,,6.0,6.0,True,8/8,,True,False,correcto,respuestas/CE-03.txt
+CE-04,configuracion_electronica,ejercicio_numerico,3,,3.0,3.0,True,8/8,,True,False,correcto,respuestas/CE-04.txt
+CE-05,configuracion_electronica,ejercicio_simbolico,1s2 2s2 2p6,,6.0,1.0;2.0;2.0;2.0;2.0;6.0,,8/8,,True,False,revision_manual,respuestas/CE-05.txt
+CE-06,configuracion_electronica,ejercicio_numerico,17,,,,False,8/8,,True,False,sin_resultado_detectado,respuestas/CE-06.txt
+PP-01,propiedades_periodicas,ejercicio_simbolico,Na > Mg > Cl,,,,,8/8,,True,False,revision_manual,respuestas/PP-01.txt
+PP-02,propiedades_periodicas,ejercicio_simbolico,K > Na > Li,,,,,8/8,,True,False,revision_manual,respuestas/PP-02.txt
+PP-03,propiedades_periodicas,ejercicio_simbolico,F,,,,,8/8,,True,False,revision_manual,respuestas/PP-03.txt
+PP-04,propiedades_periodicas,ejercicio_simbolico,Na,,,,,8/8,,True,False,revision_manual,respuestas/PP-04.txt
+PP-05,propiedades_periodicas,ejercicio_simbolico,Na < Mg < Cl,,,,,8/8,,True,False,revision_manual,respuestas/PP-05.txt
+PP-06,propiedades_periodicas,ejercicio_simbolico,el átomo de Na,,,,,8/8,,True,False,revision_manual,respuestas/PP-06.txt
+EO-01,estados_oxidacion,ejercicio_numerico,7,,7.0,7.0,True,8/8,,True,False,correcto,respuestas/EO-01.txt
+EO-02,estados_oxidacion,ejercicio_numerico,6,,6.0,6.0,True,8/8,,True,False,correcto,respuestas/EO-02.txt
+EO-03,estados_oxidacion,ejercicio_numerico,6,,6.0,6.0,True,8/8,,True,False,correcto,respuestas/EO-03.txt
+EO-04,estados_oxidacion,ejercicio_numerico,-3,,-3.0,-3.0,True,8/8,,True,False,correcto,respuestas/EO-04.txt
+EO-05,estados_oxidacion,ejercicio_numerico,2,,2.0,2.0,True,8/8,,True,False,correcto,respuestas/EO-05.txt
+EO-06,estados_oxidacion,ejercicio_numerico,5,,5.0,5.0,True,8/8,,True,False,correcto,respuestas/EO-06.txt
+RQ-01,reacciones_quimicas,ejercicio_numerico,2,,2.0,2.0,True,8/8,,True,False,correcto,respuestas/RQ-01.txt
+RQ-02,reacciones_quimicas,ejercicio_numerico,2,,2.0,2.0,True,8/8,,True,False,correcto,respuestas/RQ-02.txt
+RQ-03,reacciones_quimicas,ejercicio_numerico,5,,5.0,5.0,True,8/8,,True,False,correcto,respuestas/RQ-03.txt
+RQ-04,reacciones_quimicas,ejercicio_numerico,3,,3.0,4.0;3.0;2.0;3.0,True,8/8,,True,False,correcto,respuestas/RQ-04.txt
+RQ-05,reacciones_quimicas,ejercicio_numerico,6,,6.0,2.0;6.0;2.0;3.0;6.0,True,8/8,,True,False,correcto,respuestas/RQ-05.txt
+RQ-06,reacciones_quimicas,ejercicio_numerico,2,,2.0,2.0,True,8/8,,True,False,correcto,respuestas/RQ-06.txt
+ES-01,estequiometria,ejercicio_numerico,74.1,g/mol,74.096,74.096,True,8/8,,True,False,correcto,respuestas/ES-01.txt
+ES-02,estequiometria,ejercicio_numerico,2.0,mol,2.0,2.0,True,8/8,,True,False,correcto,respuestas/ES-02.txt
+ES-03,estequiometria,ejercicio_numerico,98.08,g/mol,98.076,98.076,True,8/8,,True,False,correcto,respuestas/ES-03.txt
+ES-04,estequiometria,ejercicio_numerico,36,g,36.0,36.0,True,8/8,,True,False,correcto,respuestas/ES-04.txt
+ES-05,estequiometria,ejercicio_numerico,2.0,mol,2.0,2.0,True,8/8,,True,False,correcto,respuestas/ES-05.txt
+ES-06,estequiometria,ejercicio_numerico,180.16,g/mol,180.16,180.16,True,8/8,,True,False,correcto,respuestas/ES-06.txt
+CQ-01,configuracion_electronica,conceptual,Distribución de los electrones en niveles y subniveles según su energía; explica la posición del elemento en la tabla y sus propiedades. Calificar con rúbrica.,,,,,1/4,1;2;4,False,False,revision_manual,respuestas/CQ-01.txt
+CQ-02,propiedades_periodicas,conceptual,Tendencia de un átomo a atraer electrones en un enlace; aumenta hacia la derecha en un periodo y disminuye hacia abajo en un grupo. Calificar con rúbrica.,,,,,1/4,2;3;4,False,False,revision_manual,respuestas/CQ-02.txt
+CQ-03,estados_oxidacion,conceptual,Carga aparente de un átomo en un compuesto suponiendo enlaces iónicos; sirve para balancear reacciones redox y nombrar compuestos. Calificar con rúbrica.,,,,,0/4,1;2;3;4,False,False,revision_manual,respuestas/CQ-03.txt
+CQ-04,reacciones_quimicas,conceptual,Igualar el número de átomos de cada elemento en reactivos y productos para cumplir la conservación de la masa. Calificar con rúbrica.,,,,,0/4,1;2;3;4,False,False,revision_manual,respuestas/CQ-04.txt

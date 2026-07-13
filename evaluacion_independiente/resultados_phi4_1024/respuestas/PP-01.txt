@@ -1,0 +1,52 @@
+### 1. Fundamento químico del problema
+
+El radio atómico es una propiedad periódica que mide la distancia aproximada entre el núcleo y la última capa electrónica de un átomo en su estado gaseoso neutro. En la tabla periódica, el radio atómico presenta tendencias claras al moverse en dirección horizontal (de izquierda a derecha) y vertical (de arriba hacia abajo).
+
+### 2. Información proporcionada
+
+Los tres elementos dados son:
+
+\[
+\mathrm{Na}, \quad \mathrm{Mg}, \quad \mathrm{Cl}
+\]
+
+Estos elementos pertenecen al tercer período de la tabla periódica.
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de mayor a menor radio atómico los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Cl}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Tendencias periódicas del radio atómico:
+
+- **De izquierda a derecha (en el mismo periodo):** El radio atómico disminuye porque los electrones se agregan a la misma capa, pero el núcleo gana protones y aumenta su carga nuclear, atrayendo más fuertemente a los electrones hacia sí mismo.
+- **De arriba hacia abajo (en el mismo grupo):** El radio atómico aumenta porque se agregan nuevos niveles cuánticos, lo que sitúa a los electrones más alejados del núcleo.
+
+### 5. Aplicación de los datos
+
+Los tres elementos se encuentran en el mismo periodo (período 3). Por lo tanto, se aplica la tendencia horizontal: a medida que se avanza de izquierda a derecha, el radio atómico disminuye.
+
+### 6. Resolución paso a paso
+
+Se identifica el orden de los elementos en el periodo 3:
+
+\[
+\mathrm{Na} \rightarrow \mathrm{Mg} \rightarrow \mathrm{Cl}
+\]
+
+Dado que el radio atómico disminuye de izquierda a derecha, el orden de mayor a menor radio atómico es el orden inverso de su ubicación en la tabla:
+
+\[
+\boxed{\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}}
+\]
+
+### 8. Conclusión
+
+El orden \(\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}\) refleja la tendencia periódica horizontal del radio atómico en el tercer período. El sodio tiene el radio más grande porque sus electrones de valencia están menos atraídos por el núcleo en comparación con el magnesio y el cloro, que se encuentran más a la derecha en la tabla.

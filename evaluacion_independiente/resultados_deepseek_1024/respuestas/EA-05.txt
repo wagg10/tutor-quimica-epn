@@ -1,0 +1,33 @@
+Para determinar el número de neutrones del ion Fe3+, seguimos estos pasos:
+
+1. **Identificar el número atómico (Z):** El hierro tiene número atómico \(Z = 26\).
+
+2. **Identificar el número másico (A):** El hierro tiene número másico \(A = 56\).
+
+3. **Calcular el número de electrones del ion:** Como el ion es \(\mathrm{Fe^{3+}}\), el hierro perdió 3 electrones. Por lo tanto, el número de electrones es:
+   \[
+   e^- = 26 - 3 = 23
+   \]
+
+4. **Aplicar la relación fundamental:** El número de neutrones se calcula mediante:
+   \[
+   A = Z + n_0
+   \]
+
+5. **Sustituir los valores conocidos:**
+   \[
+   56 = 26 + n_0
+   \]
+
+6. **Despejar el número de neutrones:**
+   \[
+   n_0 = 56 - 26
+   \]
+   \[
+   n_0 = 30
+   \]
+
+**Respuesta final:**
+\[
+\boxed{n_0 = 30}
+\]

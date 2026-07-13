@@ -1,0 +1,75 @@
+### 1. Fundamento químico del problema
+
+Para determinar el estado de oxidación de un elemento en un compuesto, se aplican las reglas de asignación de números de oxidación. En ácidos oxácidos, el hidrógeno generalmente tiene estado de oxidación $+1$ y el oxígeno generalmente tiene estado de oxidación $-2$.
+
+### 2. Información proporcionada
+
+El compuesto analizado es el ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4}
+\]
+
+El elemento a determinar es el azufre.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del azufre en el ácido sulfúrico.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un compuesto neutro, la suma de los estados de oxidación debe ser igual a cero:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se asignan los estados de oxidación conocidos:
+
+\[
+\mathrm{H} = +1
+\]
+
+\[
+\mathrm{O} = -2
+\]
+
+Sea $x$ el estado de oxidación del azufre:
+
+\[
+\mathrm{S} = x
+\]
+
+### 6. Resolución paso a paso
+
+Se plantea la ecuación de balance de estados de oxidación:
+
+\[
+2(+1) + x + 4(-2) = 0
+\]
+
+Se resuelve paso a paso:
+
+\[
+2 + x - 8 = 0
+\]
+
+\[
+x - 6 = 0
+\]
+
+\[
+x = +6
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{S} = +6}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del azufre en el ácido sulfúrico es $+6$, porque al asignar los estados de oxidación del hidrógeno y oxígeno, el azufre debe tener un valor positivo alto para que la suma total de los estados de oxidación sea igual a cero.

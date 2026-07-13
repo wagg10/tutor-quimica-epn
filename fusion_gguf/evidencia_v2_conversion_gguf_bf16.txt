@@ -1,0 +1,12 @@
+EVIDENCIA V.2 - MODELO CONVERTIDO A GGUF BF16
+Fecha:
+vie 26 jun 2026 15:38:10 -05
+
+Archivo GGUF generado:
+-rw-rw-r-- 1 lasinac lasinac 28G jun 26 14:36 /home/lasinac/Quimica/phi4_quimica_v2_BF16.gguf
+
+Tamaño del archivo:
+28G	/home/lasinac/Quimica/phi4_quimica_v2_BF16.gguf
+
+Comando utilizado para la conversión:
+python3 convert_hf_to_gguf.py /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean --outfile /home/lasinac/Quimica/phi4_quimica_v2_BF16.gguf --outtype bf16

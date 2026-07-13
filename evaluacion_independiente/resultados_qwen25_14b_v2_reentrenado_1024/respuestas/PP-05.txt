@@ -1,0 +1,51 @@
+### 1. Fundamento químico del problema
+
+La energía de ionización aumenta de izquierda a derecha y de abajo hacia arriba en la tabla periódica. Esto ocurre porque, al desplazarse hacia la derecha, los núcleos tienen mayor carga positiva y, al desplazarse hacia arriba, los electrones están más cerca del núcleo.
+
+### 2. Información proporcionada
+
+Elementos: Na, Mg y Cl.
+
+### 3. Lo que se debe determinar
+
+Ordenar de menor a mayor energía de ionización los elementos Na, Mg y Cl.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La energía de ionización aumenta de izquierda a derecha y de abajo hacia arriba en la tabla periódica.
+
+### 5. Aplicación de los datos
+
+Na y Mg pertenecen al mismo grupo IA, por lo tanto, se comparan por fila horizontal.
+
+Cl pertenece al grupo VIIA, por lo tanto, se compara por columna vertical.
+
+### 6. Resolución paso a paso
+
+Primero, se comparan Na y Mg:
+
+\[
+\mathrm{Na} < \mathrm{Mg}
+\]
+
+Luego, se compara el elemento Cl con Na y Mg:
+
+\[
+\mathrm{Cl} > \mathrm{Na}, \quad \mathrm{Cl} > \mathrm{Mg}
+\]
+
+Por lo tanto, el orden de menor a mayor energía de ionización es:
+
+\[
+\mathrm{Na} < \mathrm{Mg} < \mathrm{Cl}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na} < \mathrm{Mg} < \mathrm{Cl}}
+\]
+
+### 8. Conclusión
+
+El orden es \(\mathrm{Na} < \mathrm{Mg} < \mathrm{Cl}\), porque al desplazarse hacia la derecha en el grupo IA, el Mg tiene mayor carga nuclear que el Na, y el Cl tiene mayor carga nuclear que el Na y el Mg.

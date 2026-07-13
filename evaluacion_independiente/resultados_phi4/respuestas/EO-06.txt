@@ -1,0 +1,79 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación permite cuantificar la carga aparente que tiene un átomo en una molécula o ion poliatómico. Para determinar el estado de oxidación de un elemento en un compuesto, se aplica la regla de que la suma de todos los estados de oxidación debe ser igual a la carga total del compuesto.
+
+### 2. Información proporcionada
+
+El compuesto analizado es el ácido nítrico:
+
+\[
+\mathrm{HNO_3}
+\]
+
+El ácido nítrico es una molécula neutra, por lo tanto:
+
+\[
+\text{Carga total} = 0
+\]
+
+El hidrógeno, en la mayoría de sus compuestos, tiene estado de oxidación:
+
+\[
+\mathrm{H} = +1
+\]
+
+El oxígeno, en la mayoría de sus compuestos, tiene estado de oxidación:
+
+\[
+\mathrm{O} = -2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el ácido nítrico:
+
+\[
+\mathrm{NO_3}
+\]
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La suma de los estados de oxidación en un compuesto neutro es igual a cero:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+Para el ácido nítrico:
+
+\[
+\mathrm{EO}_{\mathrm{H}} + \mathrm{EO}_{\mathrm{N}} + 3(\mathrm{EO}_{\mathrm{O}}) = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos:
+
+\[
+(+1) + \mathrm{EO}_{\mathrm{N}} + 3(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
++1 + \mathrm{EO}_{\mathrm{N}} - 6 = 0
+\]
+
+\[
+\mathrm{EO}_{\mathrm{N}} - 5 = 0
+\]
+
+\[
+\mathrm{EO}_{\mathrm{N}} = +5
+\]
+
+### 7. Resultado obtenido
+
+\

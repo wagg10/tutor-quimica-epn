@@ -1,0 +1,23 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica es la distribución ordenada de los electrones de un átomo o ion en sus orbitales de menor a mayor energía. Esta distribución se fundamenta en las reglas de Aufbau, Hund y Pauli, y permite predecir propiedades químicas y físicas de los elementos.
+
+### 2. Información proporcionada
+
+El enunciado es una pregunta conceptual que solicita la definición de configuración electrónica y su utilidad para entender la tabla periódica.
+
+### 3. Lo que se debe determinar
+
+Se debe explicar qué es la configuración electrónica y por qué es útil para entender la tabla periódica.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La configuración electrónica se expresa mediante notación de orbitales (\(1s^2\), \(2s^2\), \(2p^6\), etc.) y se relaciona con el número atómico \(Z\). La tabla periódica se organiza en orden creciente de \(Z\), por lo que la configuración electrónica refleja la estructura interna de los átomos.
+
+### 5. Aplicación de los datos
+
+Se aplica el concepto de configuración electrónica a la organización de la tabla periódica, explicando que los elementos se ordenan por su número atómico y que sus configuraciones reflejan sus propiedades químicas.
+
+### 6. Resolución paso a paso
+
+La configuración electrónica permite conocer la distribución de los electrones de un átomo en sus orbitales de menor a mayor energía. Esta distribución se expresa mediante notación de orbitales (\(1s^2\), \(2s^2\), \(2p^6\), etc.) y se fundamenta en las reglas de Aufbau, Hund y Pauli. La tabla periódica se organiza en orden creciente de número atómico \(Z\), por lo que la configuración electrónica refleja la estructura interna de los átomos y permite predecir propiedades químicas y físicas. Por ejemplo, los elementos del mismo grupo tienen configuraciones electrónicas similares en su capa de valencia, lo que explica sus comportamientos químicos aná

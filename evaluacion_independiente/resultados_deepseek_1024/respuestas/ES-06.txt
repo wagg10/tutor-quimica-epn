@@ -1,0 +1,63 @@
+Para calcular la masa molar de la glucosa, C6H12O6, se suman las masas atómicas de todos los átomos presentes en la fórmula.
+
+**Paso 1: Identificar los elementos y sus cantidades en la fórmula.**
+
+La glucosa tiene la fórmula molecular:
+
+\[
+\mathrm{C_6H_{12}O_6}
+\]
+
+**Paso 2: Asignar los valores de masa atómica.**
+
+Se usan los valores de masa atómica estándar:
+
+\[
+C = 12,01 \, \text{g/mol}
+\]
+
+\[
+H = 1,008 \, \text{g/mol}
+\]
+
+\[
+O = 16,00 \, \text{g/mol}
+\]
+
+**Paso 3: Calcular la contribución de cada elemento.**
+
+Para el carbono:
+
+\[
+6 \times 12,01 = 72,06 \, \text{g/mol}
+\]
+
+Para el hidrógeno:
+
+\[
+12 \times 1,008 = 12,096 \, \text{g/mol}
+\]
+
+Para el oxígeno:
+
+\[
+6 \times 16,00 = 96,00 \, \text{g/mol}
+\]
+
+**Paso 4: Sumar las contribuciones de todos los elementos.**
+
+\[
+72,06 + 12,096 + 96,00 = 180,156 \, \text{g/mol}
+\]
+
+**Paso 5: Redondear el resultado a dos decimales.**
+
+\[
+180,156 \approx 180,16 \, \text{g/mol}
+\]
+
+**Respuesta final:**
+
+\[
+\boxed{180,16 \, \text{g/mol}}
+\]

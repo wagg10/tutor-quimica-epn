@@ -1,0 +1,23 @@
+El número másico \(A\) representa la cantidad total de partículas nucleares, es decir, protones y neutrones.
+
+Para calcularlo, sumamos el número de protones y el número de neutrones:
+
+\[
+A = \#p^+ + \#n^0
+\]
+
+Dado que el átomo tiene 17 protones y 18 neutrones:
+
+\[
+A = 17 + 18
+\]
+
+\[
+A = 35
+\]
+
+Por lo tanto, el número másico es:
+
+\[
+\boxed{A = 35}
+\]

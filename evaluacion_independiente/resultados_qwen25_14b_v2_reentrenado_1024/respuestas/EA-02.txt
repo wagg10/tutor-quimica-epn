@@ -1,0 +1,71 @@
+### 1. Fundamento químico del problema
+
+El número másico \(A\) representa la cantidad total de partículas nucleares (protones y neutrones) presentes en el núcleo de un átomo.
+
+### 2. Información proporcionada
+
+El átomo tiene:
+
+\[
+17 \text{ protones}
+\]
+
+\[
+18 \text{ neutrones}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número másico \(A\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El número másico se obtiene sumando el número de protones y el número de neutrones:
+
+\[
+A = Z + N
+\]
+
+donde:
+
+\[
+Z = \text{número de protones}
+\]
+
+\[
+N = \text{número de neutrones}
+\]
+
+### 5. Aplicación de los datos
+
+Sustituimos los valores dados:
+
+\[
+A = 17 + 18
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la suma:
+
+\[
+A = 35
+\]
+
+Verificación aritmética obligatoria:
+
+\[
+17 + 18 = 35
+\]
+
+La suma es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{A = 35}
+\]
+
+### 8. Conclusión
+
+El número másico es 35 porque el átomo contiene 17 protones y 18 neutrones, y la suma de estas partículas nucleares da 35.

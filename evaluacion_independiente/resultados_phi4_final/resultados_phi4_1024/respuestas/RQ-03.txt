@@ -1,0 +1,89 @@
+### 1. Fundamento químico del problema
+
+La combustión completa de hidrocarburos se rige por una reacción química en la que el hidrocarburo reacciona con oxígeno molecular para producir dióxido de carbono y agua. Para poder realizar cálculos estequiométricos, la ecuación química debe estar balanceada, cumpliendo la ley de conservación de la masa.
+
+### 2. Información proporcionada
+
+Ecuación química de combustión incompleta:
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+Compuesto objetivo: oxígeno molecular (\(\mathrm{O_2}\)).
+
+### 3. Lo que se debe determinar
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) en la ecuación química balanceada.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Balanceo de ecuación química por tanteo:
+
+- Cada átomo de carbono en el reactivo debe aparecer en el producto.
+- Cada átomo de hidrógeno en el reactivo debe aparecer en el producto.
+- Finalmente, se ajusta el oxígeno en el reactivo.
+
+### 5. Aplicación de los datos
+
+Se asignan coeficientes de tanteo a los compuestos de la ecuación:
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+### 6. Resolución paso a paso
+
+**Paso 1: Balancear los átomos de carbono.**
+
+El reactivo \(\mathrm{C_3H_8}\) contiene 3 átomos de carbono. Para balancear el carbono, se asigna un coeficiente 3 al producto \(\mathrm{CO_2}\):
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow 3CO_2 + H_2O}
+\]
+
+**Paso 2: Balancear los átomos de hidrógeno.**
+
+El reactivo \(\mathrm{C_3H_8}\) contiene 8 átomos de hidrógeno. Para balancear el hidrógeno, se asigna un coeficiente 4 al producto \(\mathrm{H_2O}\):
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow 3CO_2 + 4H_2O}
+\]
+
+**Paso 3: Balancear los átomos de oxígeno.**
+
+Se cuentan los átomos de oxígeno en los productos:
+
+- \(\mathrm{CO_2}\): \(3 \times 2 = 6\) átomos de oxígeno.
+- \(\mathrm{H_2O}\): \(4 \times 1 = 4\) átomos de oxígeno.
+- Total de oxígeno en productos: \(6 + 4 = 10\) átomos.
+
+Para balancear los 10 átomos de oxígeno en los productos, se asigna un coeficiente 5 al reactivo \(\mathrm{O_2}\), porque \(5 \times 2 = 10\):
+
+\[
+\mathrm{C_3H_8 + 5O_2 \rightarrow 3CO_2 + 4H_2O}
+\]
+
+**Verificación Aritmética:**
+
+- Carbono: \(3 = 3\).
+- Hidrógeno: \(8 = 8\).
+- Oxígeno: \(5 \times 2 = 10\) en reactivos; \(3 \times 2 + 4 \times 1 = 6 + 4 = 10\) en productos.
+
+La ecuación está balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{C_3H_8 + 5O_2 \rightarrow 3CO_2 + 4H_2O}}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es:
+
+\[
+\boxed{5}
+\]
+
+### 8. Conclusión
+
+El coeficiente 5 del \(\mathrm{O_2}\) indica que se requieren 5 moles de oxígeno molecular para consumir completamente 1 mol de propano. Este balanceo es fundamental para determinar las relaciones estequiométricas y calcular cantidades en reacciones de combustión.

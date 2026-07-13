@@ -1,0 +1,8 @@
+total 32K
+drwxrwxr-x  4 lasinac lasinac 4,0K jul  6 19:19 .
+drwxrwxr-x 14 lasinac lasinac 4,0K jul  6 19:21 ..
+drwxrwxr-x  2 lasinac lasinac 4,0K jul  6 19:15 respuestas
+-rw-rw-r--  1 lasinac lasinac 5,4K jul  6 19:15 resultados_detalle.csv
+drwxrwxr-x  3 lasinac lasinac 4,0K jul  6 19:19 resultados_phi4_1024
+-rw-rw-r--  1 lasinac lasinac  340 jul  6 19:15 resultados_por_eje.csv
+-rw-rw-r--  1 lasinac lasinac 1,3K jul  6 19:15 resumen_resultados.md

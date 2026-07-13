@@ -1,0 +1,46 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se calcula sumando las masas atómicas de todos los átomos que componen una fórmula química. Para el hidróxido de calcio, \(\mathrm{Ca(OH)_2}\), se deben considerar los elementos calcio, oxígeno y hidrógeno, multiplicando las masas atómicas por sus respectivos subíndices.
+
+### 2. Información proporcionada
+
+- Compuesto: hidróxido de calcio, \(\mathrm{Ca(OH)_2}\)
+- Masas atómicas:
+  - Calcio (Ca): \(40,08 \, \mathrm{g/mol}\)
+  - Oxígeno (O): \(16,00 \, \mathrm{g/mol}\)
+  - Hidrógeno (H): \(1,008 \, \mathrm{g/mol}\)
+
+### 3. Lo que se debe determinar
+
+La masa molar del hidróxido de calcio, \(\mathrm{Ca(OH)_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar de un compuesto se calcula con la siguiente expresión:
+
+\[
+PM = \sum (PA_i \cdot n_i)
+\]
+
+donde \(PA_i\) es la masa atómica del elemento \(i\) y \(n_i\) es el número de átomos de ese elemento en la fórmula.
+
+### 5. Aplicación de los datos
+
+Para el compuesto \(\mathrm{Ca(OH)_2}\), se identifican los elementos y sus subíndices:
+
+- Calcio (Ca): subíndice 1
+- Oxígeno (O): subíndice 2
+- Hidrógeno (H): subíndice 2
+
+Se sustituyen los valores en la expresión:
+
+\[
+PM = (40,08 \cdot 1) + (16,00 \cdot 2) + (1,008 \cdot 2)
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelven los productos parciales:
+
+- Calcio: \(40,08 \, \mathrm{g/mol}\)
+- Oxígeno: \(16,00 \cdot 

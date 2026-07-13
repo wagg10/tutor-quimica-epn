@@ -1,0 +1,6 @@
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.tar.gz
+__pycache__/

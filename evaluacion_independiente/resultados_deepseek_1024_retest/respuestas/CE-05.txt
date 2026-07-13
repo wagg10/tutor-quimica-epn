@@ -1,0 +1,77 @@
+El sodio tiene número atómico 11, por lo tanto, un átomo neutro de sodio tiene 11 electrones. El ion Na+ se forma cuando el átomo de sodio pierde 1 electrón. Por lo tanto, el ion Na+ tiene 10 electrones.
+
+La configuración electrónica del sodio neutro es:
+
+\[
+\mathrm{Na}: 1s^2\,2s^2\,2p^6\,3s^1
+\]
+
+Al perder 1 electrón, el electrón que se pierde corresponde al nivel más externo, que es el orbital \(3s^1\). Por lo tanto, la configuración electrónica del ion Na+ queda:
+
+\[
+\mathrm{Na^+}: 1s^2\,2s^2\,2p^6
+\]
+
+Esta configuración corresponde a un gas noble, el helio, y muestra que el ion Na+ tiene 10 electrones.
+</think>
+
+### 1. Fundamento químico del problema
+
+El sodio tiene número atómico 11, por lo tanto, un átomo neutro de sodio tiene 11 electrones. El ion Na+ se forma cuando el átomo de sodio pierde 1 electrón. Por lo tanto, el ion Na+ tiene 10 electrones.
+
+### 2. Información proporcionada
+
+- Elemento: sodio, \(\mathrm{Na}\)
+- Número atómico: \(Z = 11\)
+- Tipo de especie: catión
+- Carga: \(+1\)
+- Electrones del átomo neutro: 11
+- Electrones del ion: 10
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del ion \(\mathrm{Na^+}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El ion \(\mathrm{Na^+}\) se forma cuando el átomo de sodio pierde 1 electrón. Por lo tanto, se debe restar 1 electrón de la configuración electrónica del sodio neutro.
+
+### 5. Aplicación de los datos
+
+La configuración electrónica del sodio neutro es:
+
+\[
+\mathrm{Na}: 1s^2\,2s^2\,2p^6\,3s^1
+\]
+
+Al perder 1 electrón, el electrón que se pierde corresponde al nivel más externo, que es el orbital \(3s^1\). Por lo tanto, la configuración electrónica del ion Na+ queda:
+
+\[
+\mathrm{Na^+}: 1s^2\,2s^2\,2p^6
+\]
+
+### 6. Resolución paso a paso
+
+La configuración electrónica del sodio neutro es:
+
+\[
+\mathrm{Na}: 1s^2\,2s^2\,2p^6\,3s^1
+\]
+
+Al perder 1 electrón, el electrón que se pierde corresponde al nivel más externo, que es el orbital \(3s^1\). Por lo tanto, la configuración electrónica del ion Na+ queda:
+
+\[
+\mathrm{Na^+}: 1s^2\,2s^2\,2p^6
+\]
+
+Esta configuración corresponde a un gas noble, el helio, y muestra que el ion Na+ tiene 10 electrones.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na^+}: 1s^2\,2s^2\,2p^6}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del ion \(\mathrm{Na^+}\) es \(1s^2\,2s^2\,2p^6\), porque el sodio neutro tiene 11 electrones y el ion Na+ pierde 1 electrón.

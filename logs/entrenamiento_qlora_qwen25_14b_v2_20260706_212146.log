@@ -1,0 +1,32 @@
+2026-07-06 21:21:46,834 [INFO] ================================================================================
+2026-07-06 21:21:46,834 [INFO]  TUTOR LLM QUÍMICA v2 - QLORA - QWEN2.5 14B INSTRUCT
+2026-07-06 21:21:46,834 [INFO]  Inicio: 20260706_212146
+2026-07-06 21:21:46,834 [INFO]  Dataset: 684 ejercicios corregidos con formato de 8 encabezados
+2026-07-06 21:21:46,834 [INFO] ================================================================================
+2026-07-06 21:21:47,041 [INFO] GPU detectada: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 32.57, 'vram_usada_gb': 1.09, 'compute_capability': '12.0'}
+2026-07-06 21:21:47,041 [INFO] Configuración guardada en: ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado/configuracion_entrenamiento.json
+2026-07-06 21:21:47,041 [INFO] Validando dataset en: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-07-06 21:21:47,054 [INFO] ============================================================
+2026-07-06 21:21:47,054 [INFO] REPORTE DE VALIDACIÓN
+2026-07-06 21:21:47,054 [INFO] ============================================================
+2026-07-06 21:21:47,054 [INFO] Total ejemplos              : 684
+2026-07-06 21:21:47,054 [INFO] Errores de estructura       : 0
+2026-07-06 21:21:47,054 [INFO] Sin 8 encabezados completos : 3
+2026-07-06 21:21:47,055 [INFO] Con LaTeX prohibido         : 0
+2026-07-06 21:21:47,055 [INFO] Con código Python           : 0
+2026-07-06 21:21:47,055 [INFO] ============================================================
+2026-07-06 21:21:47,055 [INFO] ✅ Dataset apto para entrenamiento
+2026-07-06 21:21:47,055 [INFO] Cargando dataset desde: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-07-06 21:21:47,502 [INFO] HTTP Request: HEAD https://s3.amazonaws.com/datasets.huggingface.co/datasets/datasets/json/json.py "HTTP/1.1 200 OK"
+2026-07-06 21:21:47,525 [INFO] Dataset dividido → Train: 615 | Validación: 69
+2026-07-06 21:21:47,526 [INFO] ============================================================
+2026-07-06 21:21:47,526 [INFO] PLAN DE ENTRENAMIENTO
+2026-07-06 21:21:47,526 [INFO] ============================================================
+2026-07-06 21:21:47,526 [INFO]   Batch efectivo            : 8
+2026-07-06 21:21:47,526 [INFO]   Steps por época           : 76
+2026-07-06 21:21:47,526 [INFO]   Total steps               : 304
+2026-07-06 21:21:47,526 [INFO]   Warmup steps              : 15
+2026-07-06 21:21:47,526 [INFO]   Evaluaciones por época    : ~4
+2026-07-06 21:21:47,526 [INFO]   Checkpoints por época     : ~2
+2026-07-06 21:21:47,526 [INFO] ============================================================
+2026-07-06 21:21:47,526 [INFO] Cargando tokenizador: /home/lasinac/Quimica/modelos/Qwen2.5-14B-Instruct

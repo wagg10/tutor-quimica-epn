@@ -1,0 +1,69 @@
+### 1. Fundamento químico del problema
+
+Para resolver este ejercicio se aplica el principio de la estequiometría, que permite relacionar las cantidades de reactivos y productos en una reacción química balanceada. La ecuación debe cumplir la ley de conservación de la masa, por lo que los coeficientes estequiométricos se determinan igualando el número de átomos de cada elemento en ambos miembros de la reacción.
+
+### 2. Información proporcionada
+
+Ecuación química inorgánica de síntesis:
+
+\[
+\mathrm{N_2 + H_2 \rightarrow NH_3}
+\]
+
+### 3. Lo que se debe determinar
+
+El coeficiente estequiométrico del producto \(\mathrm{NH_3}\) en la ecuación balanceada.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Balanceo de la ecuación química por simple inspección:
+
+\[
+\mathrm{N_2 + 3H_2 \rightarrow 2NH_3}
+\]
+
+### 5. Aplicación de los datos
+
+Se igualan los átomos de nitrógeno y luego los de hidrógeno para balancear la ecuación.
+
+### 6. Resolución paso a paso
+
+Se escribe la ecuación desbalanceada:
+
+\[
+\mathrm{N_2 + H_2 \rightarrow NH_3}
+\]
+
+Se observa que el nitrógeno aparece como \(\mathrm{N_2}\) en el miembro reactivo, por lo que se coloca un coeficiente 2 en el producto \(\mathrm{NH_3}\) para equilibrar los átomos de nitrógeno:
+
+\[
+\mathrm{N_2 + H_2 \rightarrow 2NH_3}
+\]
+
+Ahora se cuentan los átomos de hidrógeno en el miembro producto: \(2 \times 3 = 6\). Por lo tanto, se coloca un coeficiente 3 en el reactivo \(\mathrm{H_2}\):
+
+\[
+\mathrm{N_2 + 3H_2 \rightarrow 2NH_3}
+\]
+
+Se verifica el balance de la ecuación:
+
+\[
+\mathrm{LHS: \quad N=2,\quad H=6}
+\]
+
+\[
+\mathrm{RHS: \quad N=2,\quad H=6}
+\]
+
+La ecuación está balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{coeficiente del } \mathrm{NH_3} \text{ es } 2}
+\]
+
+### 8. Conclusión
+
+El coeficiente estequiométrico del \(\mathrm{NH_3}\) es 2, lo que indica que se forman 2 moles de amoníaco por cada 1 mol de nitrógeno y 3 moles de hidrógeno que reaccionan. Este balance permite calcular las masas o moles de producto formados a partir de las cantidades de reactivos en cualquier proceso de síntesis.

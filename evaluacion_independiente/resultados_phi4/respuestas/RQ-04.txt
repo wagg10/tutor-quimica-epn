@@ -1,0 +1,60 @@
+### 1. Fundamento químico del problema
+
+Para balancear una reacción química, se deben ajustar los coeficientes estequiométricos de forma que se cumpla la ley de conservación de la masa. En este ejercicio, la ecuación presenta un metal reaccionando con un elemento gaseoso para formar un óxido.
+
+### 2. Información proporcionada
+
+La ecuación química inorgánica es:
+
+\[
+\mathrm{Fe} + \mathrm{O_2} \rightarrow \mathrm{Fe_2O_3}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico correspondiente al reactivo \(\mathrm{O_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para balancear la ecuación, se igualan los átomos de cada elemento en ambos miembros de la reacción.
+
+### 5. Aplicación de los datos
+
+Se escribe la ecuación con coeficientes estequiométricos desconocidos:
+
+\[
+a\,\mathrm{Fe} + b\,\mathrm{O_2} \rightarrow c\,\mathrm{Fe_2O_3}
+\]
+
+Se plantean las ecuaciones de balance para cada elemento:
+
+\[
+\text{Fe: } a = 2c
+\]
+
+\[
+\text{O: } 2b = 3c
+\]
+
+### 6. Resolución paso a paso
+
+Se elige el valor entero más pequeño para \(c\). Tomando \(c = 1\):
+
+\[
+a = 2(1) = 2
+\]
+
+\[
+2b = 3(1) \implies b = \frac{3}{2}
+\]
+
+Como el coeficiente \(b\) es fraccionario, se multiplica toda la ecuación por 2 para eliminar la fracción:
+
+\[
+2a\,\mathrm{Fe} + 2b\,\mathrm{O_2} \rightarrow 2c\,\mathrm{Fe_2O_3}
+\]
+
+Sustituyendo los valores:
+
+\[
+4\,\mathrm{Fe} + 3\,\mathrm{O_2} \rightarrow 2\,\mathrm

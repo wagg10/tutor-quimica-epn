@@ -1,0 +1,69 @@
+### 1. Fundamento químico del problema
+
+Para convertir una masa en moles, se aplica la relación fundamental entre masa, masa molar y número de moles. La masa molar es la masa de una sustancia en gramos por cada mol de partículas.
+
+### 2. Información proporcionada
+
+Masa de la sustancia:
+
+\[
+m = 88 \, \mathrm{g}
+\]
+
+Compuesto:
+
+\[
+\mathrm{CO_2}
+\]
+
+Masa molar del \(\mathrm{CO_2}\):
+
+\[
+PM = 44,01 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar la cantidad de sustancia en moles de dióxido de carbono.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación entre masa, masa molar y número de moles es:
+
+\[
+n = \frac{m}{PM}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores de la masa y la masa molar en la fórmula:
+
+\[
+n = \frac{88 \, \mathrm{g}}{44,01 \, \mathrm{g/mol}}
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la división:
+
+\[
+n = 1,9995 \, \mathrm{mol}
+\]
+
+Verificación aritmética: la masa dividida por la masa molar da un cociente cercano a 2, lo cual es correcto.
+
+Redondeando a dos decimales:
+
+\[
+n = 2,00 \, \mathrm{mol}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{n = 2,00 \, \mathrm{mol}}
+\]
+
+### 8. Conclusión
+
+La cantidad de sustancia obtenida indica que los 88 gramos de \(\mathrm{CO_2}\) corresponden a 2 moles de moléculas de dióxido de carbono.

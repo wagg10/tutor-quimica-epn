@@ -1,0 +1,91 @@
+### 1. Fundamento químico del problema
+
+En una molécula neutra, la suma de los estados de oxidación de todos los átomos debe ser igual a cero.
+
+### 2. Información proporcionada
+
+El compuesto es dicromato de potasio:
+
+\[
+\mathrm{K_2Cr_2O_7}
+\]
+
+Los elementos presentes son:
+
+\[
+\mathrm{K}, \quad \mathrm{Cr}, \quad \mathrm{O}
+\]
+
+El potasio (\(\mathrm{K}\)) es un metal alcalino, por lo tanto, su estado de oxidación es:
+
+\[
+\mathrm{K}=+1
+\]
+
+El oxígeno (\(\mathrm{O}\)) en compuestos covalentes tiene estado de oxidación:
+
+\[
+\mathrm{O}=-2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del cromo en el dicromato de potasio (\(\mathrm{K_2Cr_2O_7}\)).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Como el compuesto es neutro:
+
+\[
+(+1)(2) + 2x + (-2)(7) = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores en la ecuación:
+
+\[
+(+1)(2) + 2x + (-2)(7) = 0
+\]
+
+\[
+2 + 2x - 14 = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se agrupan los términos constantes:
+
+\[
+2x - 12 = 0
+\]
+
+Se despeja \(x\):
+
+\[
+2x = 12
+\]
+
+\[
+x = \frac{12}{2}
+\]
+
+\[
+x = +6
+\]
+
+Por lo tanto, el estado de oxidación del cromo es:
+
+\[
+\mathrm{Cr}=+6
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Cr}=+6}
+\]
+
+### 8. Conclusión
+
+En el dicromato de potasio, el cromo tiene estado de oxidación \(+6\) porque el compuesto es neutro y al resolver la ecuación se obtiene \(x=+6\).

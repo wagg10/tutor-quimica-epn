@@ -1,0 +1,87 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química se deben igualar los átomos de cada elemento en ambos miembros de la reacción. Se asignan coeficientes enteros positivos frente a cada especie química. En este caso, se balancea el hidrógeno (H) y el oxígeno (O). Al balancear el oxígeno, se obtiene el coeficiente estequiométrico del agua (\( \mathrm{H_2O} \)).
+
+### 2. Información proporcionada
+
+Reacción química:
+
+\[
+\mathrm{H_2} + \mathrm{O_2} \rightarrow \mathrm{H_2O}
+\]
+
+Elementos a balancear: hidrógeno (H) y oxígeno (O).
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la reacción y se debe indicar el coeficiente estequiométrico del \( \mathrm{H_2O} \).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El hidrógeno se encuentra en \( \mathrm{H_2} \) y en \( \mathrm{H_2O} \). El oxígeno se encuentra en \( \mathrm{O_2} \) y en \( \mathrm{H_2O} \).
+
+### 5. Aplicación de los datos
+
+En el miembro de reactivos hay 2 átomos de hidrógeno en \( \mathrm{H_2} \) y 2 átomos de oxígeno en \( \mathrm{O_2} \).
+
+En el miembro de productos hay 2 átomos de hidrógeno en \( \mathrm{H_2O} \) y 1 átomo de oxígeno en \( \mathrm{H_2O} \).
+
+### 6. Resolución paso a paso
+
+Se asigna el coeficiente 2 al \( \mathrm{H_2} \) porque hay 2 átomos de hidrógeno en el miembro de reactivos.
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow \mathrm{H_2O}
+\]
+
+Ahora se cuentan los átomos:
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow \mathrm{H_2O}
+\]
+
+\[
+\mathrm{H}: 4 \quad \mathrm{O}: 2
+\]
+
+\[
+\mathrm{H}: 2 \quad \mathrm{O}: 1
+\]
+
+Para balancear el oxígeno, se coloca el coeficiente 2 al \( \mathrm{H_2O} \):
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+Se verifican los átomos:
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+\[
+\mathrm{H}: 4 \quad \mathrm{O}: 2
+\]
+
+\[
+\mathrm{H}: 4 \quad \mathrm{O}: 2
+\]
+
+La ecuación está balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}}
+\]
+
+El coeficiente estequiométrico del \( \mathrm{H_2O} \) es:
+
+\[
+\boxed{2}
+\]
+
+### 8. Conclusión
+
+La ecuación balanceada es \( 2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O} \). El coeficiente estequiométrico del \( \mathrm{H_2O} \) es 2, porque se forman 2 moléculas de agua por cada 2 moléculas de hidrógeno y 1 molécula de oxígeno.

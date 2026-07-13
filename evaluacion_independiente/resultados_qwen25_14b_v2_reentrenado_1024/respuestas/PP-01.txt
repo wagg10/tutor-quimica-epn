@@ -1,0 +1,41 @@
+### 1. Fundamento químico del problema
+
+Los elementos se ubican en el mismo periodo horizontal de la tabla periódica. Al avanzar hacia la derecha, aumenta el número atómico y crece la atracción nuclear. Por eso, los electrones periféricos se atraen con mayor fuerza hacia el núcleo, haciendo que el radio atómico disminuya.
+
+### 2. Información proporcionada
+
+Elementos: Na, Mg y Cl.
+
+Ubicación: Mismo periodo horizontal.
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de mayor a menor radio atómico los elementos Na, Mg y Cl.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Al avanzar hacia la derecha en un periodo, aumenta el número atómico y crece la atracción nuclear.
+
+Por eso, los electrones periféricos se atraen con mayor fuerza hacia el núcleo, haciendo que el radio atómico disminuya.
+
+### 5. Aplicación de los datos
+
+Como Na, Mg y Cl están en el mismo periodo, se ordena de mayor a menor radio atómico según su ubicación de izquierda a derecha.
+
+### 6. Resolución paso a paso
+
+El orden es:
+
+\[
+\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}}
+\]
+
+### 8. Conclusión
+
+El radio atómico disminuye de izquierda a derecha en un periodo porque aumenta la atracción nuclear.

@@ -1,0 +1,45 @@
+### 1. Fundamento químico del problema
+
+La electronegatividad es la capacidad de un átomo para atraer electrones hacia sí en un enlace químico. A mayor electronegatividad, el átomo atrae con mayor fuerza los electrones compartidos.
+
+La electronegatividad aumenta a medida que se avanza hacia la derecha en la tabla periódica, porque los elementos de transición y los no metales tienen mayor tendencia a atraer electrones hacia sí.
+
+### 2. Información proporcionada
+
+Elementos dados: F, Cl y Br.
+
+Estos elementos pertenecen a la misma familia (halógenos), por lo tanto, comparten propiedades químicas similares.
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál de los elementos F, Cl y Br tiene la mayor electronegatividad.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La electronegatividad aumenta a medida que se avanza hacia la derecha en la tabla periódica, porque los elementos de transición y los no metales tienen mayor tendencia a atraer electrones hacia sí.
+
+### 5. Aplicación de los datos
+
+Los elementos F, Cl y Br pertenecen a la misma familia (halógenos). Por lo tanto, se compara su electronegatividad según su posición vertical en la tabla periódica.
+
+### 6. Resolución paso a paso
+
+Los elementos F, Cl y Br pertenecen a la misma familia (halógenos). Por lo tanto, se compara su electronegatividad según su posición vertical en la tabla periódica.
+
+El flúor (F) se encuentra en el segundo período.
+
+El cloro (Cl) se encuentra en el tercer período.
+
+El bromo (Br) se encuentra en el cuarto período.
+
+Como el flúor (F) se encuentra más a la derecha en la tabla periódica, tiene mayor electronegatividad que el cloro (Cl) y el bromo (Br).
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{El elemento con mayor electronegatividad es el flúor (F)}}
+\]
+
+### 8. Conclusión
+
+El flúor (F) tiene mayor electronegatividad que el cloro (Cl) y el bromo (Br) porque se encuentra más a la derecha en la tabla periódica.

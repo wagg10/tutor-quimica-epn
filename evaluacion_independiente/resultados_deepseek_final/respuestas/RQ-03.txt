@@ -1,0 +1,39 @@
+Para balancear la combustión de C3H8 con O2, seguimos estos pasos:
+
+**Paso 1: Escribir la ecuación química incompleta.**
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+**Paso 2: Contar los átomos de cada elemento en reactivos y productos.**
+
+**Paso 3: Balancear el carbono (C).** Hay 3 átomos en C3H8. Colocamos un coeficiente 3 al \(\mathrm{CO_2}\):
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow 3CO_2 + H_2O}
+\]
+
+**Paso 4: Balancear el hidrógeno (H).** Hay 8 átomos en C3H8. Colocamos un coeficiente 4 al \(\mathrm{H_2O}\):
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow 3CO_2 + 2H_2O}
+\]
+
+**Paso 5: Balancear el oxígeno (O).** En productos hay \(3 \times 2 + 2 \times 1 = 8\) átomos. Colocamos un coeficiente 10 al \(\mathrm{O_2}\):
+
+\[
+\mathrm{C_3H_8 + 10O_2 \rightarrow 3CO_2 + 2H_2O}
+\]
+
+**Paso 6: Verificar el balance.**
+
+\[
+\mathrm{C: 3 = 3 \quad H: 8 = 4 \times 2 \quad O: 20 = 3 \times 2 + 2 \times 1}
+\]
+
+La ecuación está balanceada.
+
+**Respuesta final:**
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es \(\boxed{10}\).

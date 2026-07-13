@@ -1,0 +1,59 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química se igualan los átomos de cada elemento en ambos miembros de la reacción. Primero se balancean los elementos que forman sales (Al y Cl), luego el hidrógeno y finalmente el oxígeno (si hubiera). Los coeficientes estequiométricos indican las proporciones en que reaccionan las sustancias.
+
+### 2. Información proporcionada
+
+Reacción química: $ \mathrm{Al + HCl \rightarrow AlCl_3 + H_2} $
+
+Elementos a balancear: Aluminio (Al), Cloro (Cl), Hidrógeno (H).
+
+Producto final: $ \mathrm{AlCl_3} $ y $ \mathrm{H_2} $.
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la reacción y determinar el coeficiente estequiométrico del ácido clorhídrico ($ \mathrm{HCl} $).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El balanceo se realiza ajustando los coeficientes de los compuestos. Para el $ \mathrm{AlCl_3} $, se coloca un coeficiente 1 porque es una sal simple. Para el $ \mathrm{H_2} $, se coloca un coeficiente 3 porque es un gas elemental.
+
+### 5. Aplicación de los datos
+
+Se colocan los coeficientes parciales basándose en el producto:
+
+$ \mathrm{Al + HCl \rightarrow 1 AlCl_3 + 3 H_2} $
+
+### 6. Resolución paso a paso
+
+Se balancea el aluminio (Al): hay 1 átomo en reactivos y 1 en productos, por lo tanto, el coeficiente del Aluminio es 1.
+
+Se balancea el cloro (Cl): hay 1 átomo en productos (en $ \mathrm{AlCl_3} $) y se coloca un coeficiente 3 en el $ \mathrm{HCl} $ para equilibrar los 3 átomos de Cl en reactivos.
+
+Se balancea el hidrógeno (H): hay 3 átomos en reactivos (en $ \mathrm{HCl} $) y 6 átomos en productos (en $ \mathrm{3 H_2} $). Para equilibrar el hidrógeno, se coloca un coeficiente 6 en el $ \mathrm{HCl} $.
+
+La ecuación balanceada queda:
+
+$ \mathrm{2 Al + 6 HCl \rightarrow 1 AlCl_3 + 3 H_2} $
+
+Verificación de átomos:
+
+- Al: 2 en reactivos, 2 en productos.
+- Cl: 6 en reactivos, 6 en productos.
+- H: 6 en reactivos, 6 en productos.
+
+Los coeficientes son: Al = 2, HCl = 6, AlCl3 = 1, H2 = 3.
+
+### 7. Resultado obtenido
+
+La ecuación balanceada es:
+
+$ \boxed{\mathrm{2 Al + 6 HCl \rightarrow 1 AlCl_3 + 3 H_2}} $
+
+El coeficiente estequiométrico del $ \mathrm{HCl} $ es:
+
+$ \boxed{6} $
+
+### 8. Conclusión
+
+La reacción balanceada demuestra que se necesita 6 moles de ácido clorhídrico para reaccionar con 2 moles de aluminio, produciendo 1 mol de cloruro de aluminio y 3 moles de hidrógeno gaseoso. El coeficiente 6 del $ \mathrm{HCl} $ indica que se consumen 3 átomos de hidrógeno por cada átomo de aluminio reaccionante.

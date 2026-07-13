@@ -1,0 +1,75 @@
+### 1. Fundamento químico del problema
+
+Para convertir una masa a moles se utiliza la masa molar, porque la masa molar expresa la masa de un mol de una sustancia.
+
+### 2. Información proporcionada
+
+Masa de agua:
+
+\(36 \, \text{g de } \mathrm{H_2O}\)
+
+Masa molar del agua:
+
+\(18,02 \, \text{g/mol}\)
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos moles de agua hay en 36 g de \(\mathrm{H_2O}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación química necesaria es:
+
+\[
+\text{moles}
+=
+\frac{\text{masa}}
+{\text{masa molar}}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los datos en la relación:
+
+\[
+\text{moles}
+=
+\frac{36 \, \text{g}}
+{18,02 \, \text{g/mol}}
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la división:
+
+\[
+\text{moles}
+=
+1,9978 \, \text{mol}
+\]
+
+Redondeamos a dos decimales, porque la masa molar tiene dos decimales.
+
+\[
+\text{moles}
+=
+2,00 \, \text{mol}
+\]
+
+Verificación aritmética:
+
+\[
+2,00 \times 18,02 = 36,04 \, \text{g}
+\]
+
+La masa obtenida es muy cercana a 36 g, por lo tanto, el resultado es correcto.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{2,00 \, \text{mol de } \mathrm{H_2O}}
+\]
+
+### 8. Conclusión
+
+En 36 g de agua hay 2,00 moles de \(\mathrm{H_2O}\), porque la masa molar del agua es 18,02 g/mol.

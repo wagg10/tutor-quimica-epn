@@ -1,0 +1,19 @@
+### Definición
+
+El balanceo de una ecuación química consiste en ajustar los coeficientes estequiométricos de los reactivos y productos para que se cumplan las leyes de conservación de la masa y de la carga.
+
+### Explicación
+
+Se necesita balancear porque, en una reacción química, los átomos no se crean ni se destruyen, solo se reorganizan. Por lo tanto, el número de átomos de cada elemento debe ser igual en ambos lados de la ecuación.
+
+### Ejemplo
+
+La reacción de formación del agua:
+
+\[
+2H_2 + O_2 \rightarrow 2H_2O
+\]
+
+### Importancia en Química
+
+Permite predecir cuántas sustancias se forman o se consumen en una reacción, lo cual es esencial para calcular cantidades reales en laboratorios, procesos industriales y problemas de estequiometría.

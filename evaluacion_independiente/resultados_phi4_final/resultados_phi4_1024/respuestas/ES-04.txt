@@ -1,0 +1,110 @@
+### 1. Fundamento químico del problema
+
+El problema es un ejercicio estequiométrico en el que se debe determinar la cantidad de producto formado a partir de una cantidad conocida de un reactivo, considerando que el otro reactivo se encuentra en exceso. Para resolverlo se aplica la estequiometría de la ecuación balanceada y se usan las masas molares.
+
+### 2. Información proporcionada
+
+La ecuación química balanceada es:
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+Se dispone de:
+
+\[
+m_{\mathrm{H_2}} = 4\ \mathrm{g}
+\]
+
+Masas molares aproximadas:
+
+\[
+M_{\mathrm{H_2}} = 2\ \mathrm{g/mol}
+\]
+
+\[
+M_{\mathrm{H_2O}} = 18\ \mathrm{g/mol}
+\]
+
+El oxígeno se encuentra en exceso.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar la masa de agua formada en gramos.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación estequiométrica entre el reactivo y el producto es:
+
+\[
+2\ \mathrm{mol\ H_2} \rightarrow 2\ \mathrm{mol\ H_2O}
+\]
+
+Por lo tanto:
+
+\[
+\frac{\mathrm{mol\ H_2O}}{\mathrm{mol\ H_2}} = \frac{2}{2} = 1
+\]
+
+La masa molar del agua es:
+
+\[
+M_{\mathrm{H_2O}} = 18\ \mathrm{g/mol}
+\]
+
+### 5. Aplicación de los datos
+
+Primero se convierte la masa de hidrógeno a moles:
+
+\[
+n_{\mathrm{H_2}} = \frac{m_{\mathrm{H_2}}}{M_{\mathrm{H_2}}} = \frac{4\ \mathrm{g}}{2\ \mathrm{g/mol}}
+\]
+
+Luego se usan los moles de hidrógeno para calcular los moles de agua:
+
+\[
+n_{\mathrm{H_2O}} = n_{\mathrm{H_2}} \cdot \frac{2\ \mathrm{mol\ H_2O}}{2\ \mathrm{mol\ H_2}}
+\]
+
+Finalmente, se convierte los moles de agua a gramos:
+
+\[
+m_{\mathrm{H_2O}} = n_{\mathrm{H_2O}} \cdot M_{\mathrm{H_2O}}
+\]
+
+### 6. Resolución paso a paso
+
+Se calcula el número de moles de hidrógeno:
+
+\[
+n_{\mathrm{H_2}} = \frac{4\ \mathrm{g}}{2\ \mathrm{g/mol}} = 2\ \mathrm{mol}
+\]
+
+Como la relación estequiométrica es \(1\), los moles de agua formados son:
+
+\[
+n_{\mathrm{H_2O}} = 2\ \mathrm{mol} \cdot 1 = 2\ \mathrm{mol}
+\]
+
+Se calcula la masa de agua:
+
+\[
+m_{\mathrm{H_2O}} = 2\ \mathrm{mol} \cdot 18\ \mathrm{g/mol} = 36\ \mathrm{g}
+\]
+
+**Verificación Aritmética:**
+
+- La conversión de masa a moles es correcta: \(4 \div 2 = 2\).
+- La relación estequiométrica es \(1\), por lo que los moles de agua son \(2\).
+- La conversión de moles a masa es correcta: \(2 \times 18 = 36\).
+- Las unidades se mantienen consistentes: g, mol, g/mol.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{m_{\mathrm{H_2O}} = 36\ \mathrm{g}}
+\]
+
+### 8. Conclusión
+
+La masa de agua formada es \(36\ \mathrm{g}\). Este resultado es lógico porque la relación estequiométrica entre el hidrógeno y el agua es \(1\), por lo que los \(2\ \mathrm{mol}\) de \(\mathrm{H_2}\) producen exactamente \(2\ \mathrm{mol}\) de \(\mathrm{H_2O}\), cuya masa es \(36\ \mathrm{

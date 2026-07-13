@@ -1,0 +1,26 @@
+Para determinar cuántos moles hay en 88 g de dióxido de carbono (CO2), se utiliza la relación entre masa y masa molar.
+
+La fórmula para calcular moles es:
+
+\[
+n = \frac{m}{PM}
+\]
+
+Donde:
+- \(n\) = número de moles
+- \(m\) = masa de la muestra
+- \(PM\) = masa molar
+
+Sustituyendo los valores:
+
+\[
+n = \frac{88 \text{ g de CO2}}{44,01 \text{ g/mol}}
+\]
+
+\[
+n = 2,0 \text{ moles de CO2}
+\]
+
+\[
+\boxed{n = 2,0 \text{ moles de CO2}}
+\]

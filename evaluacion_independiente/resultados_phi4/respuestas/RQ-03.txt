@@ -1,0 +1,74 @@
+### 1. Fundamento químico del problema
+
+La combustión completa de hidrocarburos en oxígeno produce dióxido de carbono y agua. Para balancear la ecuación química, se ajustan los coeficientes estequiométricos de forma que se cumplan las leyes de conservación de la masa.
+
+### 2. Información proporcionada
+
+Ecuación química de combustión:
+
+\[
+\mathrm{C_3H_8 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico del \(\mathrm{O_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Balanceo de elementos por tanteo:
+
+- Carbono: \(\mathrm{C}\)
+- Hidrógeno: \(\mathrm{H}\)
+- Oxígeno: \(\mathrm{O}\)
+
+### 5. Aplicación de los datos
+
+Se asignan coeficientes de balanceo:
+
+\[
+a\,\mathrm{C_3H_8} + b\,\mathrm{O_2} \rightarrow c\,\mathrm{CO_2} + d\,\mathrm{H_2O}
+\]
+
+### 6. Resolución paso a paso
+
+Se escriben las ecuaciones de balanceo por elemento:
+
+\[
+\text{Carbono: } 3a = c
+\]
+
+\[
+\text{Hidrógeno: } 8a = 2d
+\]
+
+\[
+\text{Oxígeno: } 2b = 2c + d
+\]
+
+Se asigna el coeficiente \(a = 1\) para el propano:
+
+\[
+3(1) = c \implies c = 3
+\]
+
+\[
+8(1) = 2d \implies d = 4
+\]
+
+Se sustituyen los valores de \(c\) y \(d\) en la ecuación del oxígeno:
+
+\[
+2b = 2(3) + 4
+\]
+
+\[
+2b = 6 + 4
+\]
+
+\[
+2b = 10
+\]
+
+\[
+b = \frac

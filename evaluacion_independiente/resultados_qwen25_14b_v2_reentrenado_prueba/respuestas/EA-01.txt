@@ -1,0 +1,77 @@
+### 1. Fundamento químico del problema
+
+El número másico \(A\) representa la cantidad total de nucleones (protones y neutrones) presentes en el núcleo de un átomo.
+
+\[
+A = \#p^+ + \#n^0
+\]
+
+Cuando se conoce el número másico y el número de neutrones, se puede despejar el número de protones para determinar el número atómico \(Z\).
+
+### 2. Información proporcionada
+
+Número másico:
+
+\[
+A = 39
+\]
+
+Número de neutrones:
+
+\[
+\#n^0 = 20
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número atómico \(Z\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación fundamental es:
+
+\[
+A = \#p^+ + \#n^0
+\]
+
+Como el número atómico \(Z\) equivale al número de protones:
+
+\[
+Z = \#p^+
+\]
+
+### 5. Aplicación de los datos
+
+Sustituimos los valores dados en la ecuación:
+
+\[
+39 = \#p^+ + 20
+\]
+
+### 6. Resolución paso a paso
+
+Se despeja el número de protones:
+
+\[
+\#p^+ = 39 - 20
+\]
+
+\[
+\#p^+ = 19
+\]
+
+Como el número atómico \(Z\) equivale al número de protones:
+
+\[
+Z = 19
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{Z = 19}
+\]
+
+### 8. Conclusión
+
+El número atómico es 19 porque el átomo contiene 19 protones en su núcleo.

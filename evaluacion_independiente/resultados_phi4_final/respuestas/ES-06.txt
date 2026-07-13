@@ -1,0 +1,81 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se calcula sumando las masas molares de todos los átomos que componen su fórmula química. Para la glucosa, \(\mathrm{C_6H_{12}O_6}\), se suman los aportes de carbono, hidrógeno y oxígeno.
+
+### 2. Información proporcionada
+
+Fórmula de la glucosa:
+
+\[
+\mathrm{C_6H_{12}O_6}
+\]
+
+Masas atómicas:
+
+\[
+C = 12,01 \, \mathrm{g/mol}
+\]
+
+\[
+H = 1,008 \, \mathrm{g/mol}
+\]
+
+\[
+O = 16,00 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+La masa molar de la glucosa, expresada en \(\mathrm{g/mol}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se calcula con la fórmula:
+
+\[
+PM = \sum (n_i \cdot M_i)
+\]
+
+donde \(n_i\) es el número de átomos del elemento \(i\) y \(M_i\) es la masa atómica de ese elemento.
+
+### 5. Aplicación de los datos
+
+Para la glucosa:
+
+\[
+PM = (6 \times 12,01) + (12 \times 1,008) + (6 \times 16,00)
+\]
+
+### 6. Resolución paso a paso
+
+Se calcula el aporte de cada elemento:
+
+\[
+6 \times 12,01 = 72,06 \, \mathrm{g/mol}
+\]
+
+\[
+12 \times 1,008 = 12,096 \, \mathrm{g/mol}
+\]
+
+\[
+6 \times 16,00 = 96,00 \, \mathrm{g/mol}
+\]
+
+Luego se suman los valores:
+
+\[
+72,06 + 12,096 + 96,00 = 180,156 \, \mathrm{g/mol}
+\]
+
+Verificación aritmética: la suma de los tres términos coincide con el resultado obtenido.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 180,16 \, \mathrm{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar de la glucosa es \(180,16 \, \mathrm{g/mol}\). Este valor representa la masa de una molécula de glucosa expresada en gramos y permite convertir entre masa y cantidad de sustancia en reacciones químicas.

@@ -1,0 +1,105 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química, se debe respetar la ley de conservación de la masa. Esto significa que el número de átomos de cada elemento debe ser igual en los reactivos y en los productos. En este ejercicio, la ecuación química es:
+
+\[
+\mathrm{H_2 + O_2 \rightarrow H_2O}
+\]
+
+### 2. Información proporcionada
+
+La ecuación química inorgánica es:
+
+\[
+\mathrm{H_2 + O_2 \rightarrow H_2O}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico del \(\mathrm{H_2O}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para balancear la ecuación, se deben igualar los átomos de cada elemento:
+
+\[
+\mathrm{H_2 + O_2 \rightarrow H_2O}
+\]
+
+### 5. Aplicación de los datos
+
+Primero, se balancean los átomos de hidrógeno. En los reactivos hay 2 átomos de hidrógeno en \(\mathrm{H_2}\). En los productos, el agua \(\mathrm{H_2O}\) tiene 2 átomos de hidrógeno. Por lo tanto, el hidrógeno ya está balanceado.
+
+Luego, se balancean los átomos de oxígeno. En los reactivos hay 2 átomos de oxígeno en \(\mathrm{O_2}\). En los productos, el agua \(\mathrm{H_2O}\) tiene 1 átomo de oxígeno. Para igualar los oxígenos, se coloca un coeficiente 2 al \(\mathrm{H_2O}\):
+
+\[
+\mathrm{H_2 + O_2 \rightarrow 2H_2O}
+\]
+
+### 6. Resolución paso a paso
+
+Se revisa el balance de la ecuación:
+
+\[
+\mathrm{H_2 + O_2 \rightarrow 2H_2O}
+\]
+
+En los reactivos hay:
+
+\[
+\mathrm{H: 2}
+\]
+
+\[
+\mathrm{O: 2}
+\]
+
+En los productos hay:
+
+\[
+\mathrm{H: 2(2) = 4}
+\]
+
+\[
+\mathrm{O: 2(1) = 2}
+\]
+
+El oxígeno está balanceado, pero el hidrógeno no. Para balancear el hidrógeno, se coloca un coeficiente 2 al \(\mathrm{H_2}\):
+
+\[
+\mathrm{2H_2 + O_2 \rightarrow 2H_2O}
+\]
+
+Verificamos nuevamente:
+
+\[
+\mathrm{H: 2(2) = 4}
+\]
+
+\[
+\mathrm{O: 2 = 2(1) = 2}
+\]
+
+La ecuación química queda balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{2H_2 + O_2 \rightarrow 2H_2O}}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{H_2O}\) es:
+
+\[
+\boxed{2}
+\]
+
+### 8. Conclusión
+
+La ecuación química balanceada es:
+
+\[
+\mathrm{2H_2 + O_2 \rightarrow 2H_2O}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{H_2O}\) es 2. Esto significa que, para que la reacción se cumpla, se necesitan 2 moléculas de agua producidas por cada 1 molécula de oxígeno consumida, manteniendo la conservación de la masa.

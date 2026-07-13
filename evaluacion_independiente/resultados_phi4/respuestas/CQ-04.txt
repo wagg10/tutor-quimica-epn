@@ -1,0 +1,33 @@
+### 1. Fundamento químico del problema
+
+Balancear una ecuación química significa escribir la reacción de forma que se cumpla la ley de conservación de la masa. Esta ley establece que en una reacción química, la materia no se crea ni se destruye, solo se transforma.
+
+### 2. Información proporcionada
+
+El enunciado es conceptual y no proporciona valores numéricos ni compuestos específicos.
+
+### 3. Lo que se debe determinar
+
+Se debe explicar en qué consiste balancear una ecuación química y por qué es necesario.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El balanceo se basa en la ley de conservación de la masa, que exige que el número de átomos de cada elemento sea igual en los reactivos y en los productos.
+
+### 5. Aplicación de los datos
+
+Como el enunciado es conceptual, se aplica el principio general de balanceo sin sustituir valores numéricos.
+
+### 6. Resolución paso a paso
+
+Para balancear una ecuación química, se comparan los coeficientes estequiométricos de los reactivos y productos. Se ajustan los coeficientes hasta que el número de átomos de cada elemento sea igual en ambos lados de la ecuación. Este procedimiento permite que la ecuación refleje con exactitud la cantidad de sustancias que participan en la reacción.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Balancear una ecuación química significa ajustar los coeficientes para cumplir la ley de conservación de la masa.}}
+\]
+
+### 8. Conclusión
+
+Balancear una ecuación química es necesario porque permite conocer las proporciones en las que reaccionan los compuestos y forman los productos. Esto es fundamental para predecir cantidades, calcular rendimientos y diseñar procesos químicos de manera precisa.

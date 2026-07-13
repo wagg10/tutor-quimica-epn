@@ -1,0 +1,8 @@
+El azufre tiene número atómico \(Z = 16\), lo que indica que tiene 16 protones y, al ser un átomo neutro, también tiene 16 electrones.
+
+Para determinar los electrones de valencia, se observa que el azufre pertenece al grupo VIA de la tabla periódica, lo que indica que tiene 6 electrones de valencia.
+
+Por lo tanto, el azufre tiene 6 electrones de valencia.
+\[
+\boxed{\text{El azufre tiene 6 electrones de valencia}}
+\]

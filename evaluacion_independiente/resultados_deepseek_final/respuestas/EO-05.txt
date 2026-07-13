@@ -1,0 +1,39 @@
+Para determinar el estado de oxidación promedio del azufre en el tiosulfato de sodio (Na2S2O3), seguimos estos pasos:
+
+1. **Identificar el compuesto:** El compuesto es el tiosulfato de sodio, cuya fórmula es \(\mathrm{Na_2S_2O_3}\).
+
+2. **Asignar el estado de oxidación del sodio:** El sodio (Na) es un metal alcalino y en este compuesto presenta un estado de oxidación de \(+1\).
+
+3. **Asignar el estado de oxidación del oxígeno:** El oxígeno (O) generalmente presenta un estado de oxidación de \(-2\).
+
+4. **Establecer la ecuación de balance de cargas:** La suma de los estados de oxidación debe ser igual a cero.
+
+\[
+2(+1) + 2(S) + 3(-2) = 0
+\]
+
+5. **Sustituir los valores conocidos:**
+
+\[
+2 + 2S - 6 = 0
+\]
+
+6. **Resolver para \(S\):**
+
+\[
+2S - 4 = 0
+\]
+
+\[
+2S = 4
+\]
+
+\[
+S = +2
+\]
+
+Por lo tanto, el estado de oxidación promedio del azufre en el tiosulfato de sodio es:
+
+\[
+\boxed{+2}
+\]

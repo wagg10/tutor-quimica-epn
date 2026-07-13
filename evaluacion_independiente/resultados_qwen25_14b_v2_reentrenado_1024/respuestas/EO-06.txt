@@ -1,0 +1,83 @@
+### 1. Fundamento químico del problema
+
+En una molécula neutra, la suma de los estados de oxidación debe ser igual a cero.
+
+### 2. Información proporcionada
+
+Ácido nítrico:
+
+\[
+\mathrm{HNO_3}
+\]
+
+El hidrógeno generalmente tiene estado de oxidación positivo:
+
+\[
+\mathrm{H}=+1
+\]
+
+El oxígeno generalmente tiene estado de oxidación negativo:
+
+\[
+\mathrm{O}=-2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el ácido nítrico (\(\mathrm{HNO_3}\)).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Como el ácido nítrico es una molécula neutra, la suma de los estados de oxidación debe ser igual a cero:
+
+\[
+\mathrm{HNO_3}: (+1)+x+3(-2)=0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores en la ecuación:
+
+\[
+(+1)+x+3(-2)=0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+(+1)+x+3(-2)=0
+\]
+
+\[
+1+x-6=0
+\]
+
+\[
+x-5=0
+\]
+
+\[
+x=+5
+\]
+
+Por lo tanto, el estado de oxidación del nitrógeno en el ácido nítrico es:
+
+\[
+\mathrm{N}=+5
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{N}=+5}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del nitrógeno en el ácido nítrico es:
+
+\[
+\boxed{\mathrm{N}=+5}
+\]

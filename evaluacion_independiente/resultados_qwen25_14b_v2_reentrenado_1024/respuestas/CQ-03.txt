@@ -1,0 +1,15 @@
+### Definición
+
+El estado de oxidación (EO) es un número entero que indica la carga ficticia que tendría un átomo en una molécula o compuesto iónico, asumiendo que los electrones se transfieren completamente entre los átomos.
+
+### Explicación
+
+Este concepto fue desarrollado para describir la distribución de carga en moléculas poliatómicas y en redes cristalinas iónicas. Permite predecir la dirección de una reacción redox y asignar los agentes oxidantes y reductores.
+
+### Ejemplo
+
+En el agua, el oxígeno tiene estado de oxidación \(-2\) y el hidrógeno tiene estado de oxidación \(+1\). Estos valores reflejan la compartición de electrones en la molécula.
+
+### Importancia en Química
+
+Es fundamental para analizar reacciones redox, balancear ecuaciones químicas por medio de óxido-reducción y predecir la dirección de procesos químicos en sistemas complejos.

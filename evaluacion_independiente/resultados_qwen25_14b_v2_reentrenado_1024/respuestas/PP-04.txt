@@ -1,0 +1,93 @@
+### 1. Fundamento químico del problema
+
+La energía de ionización es la energía mínima necesaria para remover un electrón de un átomo gaseoso en su estado fundamental.
+
+\[
+\mathrm{X}_{(g)} \longrightarrow \mathrm{X^+}_{(g)} + e^- \quad \Delta H > 0
+\]
+
+Un mayor valor de energía de ionización indica que el electrón se retira con mayor dificultad.
+
+### 2. Información proporcionada
+
+Los elementos considerados son:
+
+\[
+\mathrm{Na}, \quad \mathrm{Mg}, \quad \mathrm{Al}
+\]
+
+Los datos de energía de ionización son:
+
+\[
+\mathrm{Na}: 496 \, \text{kJ/mol}
+\]
+
+\[
+\mathrm{Mg}: 738 \, \text{kJ/mol}
+\]
+
+\[
+\mathrm{Al}: 578 \, \text{kJ/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál de los elementos Na, Mg y Al tiene la menor energía de ionización.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La energía de ionización depende de la atracción electrostática entre el núcleo y el electrón.
+
+\[
+EI \propto \frac{Z}{r^2}
+\]
+
+Cuando el electrón se encuentra más cerca del núcleo, la atracción electrostática es mayor y se necesita más energía para ionizarlo.
+
+### 5. Aplicación de los datos
+
+Para Na, Mg y Al, se comparan los valores de energía de ionización:
+
+\[
+\mathrm{Na}: 496 \, \text{kJ/mol}
+\]
+
+\[
+\mathrm{Mg}: 738 \, \text{kJ/mol}
+\]
+
+\[
+\mathrm{Al}: 578 \, \text{kJ/mol}
+\]
+
+### 6. Resolución paso a paso
+
+El sodio (Na) tiene la menor energía de ionización porque su electrón de valencia está más alejado del núcleo.
+
+\[
+\mathrm{Na}: 496 \, \text{kJ/mol}
+\]
+
+El magnesio (Mg) tiene la mayor energía de ionización porque su electrón de valencia está más cerca del núcleo.
+
+\[
+\mathrm{Mg}: 738 \, \text{kJ/mol}
+\]
+
+El aluminio (Al) tiene una energía de ionización intermedia.
+
+\[
+\mathrm{Al}: 578 \, \text{kJ/mol}
+\]
+
+### 7. Resultado obtenido
+
+El elemento con menor energía de ionización es:
+
+\[
+\boxed{\mathrm{Na}}
+\]
+
+### 8. Conclusión
+
+El sodio tiene menor energía de ionización porque su electrón de valencia está más alejado del núcleo, por lo tanto, la atracción electrostática es menor y se retira con menor dificultad.

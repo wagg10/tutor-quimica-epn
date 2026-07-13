@@ -1,0 +1,97 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite conocer la distribución de los electrones de un átomo en sus orbitales de menor a mayor energía. Para un átomo neutro, el número de electrones es igual al número atómico.
+
+### 2. Información proporcionada
+
+El elemento es el cloro:
+
+\[
+\mathrm{Cl}
+\]
+
+El número atómico es:
+
+\[
+Z = 17
+\]
+
+Como se trata de un átomo neutro:
+
+\[
+e^- = 17
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del cloro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para escribir la configuración electrónica se usa el orden de llenado de orbitales:
+
+\[
+1s,\ 2s,\ 2p,\ 3s,\ 3p
+\]
+
+Para un átomo neutro:
+
+\[
+e^- = Z
+\]
+
+### 5. Aplicación de los datos
+
+Como el cloro es un átomo neutro:
+
+\[
+e^- = 17
+\]
+
+Se distribuyen los 17 electrones en el orden de llenado:
+
+\[
+1s^2
+\]
+
+\[
+2s^2
+\]
+
+\[
+2p^6
+\]
+
+\[
+3s^2
+\]
+
+\[
+3p^5
+\]
+
+### 6. Resolución paso a paso
+
+Se escribe la configuración electrónica completa:
+
+\[
+\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5
+\]
+
+Verificación aritmética:
+
+\[
+2 + 2 + 6 + 2 + 5 = 17
+\]
+
+La suma coincide con el número atómico del cloro.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del cloro es \(\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5\). Esta distribución muestra que el cloro tiene 17 electrones y su configuración terminal es \(3p^5\), lo que explica su alta electronegatividad y su tendencia a ganar un electrón para formar el anión \(\mathrm{Cl^-}\).

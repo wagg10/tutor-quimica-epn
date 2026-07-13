@@ -1,0 +1,12 @@
+Para comparar el tamaño de un átomo neutro frente a su catión, se debe considerar la pérdida de electrones.
+
+El sodio neutro, \(\mathrm{Na}\), tiene 11 electrones. Cuando pierde 1 electrón para formar el catión \(\mathrm{Na^+}\), se reduce de 11 a 10 electrones.
+
+Al perder un electrón, el catión \(\mathrm{Na^+}\) tiene menos electrones de valencia que el átomo neutro \(\mathrm{Na}\).
+
+Al tener menos electrones, el catión \(\mathrm{Na^+}\) tiene menos fuerza de atracción sobre los protones del núcleo.
+
+Por lo tanto, el átomo neutro de sodio es mayor que el ion \(\mathrm{Na^+}\).
+\[
+\boxed{\text{El átomo de Na tiene mayor radio que el ion Na+}}
+\]

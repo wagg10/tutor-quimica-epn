@@ -1,0 +1,50 @@
+### 1. Fundamento químico del problema
+
+La combustión completa de un hidrocarburo en oxígeno es una reacción química en la que el hidrocarburo se oxida para formar dióxido de carbono y agua. Para poder realizar cálculos estequiométricos, la ecuación química debe estar balanceada, porque los coeficientes estequiométricos representan las relaciones molares entre las sustancias.
+
+### 2. Información proporcionada
+
+La ecuación química inorgánica de combustión es:
+
+\[
+\mathrm{CH_4 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+El compuesto solicitado es el oxígeno molecular, \(\mathrm{O_2}\).
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico correspondiente al \(\mathrm{O_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para balancear la ecuación, se igualan los átomos de cada elemento en ambos miembros de la reacción. La ecuación debe cumplir la ley de conservación de la masa.
+
+### 5. Aplicación de los datos
+
+Se escribe la ecuación con los coeficientes estequiométricos desconocidos:
+
+\[
+a\,\mathrm{CH_4} + b\,\mathrm{O_2} \rightarrow c\,\mathrm{CO_2} + d\,\mathrm{H_2O}
+\]
+
+Se plantean las ecuaciones de balance para cada elemento:
+
+\[
+\text{Carbono: } a = c
+\]
+
+\[
+\text{Hidrógeno: } 4a = 2d
+\]
+
+\[
+\text{Oxígeno: } 2b = 2c + d
+\]
+
+### 6. Resolución paso a paso
+
+Se asignan valores para los coeficientes:
+
+- Para el carbono, se toma \(a = 1\). Entonces \(c = 1\).
+- Para el hidrógeno, se plantea \(4(1) = 2d\), por lo tanto \(d = 2

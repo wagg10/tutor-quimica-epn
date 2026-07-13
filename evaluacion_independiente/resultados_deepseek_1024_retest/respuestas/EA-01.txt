@@ -1,0 +1,48 @@
+Para determinar el número atómico \(Z\), se utiliza la relación entre el número másico \(A\), el número atómico \(Z\) y el número de neutrones \(N\):
+
+\[
+A = Z + N
+\]
+
+### 2. Información proporcionada
+
+- Número másico: \(A = 39\)
+- Número de neutrones: \(N = 20\)
+
+### 3. Lo que se debe determinar
+
+- Número atómico: \(Z\)
+
+### 4. Relaciones químicas y expresiones necesarias
+
+- Relación fundamental de la estructura atómica:
+\[
+A = Z + N
+\]
+
+### 5. Aplicación de los datos
+
+- Sustituyendo los valores conocidos:
+\[
+39 = Z + 20
+\]
+
+### 6. Resolución paso a paso
+
+- Se despeja \(Z\) restando 20 de ambos lados de la ecuación:
+\[
+Z = 39 - 20
+\]
+\[
+Z = 19
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{Z = 19}
+\]
+
+### 8. Conclusión
+
+El número atómico es 19 porque, al restar los 20 neutrones del número másico 39, se obtiene el número de protones del átomo.

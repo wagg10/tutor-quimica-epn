@@ -1,0 +1,71 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto es la suma de las masas atómicas de todos sus elementos multiplicadas por sus respectivos subíndices.
+
+### 2. Información proporcionada
+
+Compuesto: glucosa, \(\mathrm{C_6H_{12}O_6}\).
+
+Masas atómicas:
+
+\(C = 12,01\)
+
+\(H = 1,008\)
+
+\(O = 16,00\)
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa molar de la glucosa.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se obtiene con:
+
+\[
+PM = (MA_C \times \#C) + (MA_H \times \#H) + (MA_O \times \#O)
+\]
+
+### 5. Aplicación de los datos
+
+Sustituyendo los valores:
+
+\[
+PM = (12,01 \times 6) + (1,008 \times 12) + (16,00 \times 6)
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la multiplicación de cada elemento por su subíndice:
+
+\[
+PM = 72,06 + 12,096 + 96
+\]
+
+Luego se suman los productos:
+
+\[
+PM = 179,156
+\]
+
+Redondeando a dos decimales:
+
+\[
+PM = 179,16\ \text{g/mol}
+\]
+
+Verificación aritmética:
+
+\[
+72,06 + 12,096 + 96 = 179,156
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 179,16\ \text{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar de la glucosa es \(179,16\ \text{g/mol}\), porque la suma de las masas atómicas de carbono, hidrógeno y oxígeno multiplicadas por sus subíndices da \(179,16\).

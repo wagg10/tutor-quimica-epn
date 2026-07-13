@@ -1,0 +1,77 @@
+### 1. Fundamento químico del problema
+
+En una molécula neutra, la suma de los estados de oxidación de todos los átomos debe ser igual a cero.
+
+El oxígeno, en la mayoría de sus compuestos, tiene estado de oxidación \(-2\).
+
+El potasio, perteneciente al grupo IA, tiene estado de oxidación \(+1\).
+
+### 2. Información proporcionada
+
+Compuesto: permanganato de potasio.
+
+Fórmula: KMnO4.
+
+El permanganato de potasio es una molécula neutra.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del manganeso en el permanganato de potasio (KMnO4).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Como el permanganato de potasio es una molécula neutra:
+
+\[
+\sum EO = 0
+\]
+
+El oxígeno, en la mayoría de sus compuestos, tiene estado de oxidación \(-2\).
+
+El potasio, perteneciente al grupo IA, tiene estado de oxidación \(+1\).
+
+### 5. Aplicación de los datos
+
+Sea \(x\) el estado de oxidación del manganeso.
+
+Entonces:
+
+\[
+(+1) + x + 4(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+(+1) + x + 4(-2) = 0
+\]
+
+\[
+1 + x - 8 = 0
+\]
+
+\[
+x - 7 = 0
+\]
+
+\[
+x = +7
+\]
+
+Por lo tanto, el estado de oxidación del manganeso en el permanganato de potasio es:
+
+\[
+\mathrm{Mn}^{+7}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{+7}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del manganeso en el permanganato de potasio es \(+7\), porque el permanganato es una molécula neutra y el oxígeno tiene estado de oxidación \(-2\).

@@ -1,0 +1,40 @@
+### 1. Fundamento químico del problema
+
+El radio atómico se define como la distancia entre el núcleo y la última capa electrónica de un átomo en su estado gaseoso neutro. Cuando un átomo forma un catión, pierde uno o más electrones de su capa de valencia. Esta pérdida de electrones reduce la repulsión electrónica y permite que los electrones restantes se atraigan con mayor fuerza hacia el núcleo, lo que provoca una disminución en el radio atómico.
+
+### 2. Información proporcionada
+
+- Especie 1: átomo neutro de sodio, \(\mathrm{Na}\).
+- Especie 2: catión sodio, \(\mathrm{Na^+}\).
+
+### 3. Lo que se debe determinar
+
+- Identificar cuál especie tiene mayor radio atómico.
+- Explicar la diferencia de tamaño entre el átomo neutro y el catión.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+- Formación de catión: \(\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-\).
+- Relación entre pérdida de electrones y radio atómico: pérdida de electrones \(\Rightarrow\) menor repulsión electrónica \(\Rightarrow\) radio atómico más pequeño.
+
+### 5. Aplicación de los datos
+
+- El átomo neutro \(\mathrm{Na}\) tiene \(11\) electrones.
+- El catión \(\mathrm{Na^+}\) se forma cuando el sodio pierde un electrón de su capa de valencia.
+
+### 6. Resolución paso a paso
+
+- El sodio neutro tiene configuración electrónica \(\mathrm{Na}: 1s^2 2s^2 2p^6 3s^1\).
+- Al perder el electrón del subnivel \(3s\), el catión \(\mathrm{Na^+}\) queda con configuración \(1s^2 2s^2 2p^6\).
+- Al perder un electrón, el catión \(\mathrm{Na^+}\) tiene una menor repulsión electrónica en comparación con el átomo neutro \(\mathrm{Na}\).
+- Por lo tanto, los electrones restantes se atraen con mayor fuerza hacia el núcleo y el radio atómico disminuye.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Mayor radio: } \mathrm{Na} \quad ; \quad \text{Menor radio: } \mathrm{Na^+}}
+\]
+
+### 8. Conclusión
+
+El átomo neutro de sodio tiene mayor radio que el catión \(\mathrm{Na^+}\). Esto se debe a que al perder un electrón de valencia, el catión experimenta una menor repulsión electrónica, lo que permite que los electrones restantes se atraigan más fuertemente hacia el núcleo y el tamaño atómico disminuya.

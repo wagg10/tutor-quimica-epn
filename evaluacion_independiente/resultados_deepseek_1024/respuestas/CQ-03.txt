@@ -1,0 +1,15 @@
+### Definición
+
+El estado de oxidación es un número entero que representa la carga aparente que tiene un átomo dentro de una molécula o ión poliatómico.
+
+### Explicación
+
+Se utiliza para determinar la distribución de electrones y la polaridad de los enlaces. En moléculas neutras, la suma de los estados de oxidación es cero. En iones, la suma es igual al número de carga del ion.
+
+### Ejemplo
+
+En el agua, \(\mathrm{H_2O}\), el oxígeno tiene estado de oxidación \(-2\), mientras que cada hidrógeno tiene estado de oxidación \(+1\).
+
+### Importancia en Química
+
+Permite identificar los elementos que se oxidan y se reducen en una reacción redox, y se utiliza para balancear ecuaciones químicas de óxido-reducción.

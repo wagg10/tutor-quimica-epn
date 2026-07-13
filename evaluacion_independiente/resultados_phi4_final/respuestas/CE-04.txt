@@ -1,0 +1,93 @@
+### 1. Fundamento químico del problema
+
+Para determinar el número de electrones desapareados de un átomo en su estado fundamental, se escribe su configuración electrónica completa siguiendo el orden de llenado de orbitales.
+
+### 2. Información proporcionada
+
+El elemento analizado es el nitrógeno:
+
+\[
+\mathrm{N}
+\]
+
+El número atómico del nitrógeno es:
+
+\[
+Z = 7
+\]
+
+Por lo tanto, el átomo neutro de nitrógeno tiene:
+
+\[
+e^- = 7
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos electrones desapareados tiene el nitrógeno en su estado fundamental.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+Z = \#p^+ = \#e^-
+\]
+
+El orden de llenado de orbitales es:
+
+\[
+1s,\ 2s,\ 2p
+\]
+
+Para el subnivel \(p\), los orbitales se llenan siguiendo la regla de Hund:
+
+\[
+\uparrow \quad \uparrow \quad \uparrow
+\]
+
+### 5. Aplicación de los datos
+
+El nitrógeno tiene \(7\) electrones. Su configuración electrónica es:
+
+\[
+1s^2 \ 2s^2 \ 2p^3
+\]
+
+El subnivel \(2p^3\) tiene \(3\) electrones.
+
+### 6. Resolución paso a paso
+
+El subnivel \(p\) tiene tres orbitales degenerados:
+
+\[
+p_x,\ p_y,\ p_z
+\]
+
+Según la regla de Hund, los electrones se colocan primero con espines paralelos en orbitales diferentes antes de emparejarse.
+
+Para el subnivel \(2p^3\), los tres electrones se distribuyen de la siguiente manera:
+
+\[
+2p^3:
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow}
+\]
+
+Cada orbital contiene un electrón con espín paralelo.
+
+Por lo tanto, los tres electrones del subnivel \(2p^3\) son desapareados.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{3 \text{ electrones desapareados}}
+\]
+
+### 8. Conclusión
+
+El nitrógeno tiene \(3\) electrones desapareados porque su configuración electrónica en el estado fundamental es \(1s^2 \ 2s^2 \ 2p^3\), y los tres electrones del subnivel \(2p^3\) ocupan orbitales diferentes con espines paralelos.

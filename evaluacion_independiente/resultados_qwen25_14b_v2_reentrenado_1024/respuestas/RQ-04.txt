@@ -1,0 +1,69 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química se deben igualar los átomos de cada elemento en ambos miembros de la reacción. Se asignan coeficientes enteros positivos frente a cada especie química. El coeficiente estequiométrico del oxígeno indica la cantidad de moléculas o moles de O2 que se combinan con el hierro para formar óxido férrico.
+
+### 2. Información proporcionada
+
+Reacción química: Fe + O2 -> Fe2O3.
+
+Producto: óxido férrico (Fe2O3).
+
+Elementos a balancear: hierro (Fe) y oxígeno (O).
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la reacción Fe + O2 -> Fe2O3.
+
+Se debe indicar el coeficiente estequiométrico del O2.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El balanceo se realiza asignando coeficientes enteros positivos frente a cada especie química.
+
+El coeficiente estequiométrico del O2 indica la cantidad de moléculas o moles de O2 que se combinan con el hierro para formar óxido férrico.
+
+### 5. Aplicación de los datos
+
+Se asignan coeficientes enteros positivos frente a cada especie química.
+
+Se igualan los átomos de cada elemento en ambos miembros de la reacción.
+
+### 6. Resolución paso a paso
+
+Primero, se observa que el producto es Fe2O3, por lo tanto, se coloca un coeficiente 2 al Fe y un coeficiente 3 al O3.
+
+Luego, se verifican los átomos:
+
+Hierro (Fe): 2 átomos en reactivos, 2 átomos en productos.
+
+Oxígeno (O): 2 átomos en reactivos, 3 átomos en productos.
+
+Como el oxígeno presenta un desbalance de 1 átomo, se coloca un coeficiente 3/2 al O2 en reactivos.
+
+Finalmente, se multiplica toda la ecuación por 2 para eliminar el fraccionario y obtener coeficientes enteros:
+
+$$2(Fe) + 3(O_2) \rightarrow 2(Fe_2O_3)$$
+
+$$2Fe + 3O_2 \rightarrow 2Fe_2O_3$$
+
+Verificación final:
+
+Hierro (Fe): 2 átomos en reactivos, 4 átomos en productos.
+
+Oxígeno (O): 6 átomos en reactivos, 6 átomos en productos.
+
+La ecuación queda balanceada.
+
+El coeficiente estequiométrico del O2 es 3.
+
+### 7. Resultado obtenido
+
+$$\boxed{2Fe + 3O_2 \rightarrow 2Fe_2O_3}$$
+
+El coeficiente estequiométrico del O2 es:
+
+$$\boxed{3}$$
+
+### 8. Conclusión
+
+La ecuación balanceada es \(2Fe + 3O_2 \rightarrow 2Fe_2O_3\). El coeficiente estequiométrico del O2 es 3, porque se necesitan 3 moléculas de O2 para combinar con 2 átomos de Fe y formar 2 moléculas de Fe2O3.

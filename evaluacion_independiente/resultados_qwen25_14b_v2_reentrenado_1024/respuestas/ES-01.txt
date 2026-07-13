@@ -1,0 +1,71 @@
+### 1. Fundamento químico del problema
+
+La masa molar es la suma de las masas atómicas de todos los átomos en una fórmula química.
+
+### 2. Información proporcionada
+
+Fórmula: \(\mathrm{Ca(OH)_2}\).
+
+Masas atómicas:
+
+\(Ca = 40,08\)
+
+\(O = 16,00\)
+
+\(H = 1,008\)
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa molar del hidróxido de calcio.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para una fórmula \(\mathrm{A_xB_y}\):
+
+\[
+PM = x \cdot PM_A + y \cdot PM_B
+\]
+
+### 5. Aplicación de los datos
+
+Para \(\mathrm{Ca(OH)_2}\):
+
+\[
+PM = (1 \times 40,08) + (2 \times 16,00) + (2 \times 1,008)
+\]
+
+### 6. Resolución paso a paso
+
+Se calcula la contribución de cada elemento:
+
+\[
+Ca = 1 \times 40,08 = 40,08
+\]
+
+\[
+O = 2 \times 16,00 = 32,00
+\]
+
+\[
+H = 2 \times 1,008 = 2,016
+\]
+
+Luego se suman los valores:
+
+\[
+PM = 40,08 + 32,00 + 2,016
+\]
+
+\[
+PM = 74,096
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 74,10 \, \text{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar del hidróxido de calcio es \(74,10 \, \text{g/mol}\).

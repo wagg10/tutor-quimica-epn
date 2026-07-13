@@ -1,0 +1,55 @@
+Cargando /home/lasinac/.cache/huggingface/hub/models--Qwen--Qwen2.5-14B-Instruct/snapshots/cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8 + adaptador (4bit)...
+[1/40] EA-01 ... correcto
+[2/40] EA-02 ... correcto
+[3/40] EA-03 ... correcto
+[4/40] EA-04 ... correcto
+[5/40] EA-05 ... correcto
+[6/40] EA-06 ... correcto
+[7/40] CE-01 ... revision_manual
+[8/40] CE-02 ... revision_manual
+[9/40] CE-03 ... correcto
+[10/40] CE-04 ... resultado_incorrecto
+[11/40] CE-05 ... revision_manual
+[12/40] CE-06 ... correcto
+[13/40] PP-01 ... revision_manual
+[14/40] PP-02 ... revision_manual
+[15/40] PP-03 ... revision_manual
+[16/40] PP-04 ... revision_manual
+[17/40] PP-05 ... revision_manual
+[18/40] PP-06 ... revision_manual
+[19/40] EO-01 ... correcto
+[20/40] EO-02 ... correcto
+[21/40] EO-03 ... correcto
+[22/40] EO-04 ... correcto
+[23/40] EO-05 ... correcto
+[24/40] EO-06 ... correcto
+[25/40] RQ-01 ... resultado_incorrecto
+[26/40] RQ-02 ... correcto
+[27/40] RQ-03 ... correcto
+[28/40] RQ-04 ... correcto
+[29/40] RQ-05 ... correcto
+[30/40] RQ-06 ... correcto
+[31/40] ES-01 ... correcto
+[32/40] ES-02 ... correcto
+[33/40] ES-03 ... correcto
+[34/40] ES-04 ... sin_resultado_detectado
+[35/40] ES-05 ... correcto
+[36/40] ES-06 ... resultado_incorrecto
+[37/40] CQ-01 ... revision_manual
+[38/40] CQ-02 ... revision_manual
+[39/40] CQ-03 ... revision_manual
+[40/40] CQ-04 ... revision_manual
+
+============================================================
+RESUMEN
+============================================================
+Ejercicios evaluados        : 40
+Numéricos (auto-calificados) : 27
+Resultado correcto          : 23  (85.2 %)
+Requieren rúbrica manual     : 13
+
+Archivos en: /home/lasinac/Quimica/evaluacion_independiente/resultados_qwen25_14b_v2_reentrenado_1024
+  - resultados_detalle.csv
+  - resultados_por_eje.csv
+  - resumen_resultados.md
+  - respuestas/  (respuesta completa por ejercicio)

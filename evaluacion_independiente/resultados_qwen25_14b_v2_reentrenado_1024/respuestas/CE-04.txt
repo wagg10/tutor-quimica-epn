@@ -1,0 +1,111 @@
+### 1. Fundamento químico del problema
+
+El número atómico permite conocer la cantidad de electrones de un átomo neutro. Los electrones desapareados son aquellos que se encuentran solos dentro de un orbital.
+
+### 2. Información proporcionada
+
+El nitrógeno tiene número atómico:
+
+\[
+Z = 7
+\]
+
+Por lo tanto, el átomo neutro de nitrógeno tiene:
+
+\[
+\#e^- = 7
+\]
+
+Su configuración electrónica es:
+
+\[
+\mathrm{N}: 1s^2\,2s^2\,2p^3
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos electrones desapareados tiene el nitrógeno en su estado fundamental.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Los subniveles \(s\) y \(p\) tienen capacidad máxima:
+
+\[
+s = 2e^-
+\]
+
+\[
+p = 6e^-
+\]
+
+El subnivel \(p\) se llena siguiendo el diagrama de Moeller:
+
+\[
+\boxed{\uparrow\downarrow}
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow}
+\]
+
+### 5. Aplicación de los datos
+
+Para el nitrógeno:
+
+\[
+\mathrm{N}: 1s^2\,2s^2\,2p^3
+\]
+
+Los electrones se distribuyen así:
+
+\[
+1s^2:
+\quad
+\boxed{\uparrow\downarrow}
+\]
+
+\[
+2s^2:
+\quad
+\boxed{\uparrow\downarrow}
+\]
+
+\[
+2p^3:
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\phantom{\uparrow}}
+\]
+
+### 6. Resolución paso a paso
+
+En el subnivel \(2p^3\), hay tres electrones y un orbital vacío.
+
+\[
+2p^3:
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\phantom{\uparrow}}
+\]
+
+Por lo tanto, el nitrógeno tiene:
+
+\[
+\text{electrones desapareados} = 2
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{2 \text{ electrones desapareados}}
+\]
+
+### 8. Conclusión
+
+El nitrógeno tiene \(2\) electrones desapareados porque en su subnivel \(2p^3\) hay dos electrones solos y un orbital vacío.

@@ -1,0 +1,75 @@
+### 1. Fundamento químico del problema
+
+El número cuántico de espín (\(m_s\)) indica la orientación del giro del electrón. Según la regla de Hund, cuando se distribuyen electrones en orbitales degenerados, primero se colocan con espines paralelos (\(+\frac{1}{2}\)) para minimizar la repulsión electrónica.
+
+### 2. Información proporcionada
+
+El nitrógeno tiene número atómico:
+
+\[
+Z = 7
+\]
+
+Por lo tanto, el átomo neutro de nitrógeno tiene:
+
+\[
+e^- = 7
+\]
+
+Su configuración electrónica es:
+
+\[
+\mathrm{N}: 1s^2\,2s^2\,2p^3
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos electrones desapareados tiene el nitrógeno en su estado fundamental.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La distribución de electrones en orbitales degenerados se rige por la regla de Hund:
+
+\[
+\boxed{\text{Primero se colocan electrones con espines paralelos}}
+\]
+
+### 5. Aplicación de los datos
+
+La configuración electrónica del nitrógeno es:
+
+\[
+\mathrm{N}: 1s^2\,2s^2\,2p^3
+\]
+
+Los primeros cuatro electrones ocupan los subniveles \(1s\) y \(2s\):
+
+\[
+1s^2\,2s^2
+\]
+
+Los tres electrones restantes se ubican en el subnivel \(2p\):
+
+\[
+2p^3
+\]
+
+### 6. Resolución paso a paso
+
+El subnivel \(2p\) tiene tres orbitales degenerados:
+
+\[
+2p_x,\quad 2p_y,\quad 2p_z
+\]
+
+Según la regla de Hund, los tres electrones se distribuyen uno en cada orbital con espines paralelos:
+
+\[
+2p_x^1:\uparrow
+\quad
+2p_y^1:\uparrow
+\quad
+2p_z^1:\uparrow
+\]
+
+Cada electrón se encuentra en un orbital diferente y ning

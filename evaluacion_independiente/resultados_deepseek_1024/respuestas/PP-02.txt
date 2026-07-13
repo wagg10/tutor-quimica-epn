@@ -1,0 +1,20 @@
+Para ordenar de mayor a menor radio atómico a los elementos Li, Na y K, seguimos estos pasos:
+
+**Paso 1: Ubicar los elementos en la tabla periódica.**
+Los elementos Li, Na y K pertenecen a la familia de los metales alcalinos (IA). Se encuentran en el mismo grupo, por lo que comparten comportamiento químico similar.
+
+**Paso 2: Considerar el periodo.**
+- El Litio (Li) se encuentra en el Periodo 2.
+- El Sodio (Na) se encuentra en el Periodo 3.
+- El Potasio (K) se encuentra en el Periodo 4.
+
+**Paso 3: Aplicar la regla del radio atómico.**
+Dentro de un mismo grupo, el radio atómico aumenta al descender hacia abajo en el periodo. Esto ocurre porque, al descender, se agregan nuevos niveles de energía y aumenta el número de electrones en el subnivel \(s\).
+
+**Paso 4: Ordenar los elementos.**
+Como el Potasio (K) está en el Periodo 4, es el más grande. A continuación, el Sodio (Na) en el Periodo 3, y finalmente el Litio (Li) en el Periodo 2.
+
+**Respuesta final:**
+\[
+\boxed{\text{Orden de mayor a menor radio atómico: } \mathrm{K} > \mathrm{Na} > \mathrm{Li}}
+\]

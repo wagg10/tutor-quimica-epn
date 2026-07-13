@@ -1,0 +1,210 @@
+2026-06-23 01:12:28,341 [INFO] ================================================================================
+2026-06-23 01:12:28,341 [INFO]  TUTOR LLM QUÍMICA v2 - QLORA - PHI-4 REASONING 14B
+2026-06-23 01:12:28,341 [INFO]  Inicio: 20260623_011228
+2026-06-23 01:12:28,341 [INFO]  Dataset: 684 ejercicios corregidos con formato de 8 encabezados
+2026-06-23 01:12:28,341 [INFO] ================================================================================
+2026-06-23 01:12:28,622 [INFO] GPU detectada: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 32.62, 'vram_usada_gb': 1.04, 'compute_capability': '12.0'}
+2026-06-23 01:12:28,622 [INFO] Configuración guardada en: ./modelo_tutor_quimica_phi4_v2/configuracion_entrenamiento.json
+2026-06-23 01:12:28,622 [INFO] Validando dataset en: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-06-23 01:12:28,634 [INFO] ============================================================
+2026-06-23 01:12:28,635 [INFO] REPORTE DE VALIDACIÓN
+2026-06-23 01:12:28,635 [INFO] ============================================================
+2026-06-23 01:12:28,635 [INFO] Total ejemplos              : 684
+2026-06-23 01:12:28,635 [INFO] Errores de estructura       : 0
+2026-06-23 01:12:28,635 [INFO] Sin 8 encabezados completos : 3
+2026-06-23 01:12:28,635 [INFO] Con LaTeX prohibido         : 0
+2026-06-23 01:12:28,635 [INFO] Con código Python           : 0
+2026-06-23 01:12:28,635 [INFO] ============================================================
+2026-06-23 01:12:28,635 [INFO] ✅ Dataset apto para entrenamiento
+2026-06-23 01:12:28,635 [INFO] Cargando dataset desde: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-06-23 01:12:31,927 [INFO] Dataset dividido → Train: 615 | Validación: 69
+2026-06-23 01:12:31,927 [INFO] ============================================================
+2026-06-23 01:12:31,927 [INFO] PLAN DE ENTRENAMIENTO
+2026-06-23 01:12:31,927 [INFO] ============================================================
+2026-06-23 01:12:31,927 [INFO]   Batch efectivo            : 8
+2026-06-23 01:12:31,927 [INFO]   Steps por época           : 76
+2026-06-23 01:12:31,927 [INFO]   Total steps               : 304
+2026-06-23 01:12:31,927 [INFO]   Warmup steps              : 15
+2026-06-23 01:12:31,927 [INFO]   Evaluaciones por época    : ~4
+2026-06-23 01:12:31,927 [INFO]   Checkpoints por época     : ~2
+2026-06-23 01:12:31,927 [INFO] ============================================================
+2026-06-23 01:12:31,927 [INFO] Cargando tokenizador: microsoft/Phi-4-reasoning
+2026-06-23 01:12:32,776 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:12:32,814 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:12:32,938 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:12:32,975 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-23 01:12:33,092 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:12:33,128 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-23 01:12:33,245 [INFO] HTTP Request: GET https://huggingface.co/api/models/microsoft/Phi-4-reasoning/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-23 01:12:33,372 [INFO] HTTP Request: GET https://huggingface.co/api/models/microsoft/Phi-4-reasoning/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-23 01:12:33,752 [INFO] HTTP Request: GET https://huggingface.co/api/models/microsoft/Phi-4-reasoning "HTTP/1.1 200 OK"
+2026-06-23 01:12:33,764 [INFO] Cargando modelo base en QLoRA 4-bit: microsoft/Phi-4-reasoning
+2026-06-23 01:12:33,992 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:12:34,028 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:12:34,186 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:12:34,222 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:12:38,347 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:12:38,384 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/generation_config.json "HTTP/1.1 200 OK"
+2026-06-23 01:12:38,535 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/custom_generate/generate.py "HTTP/1.1 404 Not Found"
+2026-06-23 01:12:38,556 [INFO] GPU tras cargar modelo: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 19.16, 'vram_usada_gb': 14.5, 'compute_capability': '12.0'}
+2026-06-23 01:12:42,312 [INFO] Parámetros QLoRA → Total: 8,066,585,600 | Entrenables: 222,822,400 | 2.7623%
+2026-06-23 01:12:42,451 [INFO] 
+🚀 INICIANDO ENTRENAMIENTO QLORA v2 🚀
+
+2026-06-23 01:12:42,587 [INFO] HTTP Request: HEAD https://huggingface.co/api/telemetry/trl/SFTTrainer "HTTP/1.1 200 OK"
+2026-06-23 01:13:23,877 [INFO] 📈 Train step=5 | loss=1.6112 | lr=2.50e-05
+2026-06-23 01:13:58,501 [INFO] 📈 Train step=10 | loss=1.4825 | lr=5.63e-05
+2026-06-23 01:14:34,056 [INFO] 📈 Train step=15 | loss=1.0716 | lr=8.75e-05
+2026-06-23 01:15:21,376 [INFO] 📊 Eval step=19 | epoch=0.24715447154471545 | loss=0.6241 | acc=0.8437 | t=2.71 min
+2026-06-23 01:15:21,376 [INFO] ✨ Nuevo mejor eval_loss: 0.6241
+2026-06-23 01:15:30,155 [INFO] 📈 Train step=20 | loss=0.6828 | lr=1.00e-04
+2026-06-23 01:16:06,676 [INFO] 📈 Train step=25 | loss=0.6379 | lr=9.98e-05
+2026-06-23 01:16:44,977 [INFO] 📈 Train step=30 | loss=0.5070 | lr=9.95e-05
+2026-06-23 01:17:21,606 [INFO] 📈 Train step=35 | loss=0.5714 | lr=9.91e-05
+2026-06-23 01:18:03,063 [INFO] 📊 Eval step=38 | epoch=0.4943089430894309 | loss=0.5479 | acc=0.8571 | t=5.41 min
+2026-06-23 01:18:03,064 [INFO] ✨ Nuevo mejor eval_loss: 0.5479
+2026-06-23 01:18:03,412 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:18:03,450 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:18:03,571 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:18:03,606 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:18:18,388 [INFO] 📈 Train step=40 | loss=0.5238 | lr=9.85e-05
+2026-06-23 01:18:52,084 [INFO] 📈 Train step=45 | loss=0.5570 | lr=9.77e-05
+2026-06-23 01:19:27,105 [INFO] 📈 Train step=50 | loss=0.5494 | lr=9.69e-05
+2026-06-23 01:20:05,021 [INFO] 📈 Train step=55 | loss=0.5431 | lr=9.59e-05
+2026-06-23 01:20:38,491 [INFO] 📊 Eval step=57 | epoch=0.7414634146341463 | loss=0.5083 | acc=0.8648 | t=8.0 min
+2026-06-23 01:20:38,491 [INFO] ✨ Nuevo mejor eval_loss: 0.5083
+2026-06-23 01:21:00,151 [INFO] 📈 Train step=60 | loss=0.4978 | lr=9.47e-05
+2026-06-23 01:21:35,786 [INFO] 📈 Train step=65 | loss=0.4267 | lr=9.35e-05
+2026-06-23 01:22:11,111 [INFO] 📈 Train step=70 | loss=0.5251 | lr=9.21e-05
+2026-06-23 01:22:48,866 [INFO] 📈 Train step=75 | loss=0.4644 | lr=9.06e-05
+2026-06-23 01:23:15,025 [INFO] 📊 Eval step=76 | epoch=0.9886178861788618 | loss=0.4854 | acc=0.8707 | t=10.61 min
+2026-06-23 01:23:15,025 [INFO] ✨ Nuevo mejor eval_loss: 0.4854
+2026-06-23 01:23:15,328 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:23:15,363 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:23:15,479 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:23:15,516 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:23:43,997 [INFO] 📈 Train step=80 | loss=0.4762 | lr=8.89e-05
+2026-06-23 01:24:20,972 [INFO] 📈 Train step=85 | loss=0.4287 | lr=8.72e-05
+2026-06-23 01:24:58,252 [INFO] 📈 Train step=90 | loss=0.3887 | lr=8.54e-05
+2026-06-23 01:25:38,825 [INFO] 📈 Train step=95 | loss=0.3737 | lr=8.34e-05
+2026-06-23 01:25:58,697 [INFO] 📊 Eval step=95 | epoch=1.2341463414634146 | loss=0.4699 | acc=0.8759 | t=13.34 min
+2026-06-23 01:25:58,697 [INFO] ✨ Nuevo mejor eval_loss: 0.4699
+2026-06-23 01:26:33,217 [INFO] 📈 Train step=100 | loss=0.3942 | lr=8.14e-05
+2026-06-23 01:27:09,066 [INFO] 📈 Train step=105 | loss=0.3961 | lr=7.92e-05
+2026-06-23 01:27:45,350 [INFO] 📈 Train step=110 | loss=0.4183 | lr=7.70e-05
+2026-06-23 01:28:32,571 [INFO] 📊 Eval step=114 | epoch=1.4813008130081302 | loss=0.4614 | acc=0.8775 | t=15.9 min
+2026-06-23 01:28:32,571 [INFO] ✨ Nuevo mejor eval_loss: 0.4614
+2026-06-23 01:28:32,927 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:28:32,962 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:28:33,082 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:28:33,118 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:28:40,530 [INFO] 📈 Train step=115 | loss=0.4180 | lr=7.47e-05
+2026-06-23 01:29:16,336 [INFO] 📈 Train step=120 | loss=0.4282 | lr=7.23e-05
+2026-06-23 01:29:54,694 [INFO] 📈 Train step=125 | loss=0.4481 | lr=6.99e-05
+2026-06-23 01:30:30,482 [INFO] 📈 Train step=130 | loss=0.4147 | lr=6.74e-05
+2026-06-23 01:31:10,929 [INFO] 📊 Eval step=133 | epoch=1.7284552845528456 | loss=0.4469 | acc=0.8796 | t=18.54 min
+2026-06-23 01:31:10,929 [INFO] ✨ Nuevo mejor eval_loss: 0.4469
+2026-06-23 01:31:25,346 [INFO] 📈 Train step=135 | loss=0.4217 | lr=6.48e-05
+2026-06-23 01:32:01,576 [INFO] 📈 Train step=140 | loss=0.4577 | lr=6.22e-05
+2026-06-23 01:32:38,727 [INFO] 📈 Train step=145 | loss=0.3996 | lr=5.96e-05
+2026-06-23 01:33:15,890 [INFO] 📈 Train step=150 | loss=0.3794 | lr=5.70e-05
+2026-06-23 01:33:50,143 [INFO] 📊 Eval step=152 | epoch=1.975609756097561 | loss=0.4357 | acc=0.8826 | t=21.19 min
+2026-06-23 01:33:50,143 [INFO] ✨ Nuevo mejor eval_loss: 0.4357
+2026-06-23 01:33:50,598 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:33:50,633 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:33:50,760 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:33:50,795 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:34:15,008 [INFO] 📈 Train step=155 | loss=0.3091 | lr=5.43e-05
+2026-06-23 01:34:50,395 [INFO] 📈 Train step=160 | loss=0.2674 | lr=5.16e-05
+2026-06-23 01:35:28,972 [INFO] 📈 Train step=165 | loss=0.2741 | lr=4.89e-05
+2026-06-23 01:36:05,295 [INFO] 📈 Train step=170 | loss=0.2445 | lr=4.62e-05
+2026-06-23 01:36:32,011 [INFO] 📊 Eval step=171 | epoch=2.221138211382114 | loss=0.4562 | acc=0.8827 | t=23.89 min
+2026-06-23 01:36:32,011 [INFO] ⏳ Sin mejora (1/8) | Mejor: 0.4357 | Actual: 0.4562
+2026-06-23 01:37:01,732 [INFO] 📈 Train step=175 | loss=0.2719 | lr=4.36e-05
+2026-06-23 01:37:38,554 [INFO] 📈 Train step=180 | loss=0.2561 | lr=4.09e-05
+2026-06-23 01:38:18,034 [INFO] 📈 Train step=185 | loss=0.2836 | lr=3.83e-05
+2026-06-23 01:38:53,473 [INFO] 📈 Train step=190 | loss=0.2696 | lr=3.57e-05
+2026-06-23 01:39:13,343 [INFO] 📊 Eval step=190 | epoch=2.4682926829268292 | loss=0.4484 | acc=0.8847 | t=26.58 min
+2026-06-23 01:39:13,343 [INFO] ⏳ Sin mejora (2/8) | Mejor: 0.4357 | Actual: 0.4484
+2026-06-23 01:39:13,626 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:39:13,661 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:39:13,783 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:39:13,818 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:39:50,288 [INFO] 📈 Train step=195 | loss=0.2694 | lr=3.31e-05
+2026-06-23 01:40:25,605 [INFO] 📈 Train step=200 | loss=0.2866 | lr=3.06e-05
+2026-06-23 01:41:02,609 [INFO] 📈 Train step=205 | loss=0.3120 | lr=2.82e-05
+2026-06-23 01:41:51,580 [INFO] 📊 Eval step=209 | epoch=2.7154471544715446 | loss=0.4396 | acc=0.8859 | t=29.22 min
+2026-06-23 01:41:51,581 [INFO] ⏳ Sin mejora (3/8) | Mejor: 0.4357 | Actual: 0.4396
+2026-06-23 01:41:58,651 [INFO] 📈 Train step=210 | loss=0.3148 | lr=2.58e-05
+2026-06-23 01:42:33,852 [INFO] 📈 Train step=215 | loss=0.2772 | lr=2.35e-05
+2026-06-23 01:43:12,017 [INFO] 📈 Train step=220 | loss=0.3355 | lr=2.12e-05
+2026-06-23 01:43:48,657 [INFO] 📈 Train step=225 | loss=0.3529 | lr=1.91e-05
+2026-06-23 01:44:29,882 [INFO] 📊 Eval step=228 | epoch=2.9626016260162604 | loss=0.4384 | acc=0.8862 | t=31.86 min
+2026-06-23 01:44:29,882 [INFO] ⏳ Sin mejora (4/8) | Mejor: 0.4357 | Actual: 0.4384
+2026-06-23 01:44:30,228 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:44:30,264 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:44:30,395 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:44:30,430 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:44:45,199 [INFO] 📈 Train step=230 | loss=0.3094 | lr=1.70e-05
+2026-06-23 01:45:18,757 [INFO] 📈 Train step=235 | loss=0.1951 | lr=1.50e-05
+2026-06-23 01:45:54,039 [INFO] 📈 Train step=240 | loss=0.2069 | lr=1.32e-05
+2026-06-23 01:46:29,545 [INFO] 📈 Train step=245 | loss=0.2200 | lr=1.14e-05
+2026-06-23 01:47:04,021 [INFO] 📊 Eval step=247 | epoch=3.208130081300813 | loss=0.4619 | acc=0.8842 | t=34.42 min
+2026-06-23 01:47:04,021 [INFO] ⏳ Sin mejora (5/8) | Mejor: 0.4357 | Actual: 0.4619
+2026-06-23 01:47:24,228 [INFO] 📈 Train step=250 | loss=0.2182 | lr=9.74e-06
+2026-06-23 01:47:58,114 [INFO] 📈 Train step=255 | loss=0.2269 | lr=8.20e-06
+2026-06-23 01:48:36,650 [INFO] 📈 Train step=260 | loss=0.2471 | lr=6.79e-06
+2026-06-23 01:49:14,127 [INFO] 📈 Train step=265 | loss=0.1630 | lr=5.50e-06
+2026-06-23 01:49:42,074 [INFO] 📊 Eval step=266 | epoch=3.4552845528455283 | loss=0.4632 | acc=0.8849 | t=37.06 min
+2026-06-23 01:49:42,074 [INFO] ⏳ Sin mejora (6/8) | Mejor: 0.4357 | Actual: 0.4632
+2026-06-23 01:49:42,429 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:49:42,465 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:49:42,581 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:49:42,615 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:50:14,256 [INFO] 📈 Train step=270 | loss=0.1831 | lr=4.34e-06
+2026-06-23 01:50:52,174 [INFO] 📈 Train step=275 | loss=0.2160 | lr=3.31e-06
+2026-06-23 01:51:28,789 [INFO] 📈 Train step=280 | loss=0.2196 | lr=2.41e-06
+2026-06-23 01:52:06,112 [INFO] 📈 Train step=285 | loss=0.2075 | lr=1.66e-06
+2026-06-23 01:52:26,002 [INFO] 📊 Eval step=285 | epoch=3.7024390243902436 | loss=0.4649 | acc=0.8849 | t=39.79 min
+2026-06-23 01:52:26,002 [INFO] ⏳ Sin mejora (7/8) | Mejor: 0.4357 | Actual: 0.4649
+2026-06-23 01:53:03,689 [INFO] 📈 Train step=290 | loss=0.1799 | lr=1.04e-06
+2026-06-23 01:53:40,576 [INFO] 📈 Train step=295 | loss=0.2013 | lr=5.66e-07
+2026-06-23 01:54:17,979 [INFO] 📈 Train step=300 | loss=0.2170 | lr=2.34e-07
+2026-06-23 01:55:08,716 [INFO] 📊 Eval step=304 | epoch=3.9495934959349595 | loss=0.4647 | acc=0.8847 | t=42.5 min
+2026-06-23 01:55:08,716 [INFO] ⏳ Sin mejora (8/8) | Mejor: 0.4357 | Actual: 0.4647
+2026-06-23 01:55:08,716 [INFO] 🛑 Early stopping activado
+2026-06-23 01:55:09,001 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:55:09,036 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:55:09,179 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:55:09,214 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:55:09,660 [INFO] 🏁 Entrenamiento completado en 42.5 minutos
+2026-06-23 01:55:09,660 [INFO] ⏱ Duración total: 42.5 minutos
+2026-06-23 01:55:09,660 [INFO] 
+📊 Evaluación final...
+2026-06-23 01:55:29,556 [INFO] 📊 Eval step=304 | epoch=3.9495934959349595 | loss=0.4357 | acc=0.8826 | t=42.85 min
+2026-06-23 01:55:29,556 [INFO] ⏳ Sin mejora (9/8) | Mejor: 0.4357 | Actual: 0.4357
+2026-06-23 01:55:29,556 [INFO] 🛑 Early stopping activado
+2026-06-23 01:55:29,556 [INFO] Métricas finales: {'eval_loss': 0.4357180595397949, 'eval_mean_token_accuracy': 0.8826395929723546, 'eval_runtime': 19.8927, 'eval_samples_per_second': 3.469, 'eval_steps_per_second': 3.469, 'eval_entropy': 0.4260706635920898, 'eval_num_tokens': 2790360.0, 'epoch': 3.9495934959349595, 'num_input_tokens_seen': 2790360}
+2026-06-23 01:55:29,556 [INFO] Mejor checkpoint: ./checkpoints_phi4_v2/checkpoint-152
+2026-06-23 01:55:29,556 [INFO] Mejor métrica: 0.4357180595397949
+2026-06-23 01:55:29,556 [INFO] 
+💾 Guardando adaptador QLoRA en: ./modelo_tutor_quimica_phi4_v2
+2026-06-23 01:55:29,792 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:55:29,826 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:55:29,940 [INFO] HTTP Request: HEAD https://huggingface.co/microsoft/Phi-4-reasoning/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 01:55:29,976 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/microsoft/Phi-4-reasoning/1de18ec97600877ce63dbf60c73b998da99f0195/config.json "HTTP/1.1 200 OK"
+2026-06-23 01:55:30,346 [INFO] ================================================================================
+2026-06-23 01:55:30,346 [INFO] ✅ ENTRENAMIENTO QLORA v2 COMPLETADO
+2026-06-23 01:55:30,346 [INFO] Modelo guardado: ./modelo_tutor_quimica_phi4_v2
+2026-06-23 01:55:30,346 [INFO] Reporte:         ./modelo_tutor_quimica_phi4_v2/reporte_entrenamiento.json
+2026-06-23 01:55:30,346 [INFO] Historial:       ./modelo_tutor_quimica_phi4_v2/historial_metricas.json
+2026-06-23 01:55:30,346 [INFO] Log:             entrenamiento_qlora_phi4_v2_20260623_011228.log
+2026-06-23 01:55:30,346 [INFO] ================================================================================
+2026-06-23 01:55:30,346 [INFO] 
+📋 PRÓXIMOS PASOS:
+2026-06-23 01:55:30,346 [INFO]   1. Convertir el adaptador LoRA a GGUF:
+2026-06-23 01:55:30,346 [INFO]      python convert_lora_to_gguf.py --adapter ./modelo_tutor_quimica_phi4_v2
+2026-06-23 01:55:30,346 [INFO]   2. Combinar con el modelo base Phi-4 y cuantizar a Q4_K_M
+2026-06-23 01:55:30,346 [INFO]   3. Reemplazar el archivo phi4_quimica_Q4_K_M.gguf en Hermes
+2026-06-23 01:55:30,346 [INFO]   4. Reiniciar llama-server y probar con un ejercicio
+2026-06-23 01:55:30,346 [INFO] 

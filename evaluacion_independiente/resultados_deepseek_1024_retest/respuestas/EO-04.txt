@@ -1,0 +1,77 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación es la carga que un átomo parece tener si todos los enlaces se rompieran y se formaran iones. En moléculas neutras, la suma de los estados de oxidación debe ser cero.
+
+### 2. Información proporcionada
+
+El compuesto dado es amoniaco:
+
+\[
+\mathrm{NH_3}
+\]
+
+El amoniaco está formado por nitrógeno y hidrógeno.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el amoniaco.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+En moléculas neutras, la suma de los estados de oxidación debe ser cero.
+
+El hidrógeno, en la mayoría de sus compuestos, tiene estado de oxidación \(+1\).
+
+### 5. Aplicación de los datos
+
+En el amoniaco, el hidrógeno tiene estado de oxidación \(+1\).
+
+\[
+\mathrm{H} = +1
+\]
+
+### 6. Resolución paso a paso
+
+Se representa la molécula:
+
+\[
+\mathrm{NH_3}
+\]
+
+Se asigna el estado de oxidación del hidrógeno:
+
+\[
+\mathrm{H} = +1
+\]
+
+Se representa el estado de oxidación del nitrógeno como \(x\):
+
+\[
+\mathrm{N} = x
+\]
+
+Como el amoniaco es una molécula neutra, la suma de los estados de oxidación debe ser cero:
+
+\[
+x + 3(+1) = 0
+\]
+
+Se resuelve para \(x\):
+
+\[
+x + 3 = 0
+\]
+
+\[
+x = -3
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{N} = -3}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del nitrógeno en el amoniaco es \(-3\), porque el hidrógeno tiene estado de oxidación \(+1\) y la molécula es neutra.

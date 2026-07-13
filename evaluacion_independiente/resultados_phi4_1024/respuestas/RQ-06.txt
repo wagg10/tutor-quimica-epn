@@ -1,0 +1,59 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química, se deben respetar las leyes de conservación de la masa y de los elementos. En una combustión, el hidrocarburo reacciona con oxígeno para formar óxidos de carbono y agua. El coeficiente estequiométrico de un reactivo indica la relación molar en que se consume respecto a otro reactivo o producto.
+
+### 2. Información proporcionada
+
+Ecuación química de combustión:
+
+\[
+\mathrm{CH_4 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+Se pide determinar el coeficiente estequiométrico del \(\mathrm{O_2}\).
+
+### 3. Lo que se debe determinar
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) en la ecuación balanceada.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Balanceo de ecuaciones químicas por inspección:
+
+\[
+\mathrm{CH_4 + O_2 \rightarrow CO_2 + H_2O}
+\]
+
+### 5. Aplicación de los datos
+
+Se balancean los elementos uno por uno:
+
+- Carbono: hay 1 en \(\mathrm{CH_4}\) y 1 en \(\mathrm{CO_2}\). Coeficiente de \(\mathrm{CO_2}\) = 1.
+- Hidrógeno: hay 4 en \(\mathrm{CH_4}\) y 2 en \(\mathrm{H_2O}\). Coeficiente de \(\mathrm{H_2O}\) = 2.
+- Oxígeno: en productos hay \(1 \times 2 + 2 \times 1 = 4\) átomos. Por lo tanto, el coeficiente de \(\mathrm{O_2}\) debe ser 2.
+
+### 6. Resolución paso a paso
+
+Se escribe la ecuación con los coeficientes obtenidos:
+
+\[
+\mathrm{CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O}
+\]
+
+Verificación de átomos:
+
+- Carbono: 1 en reactivos, 1 en productos.
+- Hidrógeno: 4 en reactivos, 4 en productos.
+- Oxígeno: \(2 \times 2 = 4\) en reactivos, \(1 \times 2 + 2 \times 1 = 4\) en productos.
+
+La ecuación está balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{El coeficiente estequiométrico del } \mathrm{O_2} \text{ es } 2}
+\]
+
+### 8. Conclusión
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es 2 porque se necesitan 4 átomos de oxígeno en total en los productos, y cada molécula de \(\mathrm{O_2}\) aporta 2 átomos de oxígeno.

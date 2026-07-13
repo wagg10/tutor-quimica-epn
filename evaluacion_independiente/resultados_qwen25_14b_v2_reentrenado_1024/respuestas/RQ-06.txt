@@ -1,0 +1,102 @@
+### 1. Fundamento químico del problema
+
+La combustión del metano es una reacción de oxidación completa en la que el carbono se combina con oxígeno para formar dióxido de carbono y agua. Para balancear la ecuación, se ajustan los coeficientes estequiométricos de forma que se cumpla la ley de conservación de la masa.
+
+### 2. Información proporcionada
+
+Reacción de combustión:
+
+\[
+\mathrm{CH_4} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + \mathrm{H_2O}
+\]
+
+Compuestos involucrados:
+
+- Combustible: \(\mathrm{CH_4}\)
+- Oxigeno: \(\mathrm{O_2}\)
+- Producto: \(\mathrm{CO_2}\)
+- Producto: \(\mathrm{H_2O}\)
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación de combustión y se debe indicar el coeficiente estequiométrico del \(\mathrm{O_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para balancear la ecuación, se igualan los átomos de cada elemento en ambos miembros:
+
+- Carbono (C): 1 átomo en reactivos y 1 átomo en productos.
+- Hidrógeno (H): 4 átomos en reactivos y 2 átomos en productos.
+- Oxígeno (O): 2 átomos en reactivos y 2 átomos en productos.
+
+### 5. Aplicación de los datos
+
+Se asignan coeficientes estequiométricos provisionales:
+
+\[
+\mathrm{CH_4} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + \mathrm{H_2O}
+\]
+
+Se verifica el balance de hidrógeno:
+
+\[
+4 \text{ átomos en reactivos}
+\]
+
+\[
+2 \text{ átomos en productos}
+\]
+
+Como hay 2 átomos de hidrógeno sobrantes en los productos, se coloca un coeficiente 2 frente al \(\mathrm{H_2O}\):
+
+\[
+\mathrm{CH_4} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + 2\mathrm{H_2O}
+\]
+
+### 6. Resolución paso a paso
+
+Se verifica el balance de oxígeno:
+
+\[
+2 \text{ átomos en reactivos}
+\]
+
+\[
+(2 \times 1) + (2 \times 1) = 2 + 2 = 4 \text{ átomos en productos}
+\]
+
+Como hay 4 átomos de oxígeno en los productos y solo 2 en los reactivos, se coloca un coeficiente 2 frente al \(\mathrm{O_2}\):
+
+\[
+\mathrm{CH_4} + 2\mathrm{O_2} \rightarrow \mathrm{CO_2} + 2\mathrm{H_2O}
+\]
+
+Se comprueba el balance final:
+
+\[
+\mathrm{CH_4} + 2\mathrm{O_2} \rightarrow \mathrm{CO_2} + 2\mathrm{H_2O}
+\]
+
+Carbono (C): 1 átomo en reactivos y 1 átomo en productos.
+
+Hidrógeno (H): 4 átomos en reactivos y \(2 \times 2 = 4\) átomos en productos.
+
+Oxígeno (O): \(2 \times 2 = 4\) átomos en reactivos y \(2 + 2 \times 1 = 4\) átomos en productos.
+
+La ecuación está balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{CH_4} + 2\mathrm{O_2} \rightarrow \mathrm{CO_2} + 2\mathrm{H_2O}}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es:
+
+\[
+\boxed{2}
+\]
+
+### 8. Conclusión
+
+La ecuación de combustión del metano balanceada es \(\mathrm{CH_4} + 2\mathrm{O_2} \rightarrow \mathrm{CO_2} + 2\mathrm{H_2O}\). El coeficiente estequiométrico del \(\mathrm{O_2}\) es 2 porque se necesitan 2

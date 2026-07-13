@@ -1,0 +1,72 @@
+### 1. Fundamento químico del problema
+
+Para determinar el estado de oxidación de un elemento en un compuesto, se aplica la regla de que la suma de los estados de oxidación de todos los átomos debe ser igual a la carga total de la especie química. En el caso de un compuesto neutro, la suma debe ser igual a cero.
+
+### 2. Información proporcionada
+
+El compuesto dado es el ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4}
+\]
+
+El hidrógeno, en la mayoría de sus compuestos, presenta estado de oxidación:
+
+\[
+\mathrm{H} = +1
+\]
+
+El oxígeno, en la mayoría de sus compuestos, presenta estado de oxidación:
+
+\[
+\mathrm{O} = -2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del azufre en el ácido sulfúrico.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La suma de los estados de oxidación en un compuesto neutro es igual a cero:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+Para el ácido sulfúrico:
+
+\[
+2(\mathrm{EO}_\mathrm{H}) + \mathrm{EO}_\mathrm{S} + 4(\mathrm{EO}_\mathrm{O}) = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos:
+
+\[
+2(+1) + \mathrm{EO}_\mathrm{S} + 4(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve el ejercicio:
+
+\[
+2 + \mathrm{EO}_\mathrm{S} - 8 = 0
+\]
+
+\[
+\mathrm{EO}_\mathrm{S} - 6 = 0
+\]
+
+\[
+\mathrm{EO}_\mathrm{S} = +6
+\]
+
+Verificación aritmética: \(2 - 8 = -6\), y \(+6 + (-6) = 0\). La suma de los estados de oxidación es cero, por lo tanto, el cálculo es correcto.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\

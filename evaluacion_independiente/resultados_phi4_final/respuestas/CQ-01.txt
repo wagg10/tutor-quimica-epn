@@ -1,0 +1,45 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica describe el ordenamiento de los electrones de un átomo en sus orbitales de menor a mayor energía. Esta distribución se fundamenta en el principio de Aufbau, el principio de exclusión de Pauli y la regla de Hund.
+
+### 2. Información proporcionada
+
+Concepto solicitado: configuración electrónica.
+
+Relación solicitada: utilidad para entender la tabla periódica.
+
+### 3. Lo que se debe determinar
+
+Se debe explicar qué es la configuración electrónica y por qué es útil para entender la tabla periódica.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La configuración electrónica se escribe siguiendo el orden de llenado de orbitales:
+
+\[
+1s,\ 2s,\ 2p,\ 3s,\ 3p,\ 4s,\ 3d,\ 4p,\ 5s,\ 4d,\ 5p,\ 6s,\ 4f,\ 5d,\ 6p,\ 7s,\ 5f,\ 6d,\ 7p
+\]
+
+La tabla periódica se organiza por número atómico creciente y por niveles de energía cuántica principal \(n\).
+
+### 5. Aplicación de los datos
+
+La configuración electrónica permite ubicar a cada elemento en la tabla periódica según su nivel cuántico principal \(n\) y su subnivel de llenado.
+
+### 6. Resolución paso a paso
+
+La configuración electrónica permite conocer la distribución de los electrones de un átomo en sus orbitales de menor a mayor energía. Esta distribución se fundamenta en el principio de Aufbau, el principio de exclusión de Pauli y la regla de Hund.
+
+La tabla periódica se organiza por número atómico creciente y por niveles de energía cuántica principal \(n\). Por ejemplo, los elementos del segundo periodo tienen electrones en los subniveles \(2s\) y \(2p\).
+
+La configuración electrónica permite predecir propiedades químicas, como la valencia, porque los electrones de los últimos subniveles son los que participan en enlaces químicos.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{La configuración electrónica explica la distribución de electrones y justifica la organización de la tabla periódica.}}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica es útil para entender la tabla periódica porque permite explicar la ubicación de los elementos según su número atómico y sus niveles de energía, lo que a su vez relaciona sus propiedades químicas y físicas.

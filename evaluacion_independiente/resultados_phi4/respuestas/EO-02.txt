@@ -1,0 +1,82 @@
+### 1. Fundamento químico del problema
+
+Para determinar el estado de oxidación de un elemento en un compuesto, se utiliza la regla de neutralidad de la molécula, que establece que la suma de todos los estados de oxidación debe ser igual a cero.
+
+### 2. Información proporcionada
+
+El compuesto dado es el dicromato de potasio:
+
+\[
+\mathrm{K_2Cr_2O_7}
+\]
+
+El potasio es un metal alcalino y presenta un estado de oxidación fijo de:
+
+\[
+\mathrm{K} = +1
+\]
+
+El oxígeno es un no metal y presenta un estado de oxidación fijo de:
+
+\[
+\mathrm{O} = -2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del cromo en el dicromato de potasio.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La regla de neutralidad de la molécula se expresa como:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+Para el dicromato de potasio:
+
+\[
+2(+1) + 2(\mathrm{EO}_{\mathrm{Cr}}) + 7(-2) = 0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos en la ecuación:
+
+\[
+2(+1) + 2(\mathrm{EO}_{\mathrm{Cr}}) + 7(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación paso a paso:
+
+\[
+2 + 2(\mathrm{EO}_{\mathrm{Cr}}) - 14 = 0
+\]
+
+\[
+2(\mathrm{EO}_{\mathrm{Cr}}) - 12 = 0
+\]
+
+\[
+2(\mathrm{EO}_{\mathrm{Cr}}) = 12
+\]
+
+\[
+\mathrm{EO}_{\mathrm{Cr}} = \frac{12}{2}
+\]
+
+\[
+\mathrm{EO}_{\mathrm{Cr}} = +6
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{EO}_{\mathrm{Cr}} = +6}
+\]
+
+### 8. Conclusión
+

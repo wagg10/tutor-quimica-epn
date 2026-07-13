@@ -1,0 +1,33 @@
+EVIDENCIA V.1 - MODELO FUSIONADO BF16
+Fecha:
+vie 26 jun 2026 15:36:24 -05
+
+Carpeta del modelo fusionado:
+28G	/home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean
+
+Archivos principales:
+total 28G
+-rw-rw-r-- 1 lasinac lasinac 1,7K jun 26 14:33 chat_template.jinja
+-rw-rw-r-- 1 lasinac lasinac  857 jun 26 14:32 config.json
+-rw-rw-r-- 1 lasinac lasinac  222 jun 26 14:32 generation_config.json
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 model-00001-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,5G jun 26 14:33 model-00002-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 model-00003-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 model-00004-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,5G jun 26 14:33 model-00005-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 model-00006-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 model-00007-of-00008.safetensors
+-rw------- 1 lasinac lasinac 2,1G jun 26 14:33 model-00008-of-00008.safetensors
+-rw-rw-r-- 1 lasinac lasinac  20K jun 26 14:33 model.safetensors.index.json
+-rw-rw-r-- 1 lasinac lasinac  339 jun 26 14:33 tokenizer_config.json
+-rw-rw-r-- 1 lasinac lasinac 6,9M jun 26 14:33 tokenizer.json
+
+Fragmentos safetensors generados:
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00001-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,5G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00002-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00003-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00004-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,5G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00005-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00006-of-00008.safetensors
+-rw------- 1 lasinac lasinac 3,7G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00007-of-00008.safetensors
+-rw------- 1 lasinac lasinac 2,1G jun 26 14:33 /home/lasinac/Quimica/modelo_tutor_quimica_phi4_v2_merged_bf16_clean/model-00008-of-00008.safetensors

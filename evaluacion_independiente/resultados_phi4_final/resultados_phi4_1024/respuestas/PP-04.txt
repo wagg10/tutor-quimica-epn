@@ -1,0 +1,51 @@
+### 1. Fundamento químico del problema
+
+La energía de ionización es la energía necesaria para remover un electrón de un átomo gaseoso en estado fundamental. En la tabla periódica, la energía de ionización aumenta de izquierda a derecha dentro de un mismo periodo debido a la mayor atracción electrostática que ejerce el núcleo sobre los electrones.
+
+### 2. Información proporcionada
+
+Los elementos dados son:
+
+\[
+\mathrm{Na}, \quad \mathrm{Mg}, \quad \mathrm{Al}
+\]
+
+Estos elementos pertenecen al tercer periodo de la tabla periódica.
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál de los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Al}\) tiene la menor energía de ionización.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La energía de ionización aumenta de izquierda a derecha dentro de un periodo. Por lo tanto, el elemento que se encuentra más a la izquierda tendrá la menor energía de ionización.
+
+### 5. Aplicación de los datos
+
+Los elementos se encuentran en el tercer periodo en el siguiente orden:
+
+\[
+\mathrm{Na} \rightarrow \mathrm{Mg} \rightarrow \mathrm{Al}
+\]
+
+### 6. Resolución paso a paso
+
+Como la energía de ionización aumenta de izquierda a derecha, el elemento que se encuentra más a la izquierda dentro del mismo periodo tendrá la menor energía de ionización.
+
+En el tercer periodo, el orden es:
+
+\[
+\mathrm{Na} \rightarrow \mathrm{Mg} \rightarrow \mathrm{Al}
+\]
+
+Por lo tanto, el elemento \(\mathrm{Na}\) tiene la menor energía de ionización.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{El elemento con menor energía de ionización es } \mathrm{Na}}
+\]
+
+### 8. Conclusión
+
+El \(\mathrm{Na}\) tiene la menor energía de ionización porque se encuentra más a la izquierda dentro del tercer periodo de la tabla periódica.

@@ -1,0 +1,50 @@
+Para balancear la combustión de metano:
+
+$$\mathrm{CH_4 + O_2 \rightarrow CO_2 + H_2O}$$
+
+**Paso 1: Contar los átomos de cada elemento en reactivos y productos.**
+
+**Reactivos:**
+- Hidrógeno: 4 (en el $\mathrm{CH_4}$)
+- Oxígeno: 2 (en el $\mathrm{O_2}$)
+
+**Productos:**
+- Carbono: 1 (en el $\mathrm{CO_2}$)
+- Hidrógeno: 2 (en el $\mathrm{H_2O}$)
+- Oxígeno: 2 (en el $\mathrm{CO_2}$) + 1 (en el $\mathrm{H_2O}$) = 3
+
+**Paso 2: Balancear el carbono.**
+
+El carbono aparece 1 vez en reactivos y 1 vez en productos. El carbono ya está balanceado.
+
+**Paso 3: Balancear el hidrógeno.**
+
+En reactivos hay 4 hidrógenos (en el $\mathrm{CH_4}$). En productos hay 2 hidrógenos (en el $\mathrm{H_2O}$). Para balancear el hidrógeno, se coloca un coeficiente 2 al $\mathrm{H_2O}$.
+
+$$\mathrm{CH_4 + O_2 \rightarrow CO_2 + 2 H_2O}$$
+
+**Paso 4: Balancear el oxígeno.**
+
+En reactivos hay 2 oxígenos (en el $\mathrm{O_2}$). En productos hay 2 oxígenos en el $\mathrm{CO_2}$ y 1 oxígeno en los 2 $\mathrm{H_2O}$, totalizando 3 oxígenos. Para balancear el oxígeno, se coloca un coeficiente 2 al $\mathrm{O_2}$.
+
+$$\mathrm{CH_4 + 2 O_2 \rightarrow CO_2 + 2 H_2O}$$
+
+**Paso 5: Verificar los átomos.**
+
+**Reactivos:**
+- Carbono: 1
+- Hidrógeno: 4
+- Oxígeno: 4 (2 en el $\mathrm{O_2}$ y 2 en el $\mathrm{CO_2}$)
+
+**Productos:**
+- Carbono: 1
+- Hidrógeno: 4 (2 en cada $\mathrm{H_2O}$)
+- Oxígeno: 4 (2 en el $\mathrm{CO_2}$ y 2 en los $\mathrm{H_2O}$)
+
+La ecuación está balanceada.
+
+**Respuesta final:**
+
+El coeficiente estequiométrico del $\mathrm{O_2}$ es:
+
+$$\boxed{2}$$

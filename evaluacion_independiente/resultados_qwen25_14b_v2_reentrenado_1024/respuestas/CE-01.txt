@@ -1,0 +1,49 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica se obtiene colocando los electrones en órbitales siguiendo el orden creciente de energía.
+
+### 2. Información proporcionada
+
+El hierro tiene número atómico:
+
+\[
+Z = 26
+\]
+
+Por lo tanto, el átomo neutro de hierro tiene 26 electrones.
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del hierro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Los electrones se colocan siguiendo el orden creciente de energía:
+
+\[
+1s,\ 2s,\ 2p,\ 3s,\ 3p,\ 4s,\ 3d
+\]
+
+### 5. Aplicación de los datos
+
+Colocamos los 26 electrones en órbitales:
+
+\[
+1s^2\,2s^2\,2p^6\,3s^2\,3p^6\,4s^2\,3d^6
+\]
+
+### 6. Resolución paso a paso
+
+Primero se completan los subniveles hasta llegar al subnivel \(3p^6\). Luego se coloca el par de electrones en el subnivel \(4s\) y finalmente se completan los seis electrones en el subnivel \(3d\).
+
+### 7. Resultado obtenido
+
+La configuración electrónica del hierro es:
+
+\[
+\boxed{1s^2\,2s^2\,2p^6\,3s^2\,3p^6\,4s^2\,3d^6}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del hierro termina en \(3d^6\), porque después de completar el subnivel \(4s^2\), quedan seis electrones que se colocan en el subnivel \(3d\).

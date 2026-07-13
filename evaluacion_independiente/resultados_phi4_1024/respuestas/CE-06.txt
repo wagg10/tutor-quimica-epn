@@ -1,0 +1,60 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite identificar la distribución de los electrones de valencia en los subniveles de energía más externos. El grupo de un elemento en la tabla periódica moderna (notación del 1 al 18) se determina sumando los electrones presentes en el nivel cuántico principal más alto (\(n\)) y en los subniveles correspondientes.
+
+### 2. Información proporcionada
+
+La configuración electrónica dada es:
+
+\[
+3s^2 \ 3p^5
+
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar a qué número de grupo (notación moderna, del 1 al 18) pertenece el elemento cuya configuración electrónica termina en \(3s^2 \ 3p^5\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para determinar el grupo de un elemento en la tabla periódica moderna, se suman los electrones del nivel cuántico principal más alto (\(n\)) y en los subniveles correspondientes.
+
+### 5. Aplicación de los datos
+
+En la configuración dada, el nivel cuántico principal más alto es:
+
+\[
+n = 3
+\]
+
+Los subniveles correspondientes son:
+
+\[
+3s^2 \quad \text{y} \quad 3p^5
+\]
+
+### 6. Resolución paso a paso
+
+Se suman los electrones de los subniveles \(3s^2\) y \(3p^5\):
+
+\[
+2 + 5 = 7
+\]
+
+Como el nivel cuántico principal más alto es \(n = 3\), el elemento pertenece al tercer periodo.
+
+Por lo tanto, el número de grupo es:
+
+\[
+\boxed{17}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Grupo 17}}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica \(3s^2 \ 3p^5\) corresponde al grupo 17 de la tabla periódica moderna, porque el nivel cuántico principal más alto es \(n = 3\) y la suma de electrones en los subniveles \(3s^2\) y \(3p^5\) es \(2 + 5 = 7\).

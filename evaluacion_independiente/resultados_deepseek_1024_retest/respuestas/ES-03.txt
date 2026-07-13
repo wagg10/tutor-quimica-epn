@@ -1,0 +1,19 @@
+Para calcular la masa molar del ácido sulfúrico, H2SO4, se suman las masas atómicas de todos los átomos presentes en la fórmula.
+
+\[
+PM_{\mathrm{H_2SO_4}} = 2(1,008) + 32,06 + 4(16,00)
+\]
+
+\[
+PM_{\mathrm{H_2SO_4}} = 2,016 + 32,06 + 64,00
+\]
+
+\[
+PM_{\mathrm{H_2SO_4}} = 98,07 \, \text{g/mol}
+\]
+
+La masa molar del ácido sulfúrico es:
+
+\[
+\boxed{98,07 \, \text{g/mol}}
+\]

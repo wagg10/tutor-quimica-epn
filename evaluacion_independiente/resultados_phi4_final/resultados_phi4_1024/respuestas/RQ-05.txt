@@ -1,0 +1,93 @@
+### 1. Fundamento químico del problema
+
+Para resolver este ejercicio se aplica el balanceo por simple inspección. El balanceo por simple inspección consiste en ajustar los coeficientes de la ecuación química hasta que el número de átomos de cada elemento sea igual en ambos miembros.
+
+### 2. Información proporcionada
+
+Ecuación química inorgánica:
+
+\[
+\mathrm{Al + HCl \rightarrow AlCl_3 + H_2}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico del reactivo \(\mathrm{HCl}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Balanceo por simple inspección:
+
+\[
+\mathrm{Al + HCl \rightarrow AlCl_3 + H_2}
+\]
+
+### 5. Aplicación de los datos
+
+Se analizan los elementos presentes en la ecuación:
+
+- \(\mathrm{Al}\)
+- \(\mathrm{Cl}\)
+- \(\mathrm{H}\)
+
+### 6. Resolución paso a paso
+
+Se plantea la ecuación inicial con coeficientes de balanceo:
+
+\[
+\mathrm{aAl + bHCl \rightarrow cAlCl_3 + dH_2}
+\]
+
+Se escriben las ecuaciones de conservación de masa para cada elemento:
+
+\[
+\mathrm{Al}: \quad a = c
+\]
+
+\[
+\mathrm{Cl}: \quad b = 3c
+\]
+
+\[
+\mathrm{H}: \quad b = 2d
+\]
+
+Se asignan valores enteros mínimos:
+
+- Para \(\mathrm{Al}\), se asigna \(a = 1\). Por lo tanto, \(c = 1\).
+- Para \(\mathrm{Cl}\), se asigna \(b = 3\).
+- Para \(\mathrm{H}\), se asigna \(d = \frac{b}{2} = \frac{3}{2}\).
+
+Como el coeficiente \(d\) no es entero, se multiplica toda la ecuación por el factor entero mínimo que convierta a \(d\) en un número entero, que en este caso es \(2\):
+
+\[
+2\mathrm{Al} + 6\mathrm{HCl} \rightarrow 2\mathrm{AlCl_3} + 3\mathrm{H_2}
+\]
+
+Verificación de los átomos:
+
+- \(\mathrm{Al}\): \(2\) en reactivos y \(2\) en productos.
+- \(\mathrm{Cl}\): \(6\) en reactivos y \(6\) en productos.
+- \(\mathrm{H}\): \(6\) en reactivos y \(6\) en productos.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{2\mathrm{Al} + 6\mathrm{HCl} \rightarrow 2\mathrm{AlCl_3} + 3\mathrm{H_2}}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{HCl}\) es:
+
+\[
+\boxed{6}
+\]
+
+### 8. Conclusión
+
+La ecuación balanceada es:
+
+\[
+2\mathrm{Al} + 6\mathrm{HCl} \rightarrow 2\mathrm{AlCl_3} + 3\mathrm{H_2}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{HCl}\) es \(6\). Este resultado indica que se requieren \(6\) moles de ácido clorhídrico para reaccionar completamente con \(2\) moles de aluminio, produciendo \(2\) moles de cloruro de aluminio y \(3\) moles de hidrógeno gaseoso.

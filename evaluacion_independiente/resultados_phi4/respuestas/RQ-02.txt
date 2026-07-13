@@ -1,0 +1,41 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química, se debe respetar la ley de conservación de la masa. Esto significa que el número de átomos de cada elemento debe ser igual en los reactivos y en los productos. En este ejercicio, la ecuación química es:
+
+\[
+\mathrm{H_2 + O_2 \rightarrow H_2O}
+\]
+
+### 2. Información proporcionada
+
+La ecuación química inorgánica es:
+
+\[
+\mathrm{H_2 + O_2 \rightarrow H_2O}
+\]
+
+Los elementos presentes son hidrógeno (\(\mathrm{H}\)) y oxígeno (\(\mathrm{O}\)).
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico del \(\mathrm{H_2O}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para balancear la ecuación, se igualan los átomos de cada elemento en ambos lados de la reacción.
+
+### 5. Aplicación de los datos
+
+Primero se balancea el oxígeno. En los reactivos hay 2 átomos de oxígeno (\(\mathrm{O_2}\)). En los productos, el agua \(\mathrm{H_2O}\) tiene 1 átomo de oxígeno. Para igualar el oxígeno, se coloca un coeficiente 2 al \(\mathrm{H_2O}\):
+
+\[
+\mathrm{H_2 + O_2 \rightarrow 2H_2O}
+\]
+
+Luego se balancea el hidrógeno. En los reactivos, el \(\mathrm{H_2}\) tiene 2 átomos de hidrógeno. En los productos, el coeficiente 2 del \(\mathrm{H_2O}\) da \(2 \times 2 = 4\) átomos de hidrógeno. Para igualar el hidrógeno, se coloca un coeficiente 2 al \(\mathrm{H_2}\):
+
+\[
+\mathrm{2H_2 + O_2 \rightarrow 2H_2O}
+\]
+
+###

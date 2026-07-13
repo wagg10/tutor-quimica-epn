@@ -1,0 +1,17 @@
+COTEJO DE VERSIONES — TABLA 6
+
+transformers: tabla=5.12.1 | entorno=5.12.1 | CORRECTA
+torch: tabla=2.11.0+cu128 | entorno=2.11.0+cu128 | CORRECTA
+datasets: tabla=5.0.0 | entorno=5.0.0 | CORRECTA
+accelerate: tabla=1.14.0 | entorno=1.14.0 | CORRECTA
+peft: tabla=0.19.1 | entorno=0.19.1 | CORRECTA
+trl: tabla=1.6.0 | entorno=1.6.0 | CORRECTA
+bitsandbytes: tabla=0.49.2 | entorno=0.49.2 | CORRECTA
+safetensors: tabla=0.8.0 | entorno=0.8.0 | CORRECTA
+sentencepiece: tabla=0.2.1 | entorno=0.2.1 | CORRECTA
+numpy: tabla=2.4.4 | entorno=2.4.4 | CORRECTA
+pandas: tabla=3.0.3 | entorno=2.2.3 | REVISAR
+scikit-learn: tabla=1.9.0 | entorno=1.9.0 | CORRECTA
+tensorboard: tabla=2.20.0 | entorno=2.20.0 | CORRECTA
+Python: tabla=3.12.3 | entorno=3.12.3 | CORRECTA
+Ubuntu: tabla=24.04.4 | entorno=24.04 | REVISAR

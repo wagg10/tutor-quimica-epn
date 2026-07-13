@@ -1,0 +1,19 @@
+Para balancear la reacción H2 + O2 -> H2O, seguimos estos pasos:
+
+**Paso 1: Señalar los elementos a balancear.** En este caso, los elementos son Hidrógeno (H) y Oxígeno (O).
+
+**Paso 2: Contar los átomos en cada miembro de la ecuación.** En los reactivos hay 2 átomos de H y 2 átomos de O. En los productos hay 2 átomos de H y 1 átomo de O.
+
+**Paso 3: Balancear el elemento más abundante.** El Hidrógeno aparece 2 veces en los reactivos y 1 vez en los productos. Para balancear, ponemos un coeficiente 2 al H2O.
+
+**Paso 4: Verificar los átomos.** Con el coeficiente 2, los productos tienen 4 átomos de H y 2 átomos de O. Para balancear el Hidrógeno, ponemos un coeficiente 2 al H2.
+
+**Paso 5: Verificar si la ecuación está balanceada.** Ahora los reactivos tienen 4 átomos de H y 2 átomos de O, y los productos también tienen 4 átomos de H y 2 átomos de O.
+
+La ecuación balanceada es:
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+**Respuesta final:** El coeficiente estequiométrico del H2O es \(\boxed{2}\).

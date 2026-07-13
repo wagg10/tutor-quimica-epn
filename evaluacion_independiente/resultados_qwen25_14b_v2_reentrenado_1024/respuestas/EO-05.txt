@@ -1,0 +1,83 @@
+### 1. Fundamento químico del problema
+
+En una molécula neutra, la suma de los estados de oxidación de todos los átomos debe ser igual a cero.
+
+### 2. Información proporcionada
+
+El compuesto es tiosulfato de sodio:
+
+\[
+\mathrm{Na_2S_2O_3}
+\]
+
+Hay dos átomos de sodio, dos átomos de azufre y tres átomos de oxígeno.
+
+El sodio es un metal alcalino, por lo tanto, su estado de oxidación es positivo:
+
+\[
+\mathrm{Na}=+1
+\]
+
+El oxígeno es un elemento muy electronegativo, por lo tanto, su estado de oxidación es negativo:
+
+\[
+\mathrm{O}=-2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación promedio del azufre en el tiosulfato de sodio (\(\mathrm{Na_2S_2O_3}\)).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Como el compuesto es neutro:
+
+\[
+(+1)(2)+(-2)(3)+(x)(2)=0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores en la ecuación:
+
+\[
+(+1)(2)+(-2)(3)+(x)(2)=0
+\]
+
+\[
+2-6+2x=0
+\]
+
+### 6. Resolución paso a paso
+
+Se agrupan los términos constantes:
+
+\[
+2x=4
+\]
+
+Se despeja \(x\):
+
+\[
+x=\frac{4}{2}
+\]
+
+\[
+x=+2
+\]
+
+Por lo tanto, el estado de oxidación promedio del azufre es:
+
+\[
+\mathrm{S}=+2
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{S}=+2}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación promedio del azufre en el tiosulfato de sodio es \(+2\), porque al sustituir los valores en la ecuación se obtiene \(2x=4\), luego \(x=+2\).

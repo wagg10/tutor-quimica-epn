@@ -1,0 +1,56 @@
+Para determinar el número de neutrones de un isótopo del carbono con número másico 14 y número atómico 6, seguimos estos pasos:
+
+### 1. Fundamento químico del problema
+
+El número másico \(A\) representa la cantidad total de partículas nucleares (protones y neutrones). El número atómico \(Z\) representa la cantidad de protones. Al conocer \(A\) y \(Z\), se puede calcular el número de neutrones.
+
+### 2. Información proporcionada
+
+- Número másico: \(A = 14\)
+- Número atómico: \(Z = 6\)
+
+### 3. Lo que se debe determinar
+
+- Número de neutrones.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación entre número másico, número atómico y número de neutrones es:
+
+\[
+A = Z + n_0
+\]
+
+donde \(n_0\) representa el número de neutrones.
+
+### 5. Aplicación de los datos
+
+Sustituimos los valores conocidos en la relación:
+
+\[
+14 = 6 + n_0
+\]
+
+### 6. Resolución paso a paso
+
+Despejamos \(n_0\):
+
+\[
+n_0 = 14 - 6
+\]
+
+\[
+n_0 = 8
+\]
+
+Verificación: Si el carbono tiene 6 protones y 8 neutrones, el número másico es \(6 + 8 = 14\), lo cual coincide con el dato proporcionado.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Número de neutrones} = 8}
+\]
+
+### 8. Conclusión
+
+El número de neutrones es 8 porque el número másico \(14\) corresponde a la suma de los 6 protones y los 8 neutrones del isótopo.

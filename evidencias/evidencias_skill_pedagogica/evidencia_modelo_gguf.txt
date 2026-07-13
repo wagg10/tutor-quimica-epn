@@ -1,0 +1,1 @@
+-rw-rw-r-- 1 lasinac lasinac 28G jun 26 14:36 /home/lasinac/Quimica/phi4_quimica_v2_BF16.gguf

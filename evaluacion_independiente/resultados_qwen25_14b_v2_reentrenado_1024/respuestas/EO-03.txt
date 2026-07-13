@@ -1,0 +1,69 @@
+### 1. Fundamento químico del problema
+
+En un compuesto molecular neutro, la suma de los estados de oxidación debe ser igual a cero.
+
+### 2. Información proporcionada
+
+Ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4}
+\]
+
+El oxígeno tiene estado de oxidación \(-2\):
+
+\[
+\mathrm{O}=-2
+\]
+
+El hidrógeno tiene estado de oxidación \(+1\) cuando se une con no metales:
+
+\[
+\mathrm{H}=+1
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del azufre en el ácido sulfúrico.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Como el ácido sulfúrico es un compuesto molecular neutro:
+
+\[
+\sum EO=0
+\]
+
+### 5. Aplicación de los datos
+
+Se asignan los estados de oxidación conocidos:
+
+\[
+2(+1)+1(EO_{\mathrm{S}})+4(-2)=0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+2+1(EO_{\mathrm{S}})-8=0
+\]
+
+\[
+1(EO_{\mathrm{S}})-6=0
+\]
+
+\[
+EO_{\mathrm{S}}=+6
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{EO_{\mathrm{S}}=+6}
+\]
+
+### 8. Conclusión
+
+El azufre en el ácido sulfúrico tiene estado de oxidación \(+6\), porque el compuesto es neutro y al resolver la ecuación se obtiene \(EO_{\mathrm{S}}=+6\).

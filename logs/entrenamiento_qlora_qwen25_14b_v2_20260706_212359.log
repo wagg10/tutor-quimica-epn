@@ -1,0 +1,159 @@
+2026-07-06 21:23:59,114 [INFO] ================================================================================
+2026-07-06 21:23:59,114 [INFO]  TUTOR LLM QUÍMICA v2 - QLORA - QWEN2.5 14B INSTRUCT
+2026-07-06 21:23:59,115 [INFO]  Inicio: 20260706_212359
+2026-07-06 21:23:59,115 [INFO]  Dataset: 684 ejercicios corregidos con formato de 8 encabezados
+2026-07-06 21:23:59,115 [INFO] ================================================================================
+2026-07-06 21:23:59,452 [INFO] GPU detectada: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 32.57, 'vram_usada_gb': 1.09, 'compute_capability': '12.0'}
+2026-07-06 21:23:59,452 [INFO] Configuración guardada en: ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado/configuracion_entrenamiento.json
+2026-07-06 21:23:59,452 [INFO] Validando dataset en: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-07-06 21:23:59,465 [INFO] ============================================================
+2026-07-06 21:23:59,465 [INFO] REPORTE DE VALIDACIÓN
+2026-07-06 21:23:59,465 [INFO] ============================================================
+2026-07-06 21:23:59,465 [INFO] Total ejemplos              : 684
+2026-07-06 21:23:59,465 [INFO] Errores de estructura       : 0
+2026-07-06 21:23:59,465 [INFO] Sin 8 encabezados completos : 3
+2026-07-06 21:23:59,465 [INFO] Con LaTeX prohibido         : 0
+2026-07-06 21:23:59,465 [INFO] Con código Python           : 0
+2026-07-06 21:23:59,465 [INFO] ============================================================
+2026-07-06 21:23:59,465 [INFO] ✅ Dataset apto para entrenamiento
+2026-07-06 21:23:59,465 [INFO] Cargando dataset desde: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-07-06 21:23:59,902 [INFO] HTTP Request: HEAD https://s3.amazonaws.com/datasets.huggingface.co/datasets/datasets/json/json.py "HTTP/1.1 200 OK"
+2026-07-06 21:23:59,914 [INFO] Dataset dividido → Train: 615 | Validación: 69
+2026-07-06 21:23:59,914 [INFO] ============================================================
+2026-07-06 21:23:59,914 [INFO] PLAN DE ENTRENAMIENTO
+2026-07-06 21:23:59,914 [INFO] ============================================================
+2026-07-06 21:23:59,914 [INFO]   Batch efectivo            : 8
+2026-07-06 21:23:59,914 [INFO]   Steps por época           : 76
+2026-07-06 21:23:59,914 [INFO]   Total steps               : 304
+2026-07-06 21:23:59,914 [INFO]   Warmup steps              : 15
+2026-07-06 21:23:59,914 [INFO]   Evaluaciones por época    : ~4
+2026-07-06 21:23:59,914 [INFO]   Checkpoints por época     : ~2
+2026-07-06 21:23:59,914 [INFO] ============================================================
+2026-07-06 21:23:59,914 [INFO] Cargando tokenizador: /home/lasinac/Quimica/modelos/Qwen2.5-14B-Instruct
+2026-07-06 21:24:00,080 [INFO] Cargando modelo base en QLoRA 4-bit: /home/lasinac/Quimica/modelos/Qwen2.5-14B-Instruct
+2026-07-06 21:24:05,146 [INFO] GPU tras cargar modelo: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 16.12, 'vram_usada_gb': 17.55, 'compute_capability': '12.0'}
+2026-07-06 21:24:10,206 [INFO] Parámetros QLoRA → Total: 8,439,256,064 | Entrenables: 275,251,200 | 3.2616%
+2026-07-06 21:24:10,356 [INFO] 
+🚀 INICIANDO ENTRENAMIENTO QLORA v2 🚀
+
+2026-07-06 21:24:10,983 [INFO] HTTP Request: HEAD https://huggingface.co/api/telemetry/trl/SFTTrainer "HTTP/1.1 200 OK"
+2026-07-06 21:24:54,185 [INFO] 📈 Train step=5 | loss=1.1599 | lr=2.50e-05
+2026-07-06 21:25:30,325 [INFO] 📈 Train step=10 | loss=1.0474 | lr=5.63e-05
+2026-07-06 21:26:07,536 [INFO] 📈 Train step=15 | loss=0.7537 | lr=8.75e-05
+2026-07-06 21:26:56,960 [INFO] 📊 Eval step=19 | epoch=0.24715447154471545 | loss=0.5708 | acc=0.8556 | t=2.86 min
+2026-07-06 21:26:56,960 [INFO] ✨ Nuevo mejor eval_loss: 0.5708
+2026-07-06 21:27:06,078 [INFO] 📈 Train step=20 | loss=0.5815 | lr=1.00e-04
+2026-07-06 21:27:44,123 [INFO] 📈 Train step=25 | loss=0.5992 | lr=9.98e-05
+2026-07-06 21:28:25,778 [INFO] 📈 Train step=30 | loss=0.4767 | lr=9.95e-05
+2026-07-06 21:29:06,075 [INFO] 📈 Train step=35 | loss=0.5477 | lr=9.91e-05
+2026-07-06 21:29:50,829 [INFO] 📊 Eval step=38 | epoch=0.4943089430894309 | loss=0.5174 | acc=0.8660 | t=5.76 min
+2026-07-06 21:29:50,829 [INFO] ✨ Nuevo mejor eval_loss: 0.5174
+2026-07-06 21:30:06,240 [INFO] 📈 Train step=40 | loss=0.4952 | lr=9.85e-05
+2026-07-06 21:30:41,477 [INFO] 📈 Train step=45 | loss=0.5303 | lr=9.77e-05
+2026-07-06 21:31:18,192 [INFO] 📈 Train step=50 | loss=0.5285 | lr=9.69e-05
+2026-07-06 21:31:57,597 [INFO] 📈 Train step=55 | loss=0.5289 | lr=9.59e-05
+2026-07-06 21:32:32,260 [INFO] 📊 Eval step=57 | epoch=0.7414634146341463 | loss=0.4872 | acc=0.8718 | t=8.45 min
+2026-07-06 21:32:32,260 [INFO] ✨ Nuevo mejor eval_loss: 0.4872
+2026-07-06 21:32:54,794 [INFO] 📈 Train step=60 | loss=0.4805 | lr=9.47e-05
+2026-07-06 21:33:32,211 [INFO] 📈 Train step=65 | loss=0.4098 | lr=9.35e-05
+2026-07-06 21:34:09,036 [INFO] 📈 Train step=70 | loss=0.5059 | lr=9.21e-05
+2026-07-06 21:34:48,320 [INFO] 📈 Train step=75 | loss=0.4571 | lr=9.06e-05
+2026-07-06 21:35:16,270 [INFO] 📊 Eval step=76 | epoch=0.9886178861788618 | loss=0.4678 | acc=0.8760 | t=11.19 min
+2026-07-06 21:35:16,270 [INFO] ✨ Nuevo mejor eval_loss: 0.4678
+2026-07-06 21:35:47,850 [INFO] 📈 Train step=80 | loss=0.4619 | lr=8.89e-05
+2026-07-06 21:36:28,445 [INFO] 📈 Train step=85 | loss=0.4072 | lr=8.72e-05
+2026-07-06 21:37:09,232 [INFO] 📈 Train step=90 | loss=0.3753 | lr=8.54e-05
+2026-07-06 21:37:53,508 [INFO] 📈 Train step=95 | loss=0.3626 | lr=8.34e-05
+2026-07-06 21:38:15,263 [INFO] 📊 Eval step=95 | epoch=1.2341463414634146 | loss=0.4552 | acc=0.8797 | t=14.17 min
+2026-07-06 21:38:15,264 [INFO] ✨ Nuevo mejor eval_loss: 0.4552
+2026-07-06 21:38:52,759 [INFO] 📈 Train step=100 | loss=0.3771 | lr=8.14e-05
+2026-07-06 21:39:32,118 [INFO] 📈 Train step=105 | loss=0.3781 | lr=7.92e-05
+2026-07-06 21:40:12,048 [INFO] 📈 Train step=110 | loss=0.4045 | lr=7.70e-05
+2026-07-06 21:41:03,669 [INFO] 📊 Eval step=114 | epoch=1.4813008130081302 | loss=0.4434 | acc=0.8824 | t=16.98 min
+2026-07-06 21:41:03,669 [INFO] ✨ Nuevo mejor eval_loss: 0.4434
+2026-07-06 21:41:11,666 [INFO] 📈 Train step=115 | loss=0.4008 | lr=7.47e-05
+2026-07-06 21:41:50,962 [INFO] 📈 Train step=120 | loss=0.4134 | lr=7.23e-05
+2026-07-06 21:42:32,793 [INFO] 📈 Train step=125 | loss=0.4292 | lr=6.99e-05
+2026-07-06 21:43:12,029 [INFO] 📈 Train step=130 | loss=0.3989 | lr=6.74e-05
+2026-07-06 21:43:56,626 [INFO] 📊 Eval step=133 | epoch=1.7284552845528456 | loss=0.4349 | acc=0.8841 | t=19.86 min
+2026-07-06 21:43:56,626 [INFO] ✨ Nuevo mejor eval_loss: 0.4349
+2026-07-06 21:44:12,545 [INFO] 📈 Train step=135 | loss=0.4103 | lr=6.48e-05
+2026-07-06 21:44:52,337 [INFO] 📈 Train step=140 | loss=0.4364 | lr=6.22e-05
+2026-07-06 21:45:33,021 [INFO] 📈 Train step=145 | loss=0.3881 | lr=5.96e-05
+2026-07-06 21:46:14,123 [INFO] 📈 Train step=150 | loss=0.3648 | lr=5.70e-05
+2026-07-06 21:46:51,622 [INFO] 📊 Eval step=152 | epoch=1.975609756097561 | loss=0.4247 | acc=0.8866 | t=22.77 min
+2026-07-06 21:46:51,622 [INFO] ✨ Nuevo mejor eval_loss: 0.4247
+2026-07-06 21:47:17,925 [INFO] 📈 Train step=155 | loss=0.3018 | lr=5.43e-05
+2026-07-06 21:47:56,624 [INFO] 📈 Train step=160 | loss=0.2567 | lr=5.16e-05
+2026-07-06 21:48:38,764 [INFO] 📈 Train step=165 | loss=0.2656 | lr=4.89e-05
+2026-07-06 21:49:18,961 [INFO] 📈 Train step=170 | loss=0.2355 | lr=4.62e-05
+2026-07-06 21:49:48,546 [INFO] 📊 Eval step=171 | epoch=2.221138211382114 | loss=0.4387 | acc=0.8875 | t=25.72 min
+2026-07-06 21:49:48,546 [INFO] ⏳ Sin mejora (1/8) | Mejor: 0.4247 | Actual: 0.4387
+2026-07-06 21:50:21,064 [INFO] 📈 Train step=175 | loss=0.2562 | lr=4.36e-05
+2026-07-06 21:51:01,374 [INFO] 📈 Train step=180 | loss=0.2490 | lr=4.09e-05
+2026-07-06 21:51:44,494 [INFO] 📈 Train step=185 | loss=0.2735 | lr=3.83e-05
+2026-07-06 21:52:23,602 [INFO] 📈 Train step=190 | loss=0.2598 | lr=3.57e-05
+2026-07-06 21:52:45,378 [INFO] 📊 Eval step=190 | epoch=2.4682926829268292 | loss=0.4373 | acc=0.8885 | t=28.67 min
+2026-07-06 21:52:45,378 [INFO] ⏳ Sin mejora (2/8) | Mejor: 0.4247 | Actual: 0.4373
+2026-07-06 21:53:25,694 [INFO] 📈 Train step=195 | loss=0.2597 | lr=3.31e-05
+2026-07-06 21:54:04,410 [INFO] 📈 Train step=200 | loss=0.2788 | lr=3.06e-05
+2026-07-06 21:54:44,747 [INFO] 📈 Train step=205 | loss=0.3022 | lr=2.82e-05
+2026-07-06 21:55:38,612 [INFO] 📊 Eval step=209 | epoch=2.7154471544715446 | loss=0.4313 | acc=0.8897 | t=31.56 min
+2026-07-06 21:55:38,612 [INFO] ⏳ Sin mejora (3/8) | Mejor: 0.4247 | Actual: 0.4313
+2026-07-06 21:55:46,332 [INFO] 📈 Train step=210 | loss=0.3118 | lr=2.58e-05
+2026-07-06 21:56:24,948 [INFO] 📈 Train step=215 | loss=0.2709 | lr=2.35e-05
+2026-07-06 21:57:06,644 [INFO] 📈 Train step=220 | loss=0.3284 | lr=2.12e-05
+2026-07-06 21:57:46,840 [INFO] 📈 Train step=225 | loss=0.3466 | lr=1.91e-05
+2026-07-06 21:58:31,899 [INFO] 📊 Eval step=228 | epoch=2.9626016260162604 | loss=0.4296 | acc=0.8900 | t=34.45 min
+2026-07-06 21:58:31,899 [INFO] ⏳ Sin mejora (4/8) | Mejor: 0.4247 | Actual: 0.4296
+2026-07-06 21:58:48,389 [INFO] 📈 Train step=230 | loss=0.2955 | lr=1.70e-05
+2026-07-06 21:59:25,636 [INFO] 📈 Train step=235 | loss=0.1924 | lr=1.50e-05
+2026-07-06 22:00:04,286 [INFO] 📈 Train step=240 | loss=0.1997 | lr=1.32e-05
+2026-07-06 22:00:43,623 [INFO] 📈 Train step=245 | loss=0.2147 | lr=1.14e-05
+2026-07-06 22:01:21,167 [INFO] 📊 Eval step=247 | epoch=3.208130081300813 | loss=0.4538 | acc=0.8888 | t=37.27 min
+2026-07-06 22:01:21,168 [INFO] ⏳ Sin mejora (5/8) | Mejor: 0.4247 | Actual: 0.4538
+2026-07-06 22:01:43,371 [INFO] 📈 Train step=250 | loss=0.2149 | lr=9.74e-06
+2026-07-06 22:02:20,828 [INFO] 📈 Train step=255 | loss=0.2206 | lr=8.20e-06
+2026-07-06 22:03:03,019 [INFO] 📈 Train step=260 | loss=0.2410 | lr=6.79e-06
+2026-07-06 22:03:44,361 [INFO] 📈 Train step=265 | loss=0.1567 | lr=5.50e-06
+2026-07-06 22:04:14,900 [INFO] 📊 Eval step=266 | epoch=3.4552845528455283 | loss=0.4541 | acc=0.8887 | t=40.16 min
+2026-07-06 22:04:14,900 [INFO] ⏳ Sin mejora (6/8) | Mejor: 0.4247 | Actual: 0.4541
+2026-07-06 22:04:49,430 [INFO] 📈 Train step=270 | loss=0.1774 | lr=4.34e-06
+2026-07-06 22:05:29,348 [INFO] 📈 Train step=275 | loss=0.2148 | lr=3.31e-06
+2026-07-06 22:06:07,932 [INFO] 📈 Train step=280 | loss=0.2128 | lr=2.41e-06
+2026-07-06 22:06:46,785 [INFO] 📈 Train step=285 | loss=0.2035 | lr=1.66e-06
+2026-07-06 22:07:07,454 [INFO] 📊 Eval step=285 | epoch=3.7024390243902436 | loss=0.4558 | acc=0.8889 | t=43.04 min
+2026-07-06 22:07:07,454 [INFO] ⏳ Sin mejora (7/8) | Mejor: 0.4247 | Actual: 0.4558
+2026-07-06 22:07:46,238 [INFO] 📈 Train step=290 | loss=0.1767 | lr=1.04e-06
+2026-07-06 22:08:24,700 [INFO] 📈 Train step=295 | loss=0.1960 | lr=5.66e-07
+2026-07-06 22:09:03,732 [INFO] 📈 Train step=300 | loss=0.2121 | lr=2.34e-07
+2026-07-06 22:09:56,527 [INFO] 📊 Eval step=304 | epoch=3.9495934959349595 | loss=0.4558 | acc=0.8887 | t=45.86 min
+2026-07-06 22:09:56,527 [INFO] ⏳ Sin mejora (8/8) | Mejor: 0.4247 | Actual: 0.4558
+2026-07-06 22:09:56,527 [INFO] 🛑 Early stopping activado
+2026-07-06 22:09:57,139 [INFO] 🏁 Entrenamiento completado en 45.9 minutos
+2026-07-06 22:09:57,139 [INFO] ⏱ Duración total: 45.8 minutos
+2026-07-06 22:09:57,139 [INFO] 
+📊 Evaluación final...
+2026-07-06 22:10:17,831 [INFO] 📊 Eval step=304 | epoch=3.9495934959349595 | loss=0.4247 | acc=0.8866 | t=46.21 min
+2026-07-06 22:10:17,831 [INFO] ⏳ Sin mejora (9/8) | Mejor: 0.4247 | Actual: 0.4247
+2026-07-06 22:10:17,832 [INFO] 🛑 Early stopping activado
+2026-07-06 22:10:17,832 [INFO] Métricas finales: {'eval_loss': 0.4247369170188904, 'eval_mean_token_accuracy': 0.8866382154865541, 'eval_runtime': 20.6892, 'eval_samples_per_second': 3.335, 'eval_steps_per_second': 3.335, 'eval_entropy': 0.4156517605634703, 'eval_num_tokens': 3005570.0, 'epoch': 3.9495934959349595, 'num_input_tokens_seen': 3005570}
+2026-07-06 22:10:17,832 [INFO] Mejor checkpoint: ./checkpoints_qwen25_14b_v2_reentrenado/checkpoint-152
+2026-07-06 22:10:17,832 [INFO] Mejor métrica: 0.4247369170188904
+2026-07-06 22:10:17,832 [INFO] 
+💾 Guardando adaptador QLoRA en: ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado
+2026-07-06 22:10:18,328 [INFO] ================================================================================
+2026-07-06 22:10:18,328 [INFO] ✅ ENTRENAMIENTO QLORA QWEN2.5 14B v2 COMPLETADO
+2026-07-06 22:10:18,328 [INFO] Modelo Qwen2.5 guardado: ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado
+2026-07-06 22:10:18,328 [INFO] Reporte:         ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado/reporte_entrenamiento.json
+2026-07-06 22:10:18,328 [INFO] Historial:       ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado/historial_metricas.json
+2026-07-06 22:10:18,328 [INFO] Log:             entrenamiento_qlora_qwen25_14b_v2_20260706_212359.log
+2026-07-06 22:10:18,328 [INFO] ================================================================================
+2026-07-06 22:10:18,328 [INFO] 
+📋 PRÓXIMOS PASOS:
+2026-07-06 22:10:18,328 [INFO]   1. Convertir el adaptador LoRA a GGUF:
+2026-07-06 22:10:18,328 [INFO]      python convert_lora_to_gguf.py --adapter ./modelo_tutor_quimica_qwen25_14b_v2_reentrenado
+2026-07-06 22:10:18,328 [INFO]   2. Combinar con el modelo base Phi-4 y cuantizar a Q4_K_M
+2026-07-06 22:10:18,328 [INFO]   3. Reemplazar el archivo phi4_quimica_Q4_K_M.gguf en Hermes
+2026-07-06 22:10:18,328 [INFO]   4. Reiniciar llama-server y probar con un ejercicio
+2026-07-06 22:10:18,328 [INFO] 

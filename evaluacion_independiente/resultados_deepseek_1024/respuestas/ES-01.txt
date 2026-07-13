@@ -1,0 +1,87 @@
+Primero, se identifican los elementos presentes en la fórmula del hidróxido de calcio: Calcio (Ca), Oxígeno (O) y Hidrógeno (H).
+
+Luego, se asignan los números de subíndices correspondientes a cada elemento:
+- Calcio: 1
+- Oxígeno: 2
+- Hidrógeno: 2
+
+Después, se multiplican las masas atómicas por sus respectivos subíndices:
+- Calcio: \(40,08 \, \text{g/mol} \times 1 = 40,08 \, \text{g/mol}\)
+- Oxígeno: \(16,00 \, \text{g/mol} \times 2 = 32,00 \, \text{g/mol}\)
+- Hidrógeno: \(1,008 \, \text{g/mol} \times 2 = 2,016 \, \text{g/mol}\)
+
+Finalmente, se suman los resultados obtenidos para obtener la masa molar total:
+\[
+40,08 + 32,00 + 2,016 = 74,096 \, \text{g/mol}
+\]
+
+La masa molar del hidróxido de calcio es aproximadamente \(74,10 \, \text{g/mol}\).
+</think>
+
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se calcula sumando las masas atómicas de todos sus elementos, multiplicadas por sus respectivos subíndices. En el caso del hidróxido de calcio, \(\mathrm{Ca(OH)_2}\), el calcio tiene un subíndice de 1, el oxígeno tiene un subíndice de 2 y el hidrógeno también tiene un subíndice de 2.
+
+### 2. Información proporcionada
+
+- Elemento: Calcio (Ca)
+- Número atómico: \(Z = 40,08\)
+- Elemento: Oxígeno (O)
+- Número atómico: \(Z = 16,00\)
+- Elemento: Hidrógeno (H)
+- Número atómico: \(Z = 1,008\)
+- Subíndices: \(\mathrm{Ca(OH)_2}\)
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa molar del hidróxido de calcio, \(\mathrm{Ca(OH)_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La fórmula general para calcular la masa molar es:
+
+\[
+PM = \sum (Z_i \cdot PA_i)
+\]
+
+donde \(Z_i\) es el número atómico del elemento y \(PA_i\) es su masa atómica.
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores en la fórmula:
+
+\[
+PM = (40,08 \, \text{g/mol} \times 1) + (16,00 \, \text{g/mol} \times 2) + (1,008 \, \text{g/mol} \times 2)
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la multiplicación de cada masa atómica por su subíndice:
+
+\[
+40,08 \, \text{g/mol} \times 1 = 40,08 \, \text{g/mol}
+\]
+
+\[
+16,00 \, \text{g/mol} \times 2 = 32,00 \, \text{g/mol}
+\]
+
+\[
+1,008 \, \text{g/mol} \times 2 = 2,016 \, \text{g/mol}
+\]
+
+Luego se suman los resultados:
+
+\[
+40,08 + 32,00 + 2,016 = 74,096 \, \text{g/mol}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 74,10 \, \text{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar del hidróxido de calcio es aproximadamente \(74,10 \, \text{g/mol}\).

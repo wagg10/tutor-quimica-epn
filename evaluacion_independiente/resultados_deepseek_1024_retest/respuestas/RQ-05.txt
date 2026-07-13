@@ -1,0 +1,83 @@
+Para balancear la reacción Al + HCl -> AlCl3 + H2, seguimos estos pasos:
+
+**Paso 1: Escribir la ecuación química incompleta.**
+
+\[
+Al + HCl \rightarrow AlCl_3 + H_2
+\]
+
+**Paso 2: Contar los átomos de cada elemento en los reactivos y productos.**
+
+**Reactivos:**
+- Al: 1
+- H: 1 (en HCl)
+- Cl: 1 (en HCl)
+
+**Productos:**
+- Al: 1
+- Cl: 3 (en AlCl3)
+- H: 2 (en H2)
+
+**Paso 3: Balancear el aluminio (Al).**
+
+Hay 1 átomo de Al en reactivos y 1 átomo en productos. El aluminio ya está balanceado.
+
+**Paso 4: Balancear el cloro (Cl).**
+
+En reactivos hay 1 átomo de Cl (en HCl). En productos hay 3 átomos de Cl (en AlCl3). Para balancear el cloro, ponemos un coeficiente 3 al compuesto HCl.
+
+\[
+Al + 3HCl \rightarrow AlCl_3 + H_2
+\]
+
+**Paso 5: Balancear el hidrógeno (H).**
+
+En reactivos, con el coeficiente 3 al HCl, hay \(3 \times 1 = 3\) átomos de H. En productos hay 2 átomos de H (en H2). Para balancear el hidrógeno, ponemos un coeficiente 3 al H2.
+
+\[
+Al + 3HCl \rightarrow AlCl_3 + 3H_2
+\]
+
+**Paso 6: Verificar el balance.**
+
+**Reactivos:**
+- Al: 1
+- H: \(3 \times 1 = 3\)
+- Cl: \(3 \times 1 = 3\)
+
+**Productos:**
+- Al: 1
+- Cl: 3
+- H: \(3 \times 2 = 6\)
+
+El aluminio y el cloro están balanceados, pero el hidrógeno no. Para corregirlo, ponemos un coeficiente 3 al HCl.
+
+**Paso 7: Verificar el balance final.**
+
+**Reactivos:**
+- Al: 1
+- H: \(3 \times 1 = 3\)
+- Cl: \(3 \times 1 = 3\)
+
+**Productos:**
+- Al: 1
+- Cl: 3
+- H: \(3 \times 2 = 6\)
+
+El balanceo final es correcto.
+
+**Paso 8: Escribir la ecuación balanceada.**
+
+\[
+Al + 3HCl \rightarrow AlCl_3 + 3H_2
+\]
+
+**Paso 9: Identificar el coeficiente estequiométrico del HCl.**
+
+El coeficiente estequiométrico del HCl es 3.
+
+**Respuesta final:**
+
+\[
+\boxed{\text{coeficiente estequiométrico del HCl} = 3}
+\]

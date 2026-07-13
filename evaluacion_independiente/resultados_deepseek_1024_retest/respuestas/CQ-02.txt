@@ -1,0 +1,15 @@
+### Definición
+
+La electronegatividad es la capacidad de un átomo para atraer hacia sí los electrones compartidos en un enlace covalente.
+
+### Explicación
+
+La electronegatividad se basa en la diferencia de electronegatividad entre dos átomos. Cuanto mayor sea la diferencia, mayor será la polarización del enlace. En un periodo, la electronegatividad aumenta hacia la derecha, porque los elementos del grupo VIIA son los más electronegativos. En un grupo, la electronegatividad disminuye hacia abajo, porque los elementos de los periodos inferiores tienen mayor tamaño atómico y los electrones se encuentran más alejados del núcleo.
+
+### Ejemplo
+
+El flúor es el elemento más electronegativo de la tabla periódica, mientras que el hidrógeno y el litio son los menos electronegativos.
+
+### Importancia en Química
+
+La electronegatividad permite predecir la polaridad de los enlaces covalentes y la dirección de los movimientos de carga parcial.

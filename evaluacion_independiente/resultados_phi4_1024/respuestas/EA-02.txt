@@ -1,0 +1,55 @@
+### 1. Fundamento químico del problema
+
+El número másico \(A\) representa la masa total de un átomo en unidades de masa atómica. Se calcula sumando el número de protones y el número de neutrones del núcleo atómico.
+
+### 2. Información proporcionada
+
+El átomo tiene:
+
+\[
+\#p^+ = 17
+\]
+
+\[
+\#n^0 = 18
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número másico \(A\) del átomo.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación para calcular el número másico es:
+
+\[
+A = \#p^+ + \#n^0
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores dados:
+
+\[
+A = 17 + 18
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la suma de los nucleones:
+
+\[
+A = 35
+\]
+
+**Verificación Aritmética:** \(17 + 18 = 35\). La suma es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{A = 35}
+\]
+
+### 8. Conclusión
+
+El número másico del átomo es \(35\), porque la suma de sus protones y neutrones es \(35\).

@@ -1,0 +1,69 @@
+### 1. Fundamento químico del problema
+
+En moléculas neutras poliatómicas, la suma de los estados de oxidación de todos los átomos debe ser igual a cero.
+
+### 2. Información proporcionada
+
+Compuesto: amoniaco (\( \mathrm{NH_3} \)).
+
+El amoniaco está formado por nitrógeno y hidrógeno.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el amoniaco.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+En moléculas neutras poliatómicas:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+El hidrógeno generalmente tiene estado de oxidación positivo en compuestos no metálicos:
+
+\[
+\mathrm{H} = +1
+\]
+
+### 5. Aplicación de los datos
+
+Sea \( x \) el estado de oxidación del nitrógeno.
+
+Entonces:
+
+\[
+x + 3(+1) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+x + 3(+1) = 0
+\]
+
+\[
+x + 3 = 0
+\]
+
+\[
+x = -3
+\]
+
+Por lo tanto, el estado de oxidación del nitrógeno en el amoniaco es:
+
+\[
+\mathrm{N} = -3
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{N} = -3}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del nitrógeno en el amoniaco es \(-3\), porque en moléculas neutras poliatómicas la suma de los estados de oxidación de todos los átomos debe ser igual a cero.

@@ -1,0 +1,57 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se obtiene sumando las masas atómicas de todos los átomos que contiene la fórmula química. En el ácido sulfúrico, \(\mathrm{H_2SO_4}\), se deben considerar dos hidrógenos, un azufre y cuatro oxígenos.
+
+### 2. Información proporcionada
+
+- Ácido sulfúrico: \(\mathrm{H_2SO_4}\)
+- Masas atómicas:
+- \(\mathrm{H} = 1,008 \, \mathrm{g/mol}\)
+- \(\mathrm{S} = 32,06 \, \mathrm{g/mol}\)
+- \(\mathrm{O} = 16,00 \, \mathrm{g/mol}\)
+
+### 3. Lo que se debe determinar
+
+La masa molar del ácido sulfúrico, \(\mathrm{H_2SO_4}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se calcula con la siguiente expresión:
+
+\[
+PM = \sum (n_i \cdot M_i)
+\]
+
+donde \(n_i\) es el número de átomos de cada elemento y \(M_i\) es la masa atómica de ese elemento.
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores de la fórmula \(\mathrm{H_2SO_4}\):
+
+\[
+PM = (2 \times 1,008) + (1 \times 32,06) + (4 \times 16,00)
+\]
+
+### 6. Resolución paso a paso
+
+Se realizan las operaciones matemáticas:
+
+\[
+PM = 2,016 + 32,06 + 64,00
+\]
+
+\[
+PM = 98,076 \, \mathrm{g/mol}
+\]
+
+Verificación aritmética: la suma de los productos es correcta y las unidades son \(\mathrm{g/mol}\).
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 98,076 \, \mathrm{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar del ácido sulfúrico es \(98,076 \, \mathrm{g/mol}\). Este valor permite convertir entre masa y moles del compuesto en cálculos estequiométricos y es fundamental para cuantificar reacciones químicas.

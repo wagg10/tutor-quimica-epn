@@ -1,0 +1,67 @@
+### 1. Fundamento químico del problema
+
+La energía de ionización es la energía necesaria para remover un electrón de un átomo gaseoso en estado fundamental. Para elementos dentro del mismo periodo, la energía de ionización aumenta de izquierda a derecha debido a que el número de protones aumenta, lo que incrementa la atracción electrostática y reduce el radio atómico.
+
+### 2. Información proporcionada
+
+Los elementos dados son:
+
+\[
+\mathrm{Na}, \quad \mathrm{Mg}, \quad \mathrm{Cl}
+\]
+
+Todos pertenecen al periodo 3 de la tabla periódica.
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de menor a mayor energía de ionización los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Cl}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para elementos del mismo periodo:
+
+\[
+\text{Energía de ionización} \uparrow \Rightarrow \text{posición más a la derecha}
+\]
+
+Además, se considera la configuración electrónica de valencia:
+
+\[
+\mathrm{Na}: [\mathrm{Ne}] 3s^1
+\]
+
+\[
+\mathrm{Mg}: [\mathrm{Ne}] 3s^2
+\]
+
+\[
+\mathrm{Cl}: [\mathrm{Ne}] 3s^2 3p^5
+\]
+
+### 5. Aplicación de los datos
+
+El ordenamiento se basa en la posición horizontal de los elementos en el periodo 3.
+
+### 6. Resolución paso a paso
+
+El orden de los elementos en el periodo 3 es:
+
+\[
+\mathrm{Na} \rightarrow \mathrm{Mg} \rightarrow \mathrm{Cl}
+\]
+
+Por lo tanto, el orden de menor a mayor energía de ionización es:
+
+\[
+\mathrm{Na} < \mathrm{Mg} < \mathrm{Cl}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na} < \mathrm{Mg} < \mathrm{Cl}}
+\]
+
+### 8. Conclusión
+
+El ordenamiento \(\mathrm{Na} < \mathrm{Mg} < \mathrm{Cl}\) se debe a que, al avanzar de izquierda a derecha en el periodo 3, aumenta el número de protones y disminuye el radio atómico, lo que incrementa la atracción electrostática sobre los electrones de valencia y, por ende, aumenta la energía de ionización.

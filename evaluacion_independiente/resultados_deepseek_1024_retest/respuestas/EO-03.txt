@@ -1,0 +1,81 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación es la carga que un átomo parece tener en una molécula o ion, asumiendo que los enlaces covalentes se rompen y que los electrones de enlace se asignan al átomo más electronegativo.
+
+En moléculas neutras, la suma de los estados de oxidación es igual a cero.
+
+### 2. Información proporcionada
+
+El compuesto analizado es el ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4}
+\]
+
+El ácido sulfúrico está formado por hidrógeno, azufre y oxígeno.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del azufre en el ácido sulfúrico.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El hidrógeno, al estar unido a un no metal, generalmente tiene estado de oxidación \(+1\).
+
+El oxígeno, al estar unido a un no metal, generalmente tiene estado de oxidación \(-2\).
+
+En moléculas neutras, la suma de los estados de oxidación es igual a cero.
+
+### 5. Aplicación de los datos
+
+El ácido sulfúrico tiene fórmula \(\mathrm{H_2SO_4}\).
+
+El hidrógeno, al estar unido a un no metal, generalmente tiene estado de oxidación \(+1\).
+
+El oxígeno, al estar unido a un no metal, generalmente tiene estado de oxidación \(-2\).
+
+### 6. Resolución paso a paso
+
+Se asignan los estados de oxidación conocidos:
+
+\[
+\mathrm{H_2} = +2
+\]
+
+\[
+\mathrm{O_4} = -8
+\]
+
+Se deja el estado de oxidación del azufre como incógnita:
+
+\[
+\mathrm{S} = x
+\]
+
+La molécula es neutra, por lo tanto:
+
+\[
+(+2) + x + (-8) = 0
+\]
+
+Se resuelve la ecuación:
+
+\[
+x - 6 = 0
+\]
+
+\[
+x = +6
+\]
+
+### 7. Resultado obtenido
+
+El estado de oxidación del azufre en el ácido sulfúrico es:
+
+\[
+\boxed{\mathrm{S} = +6}
+\]
+
+### 8. Conclusión
+
+El azufre en el ácido sulfúrico tiene estado de oxidación \(+6\), porque el oxígeno se encuentra en estado de oxidación \(-2\) y el hidrógeno en \(+1\).

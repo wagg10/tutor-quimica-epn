@@ -1,0 +1,35 @@
+### 1. Fundamento químico del problema
+
+La electronegatividad es una propiedad periódica que describe la capacidad de un átomo para atraer los electrones compartidos en un enlace covalente. Su variación en la tabla periódica se rige por la atracción electrostática que ejerce el núcleo sobre los electrones de valencia.
+
+### 2. Información proporcionada
+
+El enunciado es de carácter conceptual y no proporciona valores numéricos ni datos cuantitativos.
+
+### 3. Lo que se debe determinar
+
+Se debe explicar qué es la electronegatividad y cómo varía su valor cuando se desplaza un elemento hacia la derecha dentro de un periodo y hacia abajo dentro de un grupo.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La electronegatividad no tiene una unidad de medida fija, pero se expresa mediante escalas como la de Pauling. Su variación se relaciona con el número de protones del núcleo y la distancia internuclear.
+
+### 5. Aplicación de los datos
+
+Se analiza el comportamiento de la electronegatividad en función de la posición de los elementos en la tabla periódica.
+
+### 6. Resolución paso a paso
+
+- **Definición conceptual:** La electronegatividad es la capacidad de un átomo para atraer los electrones compartidos en un enlace covalente.
+- **Variación en un periodo:** Al desplazarse hacia la derecha, el número de protones aumenta, lo que incrementa la atracción electrostática sobre los electrones de valencia. Por lo tanto, la electronegatividad aumenta.
+- **Variación en un grupo:** Al desplazarse hacia abajo, los electrones de valencia se encuentran más alejados del núcleo debido a la presencia de niveles de energía adicionales. La atracción electrostática disminuye, por lo tanto, la electronegatividad disminuye.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{La electronegatividad aumenta hacia la derecha de un periodo y disminuye hacia abajo de un grupo.}}
+\]
+
+### 8. Conclusión
+
+La electroneg

@@ -1,0 +1,41 @@
+Para determinar cuántos electrones desapareados tiene el nitrógeno, seguimos estos pasos:
+
+**Paso 1: Escribir la configuración electrónica completa del nitrógeno.**
+
+El nitrógeno tiene número atómico \(Z = 7\), por lo tanto, tiene 7 electrones.
+
+\[
+\mathrm{N}: 1s^2\,2s^2\,2p^3
+\]
+
+**Paso 2: Identificar los orbitales de valencia.**
+
+Los electrones de valencia del nitrógeno están en el subnivel \(2p^3\).
+
+**Paso 3: Distribuir los electrones en los orbitales de \(2p\).**
+
+El subnivel \(2p\) tiene tres orbitales. Según la regla de Hund, primero se coloca un electrón en cada orbital con espines paralelos y luego se empiezan a emparejar.
+
+\[
+2p^3:
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow}
+\quad
+\boxed{\uparrow\downarrow}
+\]
+
+**Paso 4: Contar los electrones desapareados.**
+
+Un electrón desapareado es aquel que se encuentra solo en un orbital.
+
+En la distribución \(2p^3\), hay tres electrones desapareados.
+
+**Conclusión:**
+
+El nitrógeno tiene:
+
+\[
+\boxed{3 \text{ electrones desapareados}}
+\]

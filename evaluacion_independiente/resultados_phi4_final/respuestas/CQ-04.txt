@@ -1,0 +1,41 @@
+### 1. Fundamento químico del problema
+
+Balancear una ecuación química significa ajustar los coeficientes estequiométricos de forma que se cumpla la ley de conservación de la masa. Esta ley establece que en una reacción química, la materia no se crea ni se destruye, por lo que el número de átomos de cada elemento debe ser igual en los reactivos y en los productos.
+
+### 2. Información proporcionada
+
+El enunciado es de carácter conceptual y no aporta valores numéricos ni sustancias específicas.
+
+### 3. Lo que se debe determinar
+
+Se debe explicar en qué consiste el balanceo de una ecuación química y justificar por qué es un procedimiento necesario en la resolución de problemas químicos.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El balanceo se fundamenta en la ley de conservación de la masa, la cual se expresa como:
+
+\[
+\sum \text{átomos en reactivos} = \sum \text{átomos en productos}
+\]
+
+### 5. Aplicación de los datos
+
+Dado que el enunciado es conceptual, se aplica el principio de conservación de la masa para explicar el significado y la necesidad del balanceo.
+
+### 6. Resolución paso a paso
+
+Se identifica que balancear una ecuación química consiste en colocar coeficientes enteros y mínimos delante de cada compuesto para igualar el número de átomos de cada elemento en ambos lados de la ecuación.
+
+Se explica que este procedimiento es necesario porque permite cumplir la ley de conservación de la masa, la cual dicta que la materia no se crea ni se destruye en una reacción química.
+
+Se justifica que el balanceo es indispensable para poder realizar cálculos estequiométricos correctos, ya que los coeficientes estequiométricos indican las proporciones en las que reaccionan las sustancias y se forman los productos.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Balancear una ecuación química consiste en igualar los átomos de cada elemento en reactivos y productos para cumplir la ley de conservación de la masa.}}
+\]
+
+### 8. Conclusión
+
+Balancear una ecuación química es un paso fundamental en la resolución de problemas químicos porque garantiza que la cantidad de materia se conserve durante la reacción. Esto permite realizar cálculos estequiométricos precisos y predecir las cantidades de productos que se formarán a partir de una cantidad conocida de reactivos.

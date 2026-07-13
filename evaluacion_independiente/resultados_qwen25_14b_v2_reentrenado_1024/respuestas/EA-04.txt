@@ -1,0 +1,111 @@
+### 1. Fundamento químico del problema
+
+Un átomo neutro tiene igual número de protones y electrones.
+
+Cuando un átomo gana electrones, se forma un anión.
+
+El ion S2- proviene de un átomo de azufre con número atómico 16.
+
+### 2. Información proporcionada
+
+El ion S2- proviene de un átomo de azufre con número atómico 16.
+
+El número atómico del azufre es:
+
+\[
+Z = 16
+\]
+
+Como el azufre es un átomo neutro:
+
+\[
+p^+ = e^-
+\]
+
+Por lo tanto:
+
+\[
+e^- = 16
+\]
+
+El ion S2- tiene carga -2, porque ganó 2 electrones.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de electrones del ion S2-.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Un átomo neutro tiene igual número de protones y electrones.
+
+Cuando un átomo gana electrones, se forma un anión.
+
+El ion S2- proviene de un átomo de azufre con número atómico 16.
+
+### 5. Aplicación de los datos
+
+El ion S2- proviene de un átomo de azufre con número atómico 16.
+
+El número atómico del azufre es:
+
+\[
+Z = 16
+\]
+
+Como el azufre es un átomo neutro:
+
+\[
+p^+ = e^-
+\]
+
+Por lo tanto:
+
+\[
+e^- = 16
+\]
+
+El ion S2- tiene carga -2, porque ganó 2 electrones.
+
+### 6. Resolución paso a paso
+
+El ion S2- proviene de un átomo de azufre con número atómico 16.
+
+El número atómico del azufre es:
+
+\[
+Z = 16
+\]
+
+Como el azufre es un átomo neutro:
+
+\[
+p^+ = e^-
+\]
+
+Por lo tanto:
+
+\[
+e^- = 16
+\]
+
+El ion S2- tiene carga -2, porque ganó 2 electrones.
+
+Entonces:
+
+\[
+e^-_{\text{final}} = 16 + 2
+\]
+
+\[
+e^-_{\text{final}} = 18
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{e^- = 18}
+\]
+
+### 8. Conclusión
+
+El ion S2- tiene 18 electrones, porque el átomo neutro de azufre tenía 16 electrones y ganó 2 electrones.

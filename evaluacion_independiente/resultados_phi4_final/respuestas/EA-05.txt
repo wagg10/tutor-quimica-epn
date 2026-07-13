@@ -1,0 +1,73 @@
+### 1. Fundamento químico del problema
+
+El número atómico \(Z\) indica la cantidad de protones de un átomo. El número másico \(A\) indica la suma de protones y neutrones. Para determinar el número de neutrones, se aplica la relación:
+
+\[
+A = Z + \#n^0
+\]
+
+### 2. Información proporcionada
+
+El ion dado es:
+
+\[
+\mathrm{Fe^{3+}}
+\]
+
+El número atómico del hierro es:
+
+\[
+Z = 26
+\]
+
+El número másico indicado es:
+
+\[
+A = 56
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de neutrones del ion \(\mathrm{Fe^{3+}}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación entre número másico, número atómico y número de neutrones es:
+
+\[
+A = Z + \#n^0
+\]
+
+Despejando el número de neutrones:
+
+\[
+\#n^0 = A - Z
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores del hierro:
+
+\[
+\#n^0 = 56 - 26
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la operación:
+
+\[
+\#n^0 = 30
+\]
+
+**Verificación aritmética:** \(56 - 26 = 30\). La unidad es neutra porque se trata de una cantidad de partículas.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#n^0 = 30}
+\]
+
+### 8. Conclusión
+
+El ion \(\mathrm{Fe^{3+}}\) tiene \(30\) neutrones. Esto se debe a que el número másico \(56\) representa la suma de los \(26\) protones del hierro y los neutrones. El ion \(\mathrm{Fe^{3+}}\) se forma cuando el átomo pierde \(3\) electrones, pero el número de neutrones permanece igual.

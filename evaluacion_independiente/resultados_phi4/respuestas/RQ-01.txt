@@ -1,0 +1,46 @@
+### 1. Fundamento químico del problema
+
+El balanceo de una ecuación química se fundamenta en la ley de conservación de la masa, la cual establece que los átomos no se crean ni se destruyen durante una reacción química. Por lo tanto, los coeficientes estequiométricos deben ajustarse de manera que el número de átomos de cada elemento sea igual en los reactivos y en los productos.
+
+### 2. Información proporcionada
+
+Ecuación química inorgánica inorgánica:
+
+\[
+\mathrm{N_2 + H_2 \rightarrow NH_3}
+\]
+
+Elementos presentes: nitrógeno (N) y hidrógeno (H).
+
+### 3. Lo que se debe determinar
+
+El coeficiente estequiométrico del \(\mathrm{NH_3}\) en la ecuación balanceada.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Balanceo de ecuaciones químicas por simple inspección:
+
+\[
+\mathrm{N_2 + H_2 \rightarrow NH_3}
+\]
+
+### 5. Aplicación de los datos
+
+Se observa que el nitrógeno aparece como \(\mathrm{N_2}\) en los reactivos, lo que significa que hay 2 átomos de nitrógeno en el lado izquierdo. Para igualar el nitrógeno en el lado derecho, se coloca un coeficiente 2 al \(\mathrm{NH_3}\):
+
+\[
+\mathrm{N_2 + H_2 \rightarrow 2NH_3}
+\]
+
+### 6. Resolución paso a paso
+
+Después de colocar el coeficiente 2 al \(\mathrm{NH_3}\), se verifica el hidrógeno en el producto:
+
+\[
+2 \times 3 = 6 \text{ átomos de hidrógeno}
+\]
+
+En los reactivos, el hidrógeno aparece como \(\mathrm{H_2}\), por lo que se coloca un coeficiente 3 al \(\mathrm{H_2}\) para igualar los 6 átomos de hidrógeno:
+
+\[
+\mathrm{N_2 + 3H_2 \rightarrow

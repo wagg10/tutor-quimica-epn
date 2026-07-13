@@ -1,0 +1,70 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación es una herramienta teórica que permite asignar valores formales a los átomos dentro de una molécula poliatómica. Para determinar el estado de oxidación de un elemento, se siguen reglas algebraicas basadas en las valencias de los átomos y en la neutralidad de la molécula.
+
+### 2. Información proporcionada
+
+La molécula analizada es el amoniaco:
+
+\[
+\mathrm{NH_3}
+\]
+
+El amoniaco está formado por nitrógeno y hidrógeno.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el amoniaco.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para moléculas neutras, la suma de los estados de oxidación debe ser igual a cero:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+El hidrógeno, en la mayoría de sus compuestos, tiene estado de oxidación:
+
+\[
+\mathrm{EO}_{\mathrm{H}} = +1
+\]
+
+### 5. Aplicación de los datos
+
+Se asigna el estado de oxidación del hidrógeno:
+
+\[
+\mathrm{EO}_{\mathrm{H}} = +1
+\]
+
+Como hay tres átomos de hidrógeno, su contribución total es:
+
+\[
+3(+1) = +3
+\]
+
+### 6. Resolución paso a paso
+
+Se plantea la ecuación de balance de estados de oxidación para el amoniaco:
+
+\[
+\mathrm{EO}_{\mathrm{N}} + 3(+1) = 0
+\]
+
+Se resuelve para el estado de oxidación del nitrógeno:
+
+\[
+\mathrm{EO}_{\mathrm{N}} = 0 - 3
+\]
+
+\[
+\mathrm{EO}_{\mathrm{N}} = -3
+\]
+
+Verificación aritmética: \(0 - 3 = -3\). La suma de los estados de oxidación es \( -3 + 3 = 0 \), cumpliendo la regla de neutralidad.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{EO}_{\

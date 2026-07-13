@@ -1,0 +1,78 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se obtiene sumando las masas atómicas de todos los átomos que conforman una molécula de dicho compuesto.
+
+### 2. Información proporcionada
+
+El compuesto es el ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4}
+\]
+
+Las masas atómicas son:
+
+\[
+H = 1,008 \, \mathrm{g/mol}
+\]
+
+\[
+S = 32,06 \, \mathrm{g/mol}
+\]
+
+\[
+O = 16,00 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa molar del ácido sulfúrico, \(\mathrm{H_2SO_4}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se calcula con la fórmula:
+
+\[
+PM = \sum (PA_i \cdot n_i)
+\]
+
+donde \(PA_i\) es la masa atómica del elemento \(i\) y \(n_i\) es el número de átomos de ese elemento en la fórmula.
+
+### 5. Aplicación de los datos
+
+Para el ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4} = 2 \, \mathrm{H} + 1 \, \mathrm{S} + 4 \, \mathrm{O}
+\]
+
+Se sustituyen los valores:
+
+\[
+PM = (2 \times 1,008) + (1 \times 32,06) + (4 \times 16,00)
+\]
+
+### 6. Resolución paso a paso
+
+Primero se calcula la masa de los átomos de hidrógeno:
+
+\[
+2 \times 1,008 = 2,016
+\]
+
+Luego se calcula la masa del átomo de azufre:
+
+\[
+1 \times 32,06 = 32,06
+\]
+
+Después se calcula la masa de los átomos de oxígeno:
+
+\[
+4 \times 16,00 = 64,00
+\]
+
+Finalmente, se suman todas las masas:
+
+\[
+PM = 2,016 + 32,06 + 64

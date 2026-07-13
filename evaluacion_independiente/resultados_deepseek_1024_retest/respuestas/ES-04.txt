@@ -1,0 +1,19 @@
+Primero, se identifica el reactivo limitante. El hidrógeno se encuentra en 2 moles por cada 1 mol de oxígeno. Dado que el oxígeno está en exceso, el hidrógeno es el reactivo limitante.
+
+Luego, se calculan los moles de H2 disponibles:
+
+$$n_{H_2} = \frac{4 \text{ g}}{2 \text{ g/mol}} = 2 \text{ moles}$$
+
+Después, se aplica la relación estequiométrica para los moles de H2O producidos:
+
+$$n_{H_2O} = 2 \text{ moles H2} \cdot \left(\frac{2 \text{ moles H2O}}{2 \text{ moles H2}}\right) = 2 \text{ moles H2O}$$
+
+Finalmente, se convierten los moles de H2O a gramos:
+
+$$m_{H_2O} = 2 \text{ moles} \cdot 18 \text{ g/mol} = 36 \text{ g}$$
+
+### 7. Resultado obtenido
+
+\[
+\boxed{36 \text{ g de H2O se forman}}
+\]

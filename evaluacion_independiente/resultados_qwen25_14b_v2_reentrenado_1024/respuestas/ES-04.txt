@@ -1,0 +1,86 @@
+### 1. Fundamento químico del problema
+
+La estequiometría permite predecir las masas de productos formados a partir de reactivos conocidos. En este caso, el hidrógeno actúa como reactivo limitante porque el oxígeno está en exceso. Primero se convierten los gramos de H2 a moles, luego se usa la relación estequiométrica (2 mol H2 : 2 mol H2O) para obtener los moles de H2O, y finalmente se convierten esos moles a gramos.
+
+### 2. Información proporcionada
+
+Reacción:
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+Masa del reactivo limitante:
+
+\[
+4\text{ g de } \mathrm{H_2}
+\]
+
+Masas molares aproximadas:
+
+\[
+\mathrm{H_2} = 2\text{ g/mol}
+\]
+
+\[
+\mathrm{H_2O} = 18\text{ g/mol}
+\]
+
+Relación estequiométrica:
+
+\[
+2\text{ mol } \mathrm{H_2} : 2\text{ mol } \mathrm{H_2O}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa de agua (\(\mathrm{H_2O}\)) que se forma al reaccionar completamente 4 g de hidrógeno molecular (\(\mathrm{H_2}\)) con oxígeno en exceso.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Primero se convierte la masa de H2 a moles usando su masa molar:
+
+\[
+4\text{ g } \mathrm{H_2} \times \frac{1\text{ mol } \mathrm{H_2}}{2\text{ g } \mathrm{H_2}} = 2\text{ mol } \mathrm{H_2}
+\]
+
+Luego se usa la relación estequiométrica de la ecuación balanceada:
+
+\[
+2\text{ mol } \mathrm{H_2} \times \frac{2\text{ mol } \mathrm{H_2O}}{2\text{ mol } \mathrm{H_2}} = 2\text{ mol } \mathrm{H_2O}
+\]
+
+Finalmente, se convierten los moles de H2O a gramos usando su masa molar:
+
+\[
+2\text{ mol } \mathrm{H_2O} \times \frac{18\text{ g } \mathrm{H_2O}}{1\text{ mol } \mathrm{H_2O}} = 36\text{ g } \mathrm{H_2O}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los datos en las relaciones:
+
+\[
+4\text{ g } \mathrm{H_2} \times \frac{1\text{ mol } \mathrm{H_2}}{2\text{ g } \mathrm{H_2}} = 2\text{ mol } \mathrm{H_2}
+\]
+
+\[
+2\text{ mol } \mathrm{H_2} \times \frac{2\text{ mol } \mathrm{H_2O}}{2\text{ mol } \mathrm{H_2}} = 2\text{ mol } \mathrm{H_2O}
+\]
+
+\[
+2\text{ mol } \mathrm{H_2O} \times \frac{18\text{ g } \mathrm{H_2O}}{1\text{ mol } \mathrm{H_2O}} = 36\text{ g } \mathrm{H_2O}
+\]
+
+### 6. Resolución paso a paso
+
+**Paso 1:** Convertir los gramos de H2 a moles.
+
+\[
+4\text{ g } \mathrm{H_2} \times \frac{1\text{ mol } \mathrm{H_2}}{2\text{ g } \mathrm{H_2}} = 2\text{ mol } \mathrm{H_2}
+\]
+
+**Paso 2:** Usar la relación estequiométrica para obtener los moles de H2O.
+
+\[
+2\text{ mol } \mathrm{H_2} \times \frac{2\text{ mol } \mathrm{H_2O}}{2\text{ mol } \mathrm{H_2}} = 2\text{ mol } \mathrm{H_2O

@@ -1,0 +1,63 @@
+### 1. Fundamento químico del problema
+
+Para determinar la cantidad de sustancia de una masa dada, se aplica la relación fundamental entre masa, masa molar y número de moles. La masa molar del agua se obtiene sumando las masas atómicas de hidrógeno y oxígeno.
+
+### 2. Información proporcionada
+
+Masa de la muestra de agua:
+
+\[
+m = 36 \, \mathrm{g}
+\]
+
+Masa molar del agua:
+
+\[
+PM_{\mathrm{H_2O}} = 18,02 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe calcular el número de moles de agua presentes en la masa dada.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación entre masa, masa molar y número de moles se expresa mediante la fórmula:
+
+\[
+n = \frac{m}{PM}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores de la masa de la muestra y la masa molar del agua en la fórmula:
+
+\[
+n = \frac{36 \, \mathrm{g}}{18,02 \, \mathrm{g/mol}}
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la división de la masa entre la masa molar:
+
+\[
+n = 1,998 \, \mathrm{mol}
+\]
+
+Se redondea a tres decimales:
+
+\[
+n \approx 2,00 \, \mathrm{mol}
+\]
+
+Verificación aritmética: la masa molar se usó correctamente y la división aritmética es exacta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{n = 2,00 \, \mathrm{mol}}
+\]
+
+### 8. Conclusión
+
+La cantidad de sustancia de la muestra de agua es \(2,00 \, \mathrm{mol}\). Este resultado indica que en los 36 gramos de agua hay exactamente dos moles de moléculas de \(\mathrm{H_2O}\).

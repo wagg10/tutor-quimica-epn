@@ -1,0 +1,57 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación promedio se calcula como la media aritmética de los estados de oxidación de todos los átomos del mismo elemento en una molécula o ion poliatómico. En el tiosulfato de sodio, \(\mathrm{Na_2S_2O_3}\), existen dos átomos de azufre con estados de oxidación diferentes. Para determinar el estado promedio, se suman los estados de oxidación individuales y se divide el resultado entre el número de átomos de azufre presentes.
+
+### 2. Información proporcionada
+
+- Compuesto: tiosulfato de sodio, \(\mathrm{Na_2S_2O_3}\).
+- Elementos presentes: sodio (\(\mathrm{Na}\)), azufre (\(\mathrm{S}\)) y oxígeno (\(\mathrm{O}\)).
+- Valores conocidos: el sodio tiene estado de oxidación \(-1\); el oxígeno tiene estado de oxidación \(-2\).
+
+### 3. Lo que se debe determinar
+
+El estado de oxidación promedio del azufre en el tiosulfato de sodio.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La ecuación de balance de estados de oxidación para un ion poliatómico:
+
+\[
+\sum (\text{valores de oxidación}) = 0
+\]
+
+Para el estado promedio del azufre:
+
+\[
+\text{Estado promedio de S} = \frac{\text{suma de los estados de oxidación de S}}{\text{número de átomos de S}}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos en la ecuación de balance:
+
+\[
+2(-1) + 2x + 3(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación para \(x\), que representa el estado de oxidación promedio del azufre:
+
+\[
+-2 + 2x - 6 = 0
+\]
+
+\[
+2x - 8 = 0
+\]
+
+\[
+2x = 8
+\]
+
+\[
+x = 4
+\]
+
+Ver

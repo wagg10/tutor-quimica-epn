@@ -1,0 +1,79 @@
+### 1. Fundamento químico del problema
+
+Para convertir una masa a moles se utiliza la masa molar, porque la masa molar expresa la masa de un mol de una sustancia.
+
+### 2. Información proporcionada
+
+Masa de dióxido de carbono:
+
+\(m = 88 \, \text{g de } \mathrm{CO_2}\)
+
+Masa molar del dióxido de carbono:
+
+\(PM_{\mathrm{CO_2}} = 44,01 \, \text{g/mol}\)
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos moles hay en 88 g de dióxido de carbono.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación fundamental para convertir masa a moles es:
+
+\[
+n = \frac{m}{PM}
+\]
+
+donde:
+
+\(n\) = número de moles
+
+\(m\) = masa de la sustancia
+
+\(PM\) = masa molar de la sustancia
+
+### 5. Aplicación de los datos
+
+Sustituimos los valores en la relación:
+
+\[
+n = \frac{88 \, \text{g de } \mathrm{CO_2}}{44,01 \, \text{g/mol}}
+\]
+
+### 6. Resolución paso a paso
+
+Primero, se divide la masa entre la masa molar:
+
+\[
+n = \frac{88}{44,01}
+\]
+
+Luego, se realiza la operación:
+
+\[
+n = 1,999545197 \, \text{mol}
+\]
+
+Finalmente, se redondea a dos decimales:
+
+\[
+n = 2,00 \, \text{mol}
+\]
+
+Verificación aritmética:
+
+\[
+2,00 \times 44,01 = 88,02 \, \text{g}
+\]
+
+La masa obtenida es muy cercana a 88 g, por lo que el resultado es correcto.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{n = 2,00 \, \text{mol de } \mathrm{CO_2}}
+\]
+
+### 8. Conclusión
+
+En 88 g de dióxido de carbono hay 2,00 moles, porque la masa molar del CO2 es 44,01 g/mol.

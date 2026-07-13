@@ -1,0 +1,46 @@
+### 1. Fundamento químico del problema
+
+Para balancear una ecuación química se igualan los átomos de cada elemento en los miembros izquierdo y derecho. Se colocan coeficientes enteros frente a los compuestos y se verifican los átomos de hidrógeno y nitrógeno.
+
+### 2. Información proporcionada
+
+Reacción química: \( \mathrm{N_2} + \mathrm{H_2} \rightarrow \mathrm{NH_3} \).
+
+Compuesto a identificar: \( \mathrm{NH_3} \).
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la reacción y se debe indicar el coeficiente estequiométrico del \( \mathrm{NH_3} \).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El coeficiente estequiométrico indica la cantidad de moléculas o moles de un compuesto que participan en la reacción.
+
+### 5. Aplicación de los datos
+
+Se coloca un coeficiente 1 frente al \( \mathrm{NH_3} \) porque es el producto.
+
+### 6. Resolución paso a paso
+
+Se coloca un coeficiente 1 frente al \( \mathrm{N_2} \) y un coeficiente 3 frente al \( \mathrm{H_2} \):
+
+\( 1 \mathrm{N_2} + 3 \mathrm{H_2} \rightarrow 1 \mathrm{NH_3} \)
+
+Se verifican los átomos:
+
+- Nitrógeno (N): 2 átomos en reactivos, 2 átomos en productos.
+- Hidrógeno (H): 6 átomos en reactivos, 6 átomos en productos.
+
+La ecuación queda balanceada.
+
+### 7. Resultado obtenido
+
+El coeficiente estequiométrico del \( \mathrm{NH_3} \) es:
+
+\[
+\boxed{1}
+\]
+
+### 8. Conclusión
+
+El coeficiente 1 indica que una molécula de \( \mathrm{N_2} \) reacciona con tres moléculas de \( \mathrm{H_2} \) para formar una molécula de \( \mathrm{NH_3} \).

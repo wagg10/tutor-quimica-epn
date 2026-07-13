@@ -1,0 +1,55 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica se obtiene distribuyendo los electrones de un átomo neutro según el orden creciente de energía de los subniveles.
+
+### 2. Información proporcionada
+
+Elemento: cloro, \(\mathrm{Cl}\)
+
+Número atómico:
+
+\(Z = 17\)
+
+Tipo de especie: átomo neutro
+
+Número de electrones:
+
+\(e^- = 17\)
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del cloro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Los electrones se colocan primero en el subnivel de menor energía y luego en el siguiente.
+
+### 5. Aplicación de los datos
+
+Distribuyendo los 17 electrones en el orden creciente de energía:
+
+\[
+1s^2 \ 2s^2 \ 2p^6 \ 3s^2 \ 3p^5
+\]
+
+### 6. Resolución paso a paso
+
+Primero se coloca el subnivel \(1s\) con 2 electrones.
+
+Luego se coloca el subnivel \(2s\) con 2 electrones.
+
+Después se coloca el subnivel \(2p\) con 6 electrones.
+
+Luego se coloca el subnivel \(3s\) con 2 electrones.
+
+Finalmente, se coloca el subnivel \(3p\) con 5 electrones.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Cl}: 1s^2 \ 2s^2 \ 2p^6 \ 3s^2 \ 3p^5}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del cloro termina en \(3p^5\), porque el último subnivel incompleto contiene 5 electrones.

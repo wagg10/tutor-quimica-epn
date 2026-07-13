@@ -1,0 +1,84 @@
+### 1. Fundamento químico del problema
+
+Para balancear una reacción química, se debe cumplir la ley de conservación de la masa. Esto significa que el número de átomos de cada elemento debe ser igual en los reactivos y en los productos. En este ejercicio, la reacción es una combinación o síntesis, donde dos o más sustancias se combinan para formar un compuesto.
+
+### 2. Información proporcionada
+
+La reacción química inorgánica es:
+
+\[
+\mathrm{Fe} + \mathrm{O_2} \rightarrow \mathrm{Fe_2O_3}
+\]
+
+Los elementos presentes son hierro (Fe) y oxígeno (O).
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación química y determinar el coeficiente estequiométrico del \(\mathrm{O_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para balancear la ecuación, se asignan coeficientes estequiométricos (\(a\), \(b\), \(c\)) de la siguiente manera:
+
+\[
+a\mathrm{Fe} + b\mathrm{O_2} \rightarrow c\mathrm{Fe_2O_3}
+\]
+
+Luego se escriben las ecuaciones de balance para cada elemento:
+
+\[
+\mathrm{Fe}: \quad a = 2c
+\]
+
+\[
+\mathrm{O}: \quad 2b = 3c
+\]
+
+### 5. Aplicación de los datos
+
+Se elige el coeficiente \(c = 1\) para el producto \(\mathrm{Fe_2O_3}\). Con este valor, se resuelven los coeficientes de los reactivos:
+
+\[
+a = 2(1) = 2
+\]
+
+\[
+2b = 3(1) \implies b = \frac{3}{2}
+\]
+
+### 6. Resolución paso a paso
+
+Para evitar coeficientes fraccionarios, se multiplica toda la ecuación por el mínimo común denominador, que en este caso es 2:
+
+\[
+2(2\mathrm{Fe}) + 2\left(\frac{3}{2}\mathrm{O_2}\right) \rightarrow 2(1\mathrm{Fe_2O_3})
+\]
+
+Se simplifican los coeficientes:
+
+\[
+4\mathrm{Fe} + 3\mathrm{O_2} \rightarrow 2\mathrm{Fe_2O_3}
+\]
+
+Verificación de los átomos:
+
+- Hierro (Fe): \(4\) átomos en reactivos, \(2(2) = 4\) átomos en productos.
+- Oxígeno (O): \(3(2) = 6\) átomos en reactivos, \(2(3) = 6\) átomos en productos.
+
+La ecuación química está balanceada.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{4\mathrm{Fe} + 3\mathrm{O_2} \rightarrow 2\mathrm{Fe_2O_3}}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es:
+
+\[
+\boxed{3}
+\]
+
+### 8. Conclusión
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es \(3\), lo que indica que se necesitan 3 moles de oxígeno molecular para reaccionar con 4 moles de hierro y producir 2 moles de óxido férrico. Este balanceo permite calcular las masas y volúmenes de reactivos y productos en un proceso químico real, cumpliendo con la ley de conservación de la masa.

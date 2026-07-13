@@ -1,0 +1,33 @@
+Para determinar el estado de oxidación del nitrógeno en el ácido nítrico (HNO3), seguimos estos pasos:
+
+1. **Identificar el compuesto:** El compuesto es el ácido nítrico, cuya fórmula es \(\mathrm{HNO_3}\).
+
+2. **Asignar el estado de oxidación del hidrógeno:** En ácidos, el hidrógeno generalmente tiene estado de oxidación \(+1\).
+
+3. **Asignar el estado de oxidación del oxígeno:** En ácidos, el oxígeno generalmente tiene estado de oxidación \(-2\).
+
+4. **Establecer la ecuación de carga neta:** La suma de los estados de oxidación debe ser igual a cero.
+
+\[
+(+1) + x + 3(-2) = 0
+\]
+
+5. **Resolver la ecuación:** Simplificamos la ecuación:
+
+\[
++1 + x - 6 = 0
+\]
+
+\[
+x - 5 = 0
+\]
+
+\[
+x = +5
+\]
+
+6. **Concluir:** El estado de oxidación del nitrógeno en el ácido nítrico es \(+5\).
+
+\[
+\boxed{\mathrm{N}=+5}
+\]

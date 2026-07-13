@@ -1,0 +1,33 @@
+### 1. Fundamento químico del problema
+
+La energía de ionización se define como la energía necesaria para remover un electrón de un átomo gaseoso en su estado fundamental. En la tabla periódica, la energía de ionización aumenta de izquierda a derecha dentro de un mismo periodo debido a que los electrones se retienen más fuertemente por el núcleo a medida que aumenta el número atómico.
+
+### 2. Información proporcionada
+
+Elementos del mismo periodo: \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Al}\).
+
+### 3. Lo que se debe determinar
+
+El elemento que presenta la menor energía de ionización entre \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Al}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Tendencia periódica de la energía de ionización dentro de un periodo: aumenta de izquierda a derecha.
+
+### 5. Aplicación de los datos
+
+Se analiza la posición de los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Al}\) en el mismo periodo de la tabla periódica.
+
+### 6. Resolución paso a paso
+
+El sodio (\(\mathrm{Na}\)) se encuentra a la izquierda de los otros dos elementos en el mismo periodo. Por lo tanto, presenta la menor energía de ionización.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{El elemento con menor energía de ionización es el } \mathrm{Na}}
+\]
+
+### 8. Conclusión
+
+El \(\mathrm{Na}\) tiene la menor energía de ionización porque, al estar más a la izquierda en el periodo, sus electrones de valencia están menos sujetos al núcleo en comparación con el \(\mathrm{Mg}\) y el \(\mathrm{Al}\).

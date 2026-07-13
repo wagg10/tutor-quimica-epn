@@ -1,0 +1,37 @@
+El dicromato de potasio (K2Cr2O7) está formado por potasio (K), cromo (Cr) y oxígeno (O). El potasio es un metal alcalino y, en este compuesto, se encuentra en estado de oxidación +1, porque los metales alcalinos siempre presentan estado de oxidación +1 en sus compuestos.
+
+El oxígeno es un elemento no metal y, en la mayoría de sus compuestos, presenta estado de oxidación -2. En este caso, el oxígeno también presenta estado de oxidación -2.
+
+Para determinar el estado de oxidación del cromo, se utiliza la suma de los estados de oxidación de todos los elementos en el compuesto, la cual debe ser igual a cero.
+
+\[
+\text{Suma de estados de oxidación} = 0
+\]
+
+Sustituyendo los valores conocidos:
+
+\[
+2(+1) + 2(\text{Cr}) + 7(-2) = 0
+\]
+
+\[
+2 + 2(\text{Cr}) - 14 = 0
+\]
+
+\[
+2(\text{Cr}) - 12 = 0
+\]
+
+\[
+2(\text{Cr}) = 12
+\]
+
+\[
+\text{Cr} = +6
+\]
+
+Por lo tanto, el estado de oxidación del cromo en el dicromato de potasio es:
+
+\[
+\boxed{+6}
+\]

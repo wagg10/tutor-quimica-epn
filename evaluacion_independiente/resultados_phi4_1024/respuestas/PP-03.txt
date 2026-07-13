@@ -1,0 +1,57 @@
+### 1. Fundamento químico del problema
+
+La electronegatividad es una propiedad periódica que mide la capacidad de un átomo para atraer los electrones compartidos en un enlace químico. Esta propiedad aumenta de forma general hacia la parte superior e izquierda de la tabla periódica. En el grupo de los halógenos, la electronegatividad disminuye a medida que se desciende en el grupo.
+
+### 2. Información proporcionada
+
+Los elementos dados son:
+
+\[
+\mathrm{F}
+\]
+
+\[
+\mathrm{Cl}
+\]
+
+\[
+\mathrm{Br}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál de los elementos F, Cl y Br tiene la mayor electronegatividad.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La electronegatividad disminuye al descender en un grupo de la tabla periódica. En el grupo de los halógenos:
+
+\[
+\mathrm{F} > \mathrm{Cl} > \mathrm{Br}
+\]
+
+### 5. Aplicación de los datos
+
+El flúor (\(\mathrm{F}\)) se encuentra en el segundo periodo y en el grupo VIIA. El cloro (\(\mathrm{Cl}\)) se encuentra en el tercer periodo y en el grupo VIIA. El bromo (\(\mathrm{Br}\)) se encuentra en el cuarto periodo y en el grupo VIIA.
+
+### 6. Resolución paso a paso
+
+Como todos los elementos pertenecen al mismo grupo de los halógenos, se compara su electronegatividad según la posición vertical en la tabla periódica. El flúor está en el segundo periodo, el cloro en el tercer periodo y el bromo en el cuarto periodo.
+
+Al descender en el grupo, la electronegatividad disminuye porque los electrones se encuentran más alejados del núcleo y están más desprotegidos.
+
+Por lo tanto, el orden de electronegatividad es:
+
+\[
+\mathrm{F} > \mathrm{Cl} > \mathrm{Br}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{El elemento con mayor electronegatividad es el F}}
+\]
+
+### 8. Conclusión
+
+El flúor es el elemento más electronegativo de los tres porque se encuentra en el segundo periodo, lo que le permite atraer los electrones compartidos con mayor fuerza que el cloro y el bromo.

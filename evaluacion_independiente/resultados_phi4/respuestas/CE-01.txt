@@ -1,0 +1,109 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite conocer la distribución de los electrones de un átomo en sus orbitales de menor a mayor energía. Para escribir la configuración electrónica de un elemento neutro, se utiliza el número atómico \(Z\), que indica la cantidad de electrones del átomo.
+
+### 2. Información proporcionada
+
+El elemento es hierro:
+
+\[
+\mathrm{Fe}
+\]
+
+El número atómico del hierro es:
+
+\[
+Z = 26
+\]
+
+Como el hierro se presenta como átomo neutro en el enunciado, el número de electrones es:
+
+\[
+e^- = 26
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del hierro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para escribir la configuración electrónica se siguen los subniveles en orden creciente de energía:
+
+\[
+1s,\ 2s,\ 2p,\ 3s,\ 3p,\ 4s,\ 3d
+\]
+
+Para el hierro:
+
+\[
+1s^2
+\]
+
+\[
+2s^2
+\]
+
+\[
+2p^6
+\]
+
+\[
+3s^2
+\]
+
+\[
+3p^6
+\]
+
+\[
+4s^2
+\]
+
+\[
+3d^6
+\]
+
+### 5. Aplicación de los datos
+
+Se distribuyen los \(26\) electrones del hierro en los subniveles correspondientes:
+
+\[
+1s^2 = 2
+\]
+
+\[
+2s^2 = 2
+\]
+
+\[
+2p^6 = 6
+\]
+
+\[
+3s^2 = 2
+\]
+
+\[
+3p^6 = 6
+\]
+
+\[
+4s^2 = 2
+\]
+
+\[
+3d^6 = 6
+\]
+
+### 6. Resolución paso a paso
+
+Sumamos los electrones distribuidos:
+
+\[
+2 + 2 + 6 + 2 + 6 + 2 + 6 = 26
+\]
+
+La suma coincide con el número atómico del hierro, por lo tanto, la configuración electrónica es correcta.
+
+### 7.

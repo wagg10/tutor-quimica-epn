@@ -1,0 +1,22 @@
+Para ordenar de mayor a menor radio atómico a los elementos Na, Mg y Cl, seguimos estos pasos:
+
+**Paso 1: Ubicar los elementos en la tabla periódica.**
+- Na (Sodio): Pertenece al grupo IA (metales alcalinos).
+- Mg (Magnesio): Pertenece al grupo IIA (metales alcalinotérreos).
+- Cl (Cloro): Pertenece al grupo VIIA (no metales halógenos).
+
+**Paso 2: Considerar el periodo.**
+- Na y Mg se encuentran en el periodo 3.
+- Cl se encuentra en el periodo 3.
+
+**Paso 3: Considerar el grupo.**
+- Los elementos del grupo IA (Na) tienen mayor radio atómico que los elementos del grupo IIA (Mg).
+- Los elementos del grupo VIIA (Cl) tienen menor radio atómico que los elementos del grupo IA y IIA.
+
+**Paso 4: Concluir el orden.**
+- El orden de mayor a menor radio atómico es: Na > Mg > Cl.
+
+**Respuesta final:**
+\[
+\boxed{\text{Orden de mayor a menor radio atómico: Na > Mg > Cl}}
+\]

@@ -1,0 +1,97 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación promedio se calcula dividiendo la suma de los estados de oxidación de todos los átomos de un elemento por el número de átomos de ese elemento en la molécula.
+
+### 2. Información proporcionada
+
+El compuesto es el tiosulfato de sodio:
+
+\[
+\mathrm{Na_2S_2O_3}
+\]
+
+El sodio es un metal alcalino y presenta estado de oxidación:
+
+\[
+\mathrm{Na} = +1
+\]
+
+El oxígeno es un no metal y presenta estado de oxidación:
+
+\[
+\mathrm{O} = -2
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación promedio del azufre en el tiosulfato de sodio.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La molécula es neutra, por lo tanto:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+La suma de los estados de oxidación se expresa como:
+
+\[
+2(+1) + 2(\mathrm{EO}_{\mathrm{S}}) + 3(-2) = 0
+\]
+
+La fórmula para el estado de oxidación promedio del azufre es:
+
+\[
+\mathrm{EO}_{\mathrm{promedio}} = \frac{\text{suma de estados de oxidación del azufre}}{\text{número de átomos de azufre}}
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores conocidos en la ecuación de balance de estados de oxidación:
+
+\[
+2(+1) + 2(\mathrm{EO}_{\mathrm{S}}) + 3(-2) = 0
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+2 + 2\mathrm{EO}_{\mathrm{S}} - 6 = 0
+\]
+
+\[
+2\mathrm{EO}_{\mathrm{S}} - 4 = 0
+\]
+
+\[
+2\mathrm{EO}_{\mathrm{S}} = 4
+\]
+
+\[
+\mathrm{EO}_{\mathrm{S}} = \frac{4}{2}
+\]
+
+\[
+\mathrm{EO}_{\mathrm{S}} = +2
+\]
+
+Verificación aritmética: \(2 + 2(+2) - 6 = 2 + 4 - 6 = 0\). La operación es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{EO}_{\mathrm{promedio}} = +2}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación promedio del azufre en el tiosulfato de sodio es:
+
+\[
++2
+\]
+
+Este resultado indica que, en promedio, cada átomo de azufre se comporta como si tuviera un estado de oxidación de \(+2\), aunque en la molécula existan átomos con estados de oxidación diferentes.

@@ -1,0 +1,10 @@
+[1/40] EA-01 ... correcto
+[2/40] EA-02 ... correcto
+[3/40] EA-03 ... correcto
+[4/40] EA-04 ... correcto
+[5/40] EA-05 ... correcto
+[6/40] EA-06 ... correcto
+[7/40] CE-01 ... revision_manual
+[8/40] CE-02 ... revision_manual
+[9/40] CE-03 ... correcto
+[10/40] CE-04 ... 

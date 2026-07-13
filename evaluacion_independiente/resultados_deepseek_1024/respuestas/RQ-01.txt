@@ -1,0 +1,61 @@
+Para balancear la reacción N2 + H2 -> NH3, seguimos estos pasos:
+
+**Paso 1: Escribir la reacción incompleta.**
+
+\[
+N_2 + H_2 \rightarrow NH_3
+\]
+
+**Paso 2: Contar los átomos de cada elemento.**
+
+\[
+\text{Nitrógeno (N)}: 2 \quad \text{Hidrógeno (H)}: 2
+\]
+
+\[
+\text{Nitrógeno (N)}: 1 \quad \text{Hidrógeno (H)}: 3
+\]
+
+**Paso 3: Balancear el nitrógeno.**
+
+\[
+N_2 + H_2 \rightarrow 2NH_3
+\]
+
+**Paso 4: Balancear el hidrógeno.**
+
+\[
+N_2 + 3H_2 \rightarrow 2NH_3
+\]
+
+**Paso 5: Verificar los átomos.**
+
+\[
+\text{Nitrógeno (N)}: 2 = 2
+\]
+
+\[
+\text{Hidrógeno (H)}: 6 = 6
+\]
+
+**Paso 6: Escribir la ecuación balanceada final.**
+
+\[
+N_2 + 3H_2 \rightarrow 2NH_3
+\]
+
+**Paso 7: Identificar el coeficiente estequiométrico del producto NH3.**
+
+\[
+\text{coeficiente estequiométrico del } NH_3 = 2
+\]
+
+**Respuesta final:**
+
+\[
+\boxed{N_2 + 3H_2 \rightarrow 2NH_3}
+\]
+
+\[
+\boxed{\text{coeficiente estequiométrico del } NH_3 = 2}
+\]

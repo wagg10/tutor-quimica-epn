@@ -1,0 +1,19 @@
+### Definición
+
+La configuración electrónica es la distribución de los electrones de un átomo en los diferentes niveles, subniveles y orbitales.
+
+### Explicación
+
+Permite conocer la disposición espacial de los electrones y predecir propiedades como el tamaño atómico, la electronegatividad y la afinidad electrónica.
+
+### Ejemplo
+
+Un átomo neutro de carbono tiene \(6\) electrones. Su configuración electrónica es:
+
+\[
+\mathrm{1s^2\,2s^2\,2p^2}
+\]
+
+### Importancia en Química
+
+Es útil porque explica por qué los elementos de un mismo grupo tienen comportamientos químicos similares: poseen el mismo número de electrones en su último nivel de energía.

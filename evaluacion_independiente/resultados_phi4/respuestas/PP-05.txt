@@ -1,0 +1,57 @@
+### 1. Fundamento químico del problema
+
+La energía de ionización es la energía necesaria para remover un electrón de un átomo gaseoso en estado fundamental. Esta energía depende de la configuración electrónica, el número atómico y la distancia del electrón respecto al núcleo. Para comparar elementos dentro del mismo periodo, se incrementa la energía de ionización de izquierda a derecha debido a la mayor carga nuclear efectiva.
+
+### 2. Información proporcionada
+
+Los elementos dados son:
+
+\[
+\mathrm{Na}, \quad \mathrm{Mg}, \quad \mathrm{Cl}
+\]
+
+Estos elementos pertenecen al tercer periodo de la tabla periódica.
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de menor a mayor energía de ionización los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Cl}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para elementos del mismo periodo, la energía de ionización aumenta de izquierda a derecha debido a la mayor carga nuclear efectiva. Además, se considera la estabilidad de los subniveles completos o semillenos.
+
+### 5. Aplicación de los datos
+
+El orden de los elementos en el tercer periodo es:
+
+\[
+\mathrm{Na} \rightarrow \mathrm{Mg} \rightarrow \mathrm{Cl}
+\]
+
+Sin embargo, se debe considerar la configuración electrónica de cada elemento para verificar posibles excepciones.
+
+### 6. Resolución paso a paso
+
+El sodio tiene configuración:
+
+\[
+\mathrm{Na}: [\mathrm{Ne}] 3s^1
+\]
+
+El magnesio tiene configuración:
+
+\[
+\mathrm{Mg}: [\mathrm{Ne}] 3s^2
+\]
+
+El cloro tiene configuración:
+
+\[
+\mathrm{Cl}: [\mathrm{Ne}] 3s^2 3p^5
+\]
+
+El sodio tiene un electrón en el subnivel \(3s\), que es más fácil de remover. Por eso, tiene la menor energía de ionización.
+
+El magnesio tiene dos electrones en \(3s\). Su energía de ionización es mayor que la del sodio, pero menor que la del cloro.
+
+El cl

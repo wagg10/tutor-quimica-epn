@@ -1,0 +1,15 @@
+### Definición
+
+La electronegatividad es la capacidad de un átomo para atraer hacia sí los electrones compartidos de un enlace covalente.
+
+### Explicación
+
+A medida que aumenta la energía de ionización, también aumenta la electronegatividad. Esto ocurre porque los electrones externos se encuentran más cerca del núcleo y son más difíciles de remover.
+
+### Ejemplo
+
+Los halógenos F, Cl y Br pertenecen al mismo grupo y tienen una tendencia decreciente en su electronegatividad.
+
+### Importancia en Química
+
+La electronegatividad permite predecir la polaridad de los enlaces y la dirección de la transferencia de carga en reacciones químicas.

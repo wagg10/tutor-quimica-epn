@@ -1,0 +1,107 @@
+### 1. Fundamento químico del problema
+
+Para escribir la configuración electrónica de un ion, se debe considerar el número atómico del elemento y la carga del ion. En el caso de un catión, el ion se forma cuando el átomo pierde electrones. Para un catión, se restan electrones de la configuración electrónica del átomo neutro.
+
+### 2. Información proporcionada
+
+El ion dado es:
+
+\[
+\mathrm{Na^+}
+\]
+
+El sodio tiene número atómico:
+
+\[
+Z = 11
+\]
+
+Por lo tanto, el átomo neutro de sodio tiene:
+
+\[
+e^- = 11
+\]
+
+El ion dado es:
+
+\[
+\mathrm{Na^+}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del ion \(\mathrm{Na^+}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un catión:
+
+\[
+\mathrm{Na^+} \Rightarrow \text{se pierden electrones}
+\]
+
+Para un catión:
+
+\[
+\mathrm{Na^+} \Rightarrow \text{se restan electrones}
+\]
+
+Para un catión:
+
+\[
+\mathrm{Na^+} \Rightarrow \text{se pierden electrones del nivel más externo}
+\]
+
+### 5. Aplicación de los datos
+
+El sodio tiene número atómico:
+
+\[
+Z = 11
+\]
+
+Por lo tanto, el átomo neutro de sodio tiene:
+
+\[
+e^- = 11
+\]
+
+El ion dado es:
+
+\[
+\mathrm{Na^+}
+\]
+
+Para un catión:
+
+\[
+\mathrm{Na^+} \Rightarrow \text{se pierden electrones}
+\]
+
+Para un catión:
+
+\[
+\mathrm{Na^+} \Rightarrow \text{se restan electrones}
+\]
+
+Para un catión:
+
+\[
+\mathrm{Na^+} \Rightarrow \text{se pierden electrones del nivel más externo}
+\]
+
+### 6. Resolución paso a paso
+
+El sodio tiene número atómico:
+
+\[
+Z = 11
+\]
+
+Por lo tanto, el átomo neutro de sodio tiene:
+
+\[
+e^- = 11
+\]
+
+El

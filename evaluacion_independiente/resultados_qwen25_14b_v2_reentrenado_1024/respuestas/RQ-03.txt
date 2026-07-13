@@ -1,0 +1,101 @@
+### 1. Fundamento químico del problema
+
+La combustión es una reacción de oxidación rápida y violenta que se produce cuando un hidrocarburo se combina con oxígeno. En este proceso, el carbono se oxida a dióxido de carbono y el hidrógeno se oxida a agua.
+
+Para balancear una ecuación de combustión, se siguen estos pasos:
+
+- Se colocan coeficientes estequiométricos de forma inicial.
+- Se balancean los hidrógenos y oxígenos.
+- Se ajustan los elementos restantes (carbono y oxígeno).
+- Se verifican los átomos de oxígeno para obtener el coeficiente correcto del O2.
+
+### 2. Información proporcionada
+
+Reacción de combustión:
+
+\[
+\mathrm{C_3H_8} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + \mathrm{H_2O}
+\]
+
+Compuestos involucrados:
+
+- Comburente: \(\mathrm{C_3H_8}\)
+- Oxidante: \(\mathrm{O_2}\)
+- Producto: \(\mathrm{CO_2}\)
+- Producto: \(\mathrm{H_2O}\)
+
+### 3. Lo que se debe determinar
+
+Se debe balancear la ecuación de combustión y se debe indicar el coeficiente estequiométrico del \(\mathrm{O_2}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La combustión del propano se representa como:
+
+\[
+\mathrm{C_3H_8} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + \mathrm{H_2O}
+\]
+
+Primero se balancean los hidrógenos y oxígenos.
+
+### 5. Aplicación de los datos
+
+Se coloca un coeficiente 1 para el propano (\(\mathrm{C_3H_8}\)) porque es el primer compuesto en la ecuación.
+
+\[
+1 \times \mathrm{C_3H_8}
+\]
+
+Se coloca un coeficiente 1 para el agua (\(\mathrm{H_2O}\)) porque el hidrógeno suele ser el segundo elemento en balancearse.
+
+\[
+1 \times \mathrm{H_2O}
+\]
+
+### 6. Resolución paso a paso
+
+Se balancean los hidrógenos y oxígenos.
+
+\[
+\mathrm{C_3H_8} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + 1 \times \mathrm{H_2O}
+\]
+
+El propano tiene 8 hidrógenos. Como hay 1 molécula de agua, se colocan 4 átomos de hidrógeno en el miembro derecho.
+
+\[
+\mathrm{C_3H_8} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + 4 \times \mathrm{H_2O}
+\]
+
+Ahora se balancean los carbonos y oxígenos.
+
+\[
+1 \times \mathrm{C_3H_8} + \mathrm{O_2} \rightarrow 3 \times \mathrm{CO_2} + 4 \times \mathrm{H_2O}
+\]
+
+Se colocan coeficientes 3 para el \(\mathrm{CO_2}\) y 4 para el \(\mathrm{H_2O}\).
+
+Finalmente, se verifican los átomos de oxígeno para obtener el coeficiente correcto del \(\mathrm{O_2}\).
+
+\[
+1 \times \mathrm{C_3H_8} + 5 \times \mathrm{O_2} \rightarrow 3 \times \mathrm{CO_2} + 4 \times \mathrm{H_2O}
+\]
+
+Se coloca un coeficiente 5 para el \(\mathrm{O_2}\).
+
+### 7. Resultado obtenido
+
+La ecuación balanceada es:
+
+\[
+1 \times \mathrm{C_3H_8} + 5 \times \mathrm{O_2} \rightarrow 3 \times \mathrm{CO_2} + 4 \times \mathrm{H_2O}
+\]
+
+El coeficiente estequiométrico del \(\mathrm{O_2}\) es:
+
+\[
+\boxed{5}
+\]
+
+### 8. Conclusión
+
+La ecuación balanceada demuestra que para la combustión del propano se requieren 5 moles de oxí

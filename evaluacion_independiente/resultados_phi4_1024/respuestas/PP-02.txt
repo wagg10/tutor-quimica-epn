@@ -1,0 +1,49 @@
+### 1. Fundamento químico del problema
+
+El radio atómico es una medida de la distancia entre el núcleo y la periferia electrónica de un átomo. En la tabla periódica, el radio atómico presenta una tendencia clara y predecible al analizarse en función de los periodos y grupos.
+
+### 2. Información proporcionada
+
+Los elementos a comparar son:
+
+- Litio (\(\mathrm{Li}\))
+- Sodio (\(\mathrm{Na}\))
+- Potasio (\(\mathrm{K}\))
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de mayor a menor radio atómico a los elementos \(\mathrm{Li}\), \(\mathrm{Na}\) y \(\mathrm{K}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El radio atómico disminuye de izquierda a derecha dentro de un mismo periodo debido a la atracción electrostática creciente del núcleo sobre los electrones.
+
+El radio atómico aumenta de arriba abajo dentro de un mismo grupo debido a la adición de nuevos niveles cuánticos de energía.
+
+### 5. Aplicación de los datos
+
+Los elementos \(\mathrm{Li}\), \(\mathrm{Na}\) y \(\mathrm{K}\) pertenecen al mismo grupo (Grupo IA o Metales Alcalinos) y se encuentran en periodos diferentes:
+
+- \(\mathrm{Li}\): Periodo 2
+- \(\mathrm{Na}\): Periodo 3
+- \(\mathrm{K}\): Periodo 4
+
+### 6. Resolución paso a paso
+
+Como pertenecen al mismo grupo, se aplica la regla de aumento de radio atómico de arriba abajo. Al descender en el grupo IA, se agregan nuevos niveles cuánticos de energía, lo que aumenta la distancia entre el núcleo y la nube electrónica.
+
+Por lo tanto, el orden de mayor a menor radio atómico es:
+
+\[
+\mathrm{K} > \mathrm{Na} > \mathrm{Li}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{K} > \mathrm{Na} > \mathrm{Li}}
+\]
+
+### 8. Conclusión
+
+El ordenamiento \(\mathrm{K} > \mathrm{Na} > \mathrm{Li}\) se justifica porque el radio atómico aumenta al descender en un grupo. El potasio (\(\mathrm{K}\)) tiene el radio atómico más grande porque posee más niveles cuánticos de energía, seguido del sodio (\(\mathrm{Na}\)) y luego del litio (\(\mathrm{Li}\)).

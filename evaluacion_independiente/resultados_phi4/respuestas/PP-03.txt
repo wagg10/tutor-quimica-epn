@@ -1,0 +1,41 @@
+### 1. Fundamento químico del problema
+
+La electronegatividad es una propiedad periódica que mide la capacidad de un átomo para atraer los electrones compartidos en un enlace covalente. En la tabla periódica, esta propiedad aumenta de izquierda a derecha dentro de un mismo periodo y disminuye de arriba hacia abajo dentro de un grupo.
+
+### 2. Información proporcionada
+
+Los elementos considerados son:
+
+- Flúor (\(\mathrm{F}\))
+- Cloro (\(\mathrm{Cl}\))
+- Bromo (\(\mathrm{Br}\))
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál de los tres elementos tiene la mayor electronegatividad.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La electronegatividad aumenta de izquierda a derecha dentro de un mismo periodo y disminuye de arriba hacia abajo dentro de un grupo.
+
+### 5. Aplicación de los datos
+
+Los tres elementos pertenecen al grupo VIIA (halógenos). En este grupo, la electronegatividad disminuye al bajar en la tabla periódica.
+
+### 6. Resolución paso a paso
+
+El flúor se encuentra en el segundo periodo, el cloro en el tercero y el bromo en el cuarto. Como la electronegatividad disminuye al bajar en el grupo, el elemento del periodo más alto tiene la mayor electronegatividad.
+
+\[
+\boxed{\text{Mayor electronegatividad: Flúor}}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Mayor electronegatividad: Flúor}}
+\]
+
+### 8. Conclusión
+
+El flúor tiene la mayor electronegatividad porque se encuentra en el periodo más alto dentro del grupo VIIA, por lo que su núcleo ejerce una mayor atracción sobre los electrones compartidos.

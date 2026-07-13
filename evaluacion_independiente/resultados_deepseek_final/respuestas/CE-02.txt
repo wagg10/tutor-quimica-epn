@@ -1,0 +1,25 @@
+El cloro tiene número atómico \(Z = 17\), lo que indica que tiene 17 protones y, al ser un átomo neutro, también tiene 17 electrones.
+
+Para escribir su configuración electrónica, seguimos el orden de llenado de los orbitales:
+
+\[
+1s^2 \ 2s^2 \ 2p^6 \ 3s^2 \ 3p^5
+\]
+
+Esta configuración representa 17 electrones en total. La configuración abreviada es:
+
+\[
+[\mathrm{Ar}]\,4s^2\,3d^{10}\,3p^5
+\]
+
+La configuración electrónica del cloro es:
+
+\[
+\boxed{\mathrm{Cl}: 1s^2 \ 2s^2 \ 2p^6 \ 3s^2 \ 3p^5}
+\]
+
+o, en forma abreviada:
+
+\[
+\boxed{\mathrm{Cl}: [\mathrm{Ar}]\,4s^2\,3d^{10}\,3p^5}
+\]

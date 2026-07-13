@@ -1,0 +1,91 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se obtiene sumando las masas atómicas de todos los átomos que lo constituyen.
+
+### 2. Información proporcionada
+
+El compuesto es ácido sulfúrico:
+
+\[
+\mathrm{H_2SO_4}
+\]
+
+Los elementos presentes son:
+
+\[
+\mathrm{H}, \quad \mathrm{S}, \quad \mathrm{O}
+\]
+
+Las masas atómicas son:
+
+\[
+\mathrm{H} = 1,008 \, \mathrm{g/mol}
+\]
+
+\[
+\mathrm{S} = 32,06 \, \mathrm{g/mol}
+\]
+
+\[
+\mathrm{O} = 16,00 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe calcular la masa molar del ácido sulfúrico, \(\mathrm{H_2SO_4}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se calcula sumando las masas atómicas de todos los átomos que constituyen el compuesto.
+
+\[
+M_{\mathrm{H_2SO_4}} = (2 \times M_{\mathrm{H}}) + (1 \times M_{\mathrm{S}}) + (4 \times M_{\mathrm{O}})
+\]
+
+### 5. Aplicación de los datos
+
+Sustituimos los valores:
+
+\[
+M_{\mathrm{H_2SO_4}} = (2 \times 1,008) + (1 \times 32,06) + (4 \times 16,00)
+\]
+
+### 6. Resolución paso a paso
+
+Primero se calcula la contribución de los hidrógenos:
+
+\[
+2 \times 1,008 = 2,016
+\]
+
+Luego se calcula la contribución del azufre:
+
+\[
+1 \times 32,06 = 32,06
+\]
+
+Después se calcula la contribución de los oxígenos:
+
+\[
+4 \times 16,00 = 64,00
+\]
+
+Finalmente se suman todas las contribuciones:
+
+\[
+M_{\mathrm{H_2SO_4}} = 2,016 + 32,06 + 64,00
+\]
+
+\[
+M_{\mathrm{H_2SO_4}} = 98,076
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{M_{\mathrm{H_2SO_4}} = 98,08 \, \mathrm{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar del ácido sulfúrico es \(98,08 \, \mathrm{g/mol}\). Esto se debe a que el ácido sulfúrico está formado por dos átomos de hidrógeno, un átomo de azufre y cuatro átomos de oxígeno, cuyas masas atómicas se suman para obtener la masa molar del compuesto.

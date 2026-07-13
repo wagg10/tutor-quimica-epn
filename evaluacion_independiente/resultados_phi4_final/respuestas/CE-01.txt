@@ -1,0 +1,99 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite ubicar a un elemento en la tabla periódica y conocer sus propiedades químicas. Para escribir la configuración electrónica de un átomo neutro, se distribuyen los electrones de menor a mayor energía siguiendo el orden de llenado de los subniveles.
+
+### 2. Información proporcionada
+
+El elemento analizado es el hierro:
+
+\[
+\mathrm{Fe}
+\]
+
+El número atómico del hierro es:
+
+\[
+Z = 26
+\]
+
+Como el hierro se presenta como átomo neutro en el enunciado, el número de electrones es igual al número atómico:
+
+\[
+e^- = 26
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del hierro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+Z = \#p^+ = \#e^-
+\]
+
+El orden de llenado de los subniveles se rige por la regla de Aufbau:
+
+\[
+1s,\ 2s,\ 2p,\ 3s,\ 3p,\ 4s,\ 3d,\ 4p,\ 5s,\ 4d,\ 5p,\ 6s,\ 4f,\ 5d
+\]
+
+### 5. Aplicación de los datos
+
+El hierro tiene \(26\) electrones. Se distribuyen siguiendo el orden de llenado:
+
+\[
+1s^2
+\]
+
+\[
+2s^2
+\]
+
+\[
+2p^6
+\]
+
+\[
+3s^2
+\]
+
+\[
+3p^6
+\]
+
+\[
+4s^2
+\]
+
+\[
+3d^6
+\]
+
+### 6. Resolución paso a paso
+
+Se escribe la configuración electrónica completa:
+
+\[
+\mathrm{Fe}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^6\,4s^2\,3d^6
+\]
+
+Verificación aritmética de los exponentes:
+
+\[
+2+2+6+2+6+2+6 = 26
+\]
+
+La suma de los exponentes es igual al número atómico del hierro, por lo tanto, la configuración es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Fe}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^6\,4s^2\,3d^6}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del hierro es \(\mathrm{Fe}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^6\,4s^2\,3d^6\). Esta configuración muestra que el hierro tiene \(6\) electrones en el subnivel \(3d\), lo que explica su comportamiento químico y su posición en el grupo de los metales de transición.

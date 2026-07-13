@@ -1,0 +1,97 @@
+### 1. Fundamento químico del problema
+
+El radio atómico es la distancia promedio desde el núcleo hasta el extremo externo del gas. Un átomo neutro tiene electrones en su capa externa.
+
+Un catión se forma cuando un átomo pierde electrones.
+
+### 2. Información proporcionada
+
+Se comparan el átomo de sodio neutro:
+
+\[
+\mathrm{Na}
+\]
+
+y el ion sodio positivo:
+
+\[
+\mathrm{Na^+}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál especie tiene mayor radio: el átomo de Na o el ion Na+.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Cuando un átomo pierde electrones, se forma un catión.
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Al perder electrones, el ion catiónico queda con menos capas externas de electrones.
+
+### 5. Aplicación de los datos
+
+El átomo de sodio neutro tiene 11 protones y 11 electrones.
+
+\[
+\mathrm{Na}: Z=11,\quad e^-=11
+\]
+
+El ion sodio positivo se forma cuando el átomo de sodio pierde un electrón.
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Por lo tanto, el ion sodio positivo tiene 11 protones y 10 electrones.
+
+\[
+\mathrm{Na^+}: Z=11,\quad e^-=10
+\]
+
+### 6. Resolución paso a paso
+
+El átomo de sodio neutro tiene 11 protones y 11 electrones.
+
+\[
+\mathrm{Na}: Z=11,\quad e^-=11
+\]
+
+El ion sodio positivo se forma cuando el átomo de sodio pierde un electrón.
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Por lo tanto, el ion sodio positivo tiene 11 protones y 10 electrones.
+
+\[
+\mathrm{Na^+}: Z=11,\quad e^-=10
+\]
+
+El átomo de sodio neutro tiene 3 capas de electrones.
+
+\[
+\mathrm{Na}: 3\text{ capas}
+\]
+
+El ion sodio positivo tiene 2 capas de electrones.
+
+\[
+\mathrm{Na^+}: 2\text{ capas}
+\]
+
+Como el ion sodio positivo tiene menos capas de electrones que el átomo de sodio neutro, su radio es menor.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Mayor radio: } \mathrm{Na};\quad \text{Menor radio: } \mathrm{Na^+}}
+\]
+
+### 8. Conclusión
+
+El átomo de sodio neutro tiene mayor radio porque posee 3 capas de electrones, mientras que el ion sodio positivo tiene 2 capas de electrones.

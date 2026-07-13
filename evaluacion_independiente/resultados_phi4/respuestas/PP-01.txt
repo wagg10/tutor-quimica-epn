@@ -1,0 +1,43 @@
+### 1. Fundamento químico del problema
+
+El radio atómico es una propiedad periódica que mide la distancia aproximada entre el núcleo de un átomo y la nube electrónica más externa. En la tabla periódica, esta propiedad presenta una tendencia clara y predecible al moverse en ciertas direcciones.
+
+### 2. Información proporcionada
+
+Los elementos dados son:
+
+\[
+\mathrm{Na}, \quad \mathrm{Mg}, \quad \mathrm{Cl}
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe ordenar de mayor a menor radio atómico los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Cl}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El radio atómico aumenta de izquierda a derecha dentro de un mismo periodo y disminuye de arriba hacia abajo dentro de un mismo grupo.
+
+### 5. Aplicación de los datos
+
+Los elementos \(\mathrm{Na}\), \(\mathrm{Mg}\) y \(\mathrm{Cl}\) pertenecen al tercer periodo de la tabla periódica.
+
+### 6. Resolución paso a paso
+
+Dentro de un mismo periodo, el radio atómico disminuye al avanzar de izquierda a derecha debido a que los electrones se agregan en el mismo nivel de energía, pero el núcleo gana protones y atrae con mayor fuerza a la nube electrónica.
+
+Por lo tanto, el orden de mayor a menor radio atómico en el periodo 3 es:
+
+\[
+\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}}
+\]
+
+### 8. Conclusión
+
+El orden \(\mathrm{Na} > \mathrm{Mg} > \mathrm{Cl}\) se debe a que todos los elementos pertenecen al mismo periodo, por lo que el radio atómico disminuye al avanzar de izquierda a derecha en la tabla periódica.

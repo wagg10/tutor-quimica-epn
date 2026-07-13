@@ -1,0 +1,55 @@
+Cargando /home/lasinac/.cache/huggingface/hub/models--deepseek-ai--DeepSeek-R1-Distill-Qwen-14B/snapshots/1df8507178afcc1bef68cd8c393f61a886323761 + adaptador (4bit)...
+[1/40] EA-01 ... correcto_con_formato
+[2/40] EA-02 ... sin_resultado_detectado
+[3/40] EA-03 ... correcto_con_formato
+[4/40] EA-04 ... sin_resultado_detectado
+[5/40] EA-05 ... sin_resultado_detectado
+[6/40] EA-06 ... correcto
+[7/40] CE-01 ... revision_manual
+[8/40] CE-02 ... revision_manual
+[9/40] CE-03 ... sin_resultado_detectado
+[10/40] CE-04 ... sin_resultado_detectado
+[11/40] CE-05 ... revision_manual
+[12/40] CE-06 ... sin_resultado_detectado
+[13/40] PP-01 ... revision_manual
+[14/40] PP-02 ... revision_manual
+[15/40] PP-03 ... revision_manual
+[16/40] PP-04 ... revision_manual
+[17/40] PP-05 ... revision_manual
+[18/40] PP-06 ... revision_manual
+[19/40] EO-01 ... correcto
+[20/40] EO-02 ... sin_resultado_detectado
+[21/40] EO-03 ... correcto
+[22/40] EO-04 ... correcto
+[23/40] EO-05 ... sin_resultado_detectado
+[24/40] EO-06 ... sin_resultado_detectado
+[25/40] RQ-01 ... sin_resultado_detectado
+[26/40] RQ-02 ... sin_resultado_detectado
+[27/40] RQ-03 ... sin_resultado_detectado
+[28/40] RQ-04 ... sin_resultado_detectado
+[29/40] RQ-05 ... sin_resultado_detectado
+[30/40] RQ-06 ... sin_resultado_detectado
+[31/40] ES-01 ... correcto_con_formato
+[32/40] ES-02 ... sin_resultado_detectado
+[33/40] ES-03 ... sin_resultado_detectado
+[34/40] ES-04 ... correcto_con_formato
+[35/40] ES-05 ... sin_resultado_detectado
+[36/40] ES-06 ... sin_resultado_detectado
+[37/40] CQ-01 ... revision_manual
+[38/40] CQ-02 ... revision_manual
+[39/40] CQ-03 ... revision_manual
+[40/40] CQ-04 ... revision_manual
+
+============================================================
+RESUMEN
+============================================================
+Ejercicios evaluados        : 40
+Numéricos (auto-calificados) : 27
+Resultado correcto          : 8  (29.6 %)
+Requieren rúbrica manual     : 13
+
+Archivos en: /home/lasinac/Quimica/evaluacion_independiente/resultados_deepseek_1024_retest
+  - resultados_detalle.csv
+  - resultados_por_eje.csv
+  - resumen_resultados.md
+  - respuestas/  (respuesta completa por ejercicio)

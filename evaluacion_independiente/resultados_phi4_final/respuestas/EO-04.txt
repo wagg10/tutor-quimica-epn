@@ -1,0 +1,92 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación es un número formal que indica la carga hipotética que tendría un átomo si los electrones de enlace se asignaran completamente al átomo más electronegativo. En moléculas covalentes, se asignan estados de oxidación siguiendo reglas de asignación electrónica.
+
+### 2. Información proporcionada
+
+El compuesto analizado es el amoniaco:
+
+\[
+\mathrm{NH_3}
+\]
+
+El amoniaco está formado por nitrógeno y hidrógeno.
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del nitrógeno en el amoniaco.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para moléculas covalentes, se asignan estados de oxidación hipotéticos siguiendo las siguientes reglas:
+
+- El hidrógeno generalmente tiene estado de oxidación \(+1\), excepto cuando forma hidruros metálicos.
+- El nitrógeno puede tener varios estados de oxidación, pero en el amoniaco se asigna un estado de oxidación negativo porque es más electronegativo que el hidrógeno.
+
+La suma de los estados de oxidación en una molécula neutra debe ser igual a cero:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+### 5. Aplicación de los datos
+
+El amoniaco es una molécula neutra, por lo tanto:
+
+\[
+\sum \mathrm{EO} = 0
+\]
+
+El hidrógeno se asigna un estado de oxidación de \(+1\).
+
+### 6. Resolución paso a paso
+
+Se asigna el estado de oxidación del hidrógeno:
+
+\[
+\mathrm{H} = +1
+\]
+
+Como hay tres átomos de hidrógeno, su contribución total es:
+
+\[
+3(+1) = +3
+\]
+
+Sea \(x\) el estado de oxidación del nitrógeno:
+
+\[
+\mathrm{N} = x
+\]
+
+Como el amoniaco es una molécula neutra, la suma de los estados de oxidación debe ser igual a cero:
+
+\[
+x + 3(+1) = 0
+\]
+
+\[
+x + 3 = 0
+\]
+
+Despejamos \(x\):
+
+\[
+x = 0 - 3
+\]
+
+\[
+x = -3
+\]
+
+Verificación aritmética: \(x + 3 = 0 \Rightarrow -3 + 3 = 0\). La operación es correcta.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{EO_{N}} = -3}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del nitrógeno en el amoniaco es \(-3\). Esto ocurre porque el nitrógeno es más electronegativo que el hidrógeno y, en la molécula de \(\mathrm{NH_3}\), se asigna una carga hipotética negativa para cumplir con la regla de suma cero.

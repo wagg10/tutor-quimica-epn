@@ -1,0 +1,65 @@
+### 1. Fundamento químico del problema
+
+El estado de oxidación es la carga que un átomo parece tener en una molécula o ion. Para determinarlo, se considera la suma de los estados de oxidación de todos los átomos, que debe ser igual a la carga total del ion.
+
+### 2. Información proporcionada
+
+El compuesto es el permanganato de potasio, cuya fórmula es:
+
+\[
+\mathrm{KMnO_4}
+\]
+
+El permanganato de potasio es un ion poliatómico con carga \(+1\).
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el estado de oxidación del manganeso en el permanganato de potasio.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El estado de oxidación de los átomos se calcula considerando la suma de los estados de oxidación de todos los átomos, que debe ser igual a la carga total del ion.
+
+El potasio, al ser un metal alcalino, tiene estado de oxidación \(+1\).
+
+El oxígeno, al ser un elemento no metálico, tiene estado de oxidación \(-2\).
+
+### 5. Aplicación de los datos
+
+En el permanganato de potasio, la suma de los estados de oxidación debe ser igual a \(+1\), porque el ion tiene carga \(+1\).
+
+\[
+(+1) + (X) + 4(-2) = +1
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelve la ecuación:
+
+\[
+(+1) + (X) + 4(-2) = +1
+\]
+
+\[
+(+1) + (X) - 8 = +1
+\]
+
+\[
+X - 7 = +1
+\]
+
+\[
+X = +8
+\]
+
+Por lo tanto, el estado de oxidación del manganeso es \(+7\).
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Mn} = +7}
+\]
+
+### 8. Conclusión
+
+El estado de oxidación del manganeso en el permanganato de potasio es \(+7\), porque el ion tiene carga \(+1\), el potasio aporta \(+1\) y el oxígeno aporta \(-8\).

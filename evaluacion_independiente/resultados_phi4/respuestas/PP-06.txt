@@ -1,0 +1,48 @@
+### 1. Fundamento químico del problema
+
+El radio atómico se define como la distancia entre el núcleo y la nube electrónica externa. En un mismo elemento, cuando se comparan diferentes especies químicas, el número de protones y electrones cambia según la carga.
+
+### 2. Información proporcionada
+
+Se comparan dos especies del elemento sodio:
+
+- Átomo neutro de sodio: \(\mathrm{Na}\).
+- Ion sodio: \(\mathrm{Na^+}\).
+
+### 3. Lo que se debe determinar
+
+Se debe indicar cuál especie tiene mayor radio atómico: el átomo de Na o el ion Na+.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El radio atómico depende del número de electrones en el último nivel cuántico. Cuando un átomo pierde electrones, su radio disminuye porque la nube electrónica queda más cerca del núcleo.
+
+### 5. Aplicación de los datos
+
+El átomo neutro de sodio tiene 11 electrones. El ion sodio \(\mathrm{Na^+}\) se forma cuando el sodio pierde un electrón:
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+### 6. Resolución paso a paso
+
+El átomo neutro de sodio tiene 11 electrones. El ion sodio \(\mathrm{Na^+}\) se forma cuando el sodio pierde un electrón:
+
+\[
+\mathrm{Na} \longrightarrow \mathrm{Na^+} + e^-
+\]
+
+Por lo tanto, el ion sodio queda con 10 electrones.
+
+El átomo neutro de sodio tiene mayor radio que el ion sodio \(\mathrm{Na^+}\), porque el ion tiene menos electrones y su nube electrónica se contrae hacia el núcleo.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{El átomo de Na tiene mayor radio que el ion } \mathrm{Na^+}}
+\]
+
+### 8. Conclusión
+
+El átomo de Na tiene mayor radio porque conserva todos sus electrones. El ion \(\mathrm{Na^+}\) tiene menor radio porque perdió un

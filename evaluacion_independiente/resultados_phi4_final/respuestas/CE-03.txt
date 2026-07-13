@@ -1,0 +1,109 @@
+### 1. Fundamento químico del problema
+
+El número atómico \(Z\) indica la cantidad de protones de un átomo. En un átomo neutro, el número de protones es igual al número de electrones. Los electrones de valencia son los electrones del último nivel cuántico principal \(n\).
+
+### 2. Información proporcionada
+
+El elemento analizado es el azufre:
+
+\[
+\mathrm{S}
+\]
+
+El número atómico del azufre es:
+
+\[
+Z = 16
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar cuántos electrones de valencia tiene el azufre.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El número atómico \(Z\) indica la cantidad de protones:
+
+\[
+Z = \#p^+
+\]
+
+En un átomo neutro:
+
+\[
+\#p^+ = \#e^-
+\]
+
+Por lo tanto:
+
+\[
+Z = \#e^-
+\]
+
+Para identificar los electrones de valencia, se observa el último nivel cuántico principal \(n\).
+
+### 5. Aplicación de los datos
+
+El azufre tiene número atómico:
+
+\[
+Z = 16
+\]
+
+Por lo tanto, el átomo neutro de azufre tiene:
+
+\[
+\#e^- = 16
+\]
+
+### 6. Resolución paso a paso
+
+El azufre tiene número atómico:
+
+\[
+Z = 16
+\]
+
+Por lo tanto, el átomo neutro de azufre tiene:
+
+\[
+\#e^- = 16
+\]
+
+La configuración electrónica del azufre es:
+
+\[
+1s^2\,2s^2\,2p^6\,3s^2\,3p^4
+\]
+
+Los electrones de valencia son los electrones del último nivel cuántico principal \(n\). En este caso, el nivel más alto es:
+
+\[
+n = 3
+\]
+
+En el nivel \(n=3\), hay:
+
+\[
+3s^2\,3p^4
+\]
+
+Entonces:
+
+\[
+\#e^-_{\text{valencia}} = 2 + 4
+\]
+
+\[
+\#e^-_{\text{valencia}} = 6
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#e^-_{\text{valencia}} = 6}
+\]
+
+### 8. Conclusión
+
+El azufre tiene \(6\) electrones de valencia porque su configuración electrónica termina en \(3s^2\,3p^4\), lo que indica que el nivel cuántico principal más alto es \(n=3\) y contiene \(6\) electrones.

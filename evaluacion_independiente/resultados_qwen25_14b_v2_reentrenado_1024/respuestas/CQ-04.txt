@@ -1,0 +1,27 @@
+### Definición
+
+Balancear una ecuación química consiste en ajustar los coeficientes estequiométricos de los reactivos y productos para que el número de átomos de cada elemento sea igual en ambos lados de la reacción.
+
+### Explicación
+
+El balanceo se realiza porque la ley de conservación de la masa establece que en una reacción química no se crea ni se destruye materia. Por eso, el número de átomos de cada elemento debe ser igual en reactivos y productos.
+
+### Ejemplo
+
+Considere la combustión del metano:
+
+\[
+\mathrm{CH_4} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + \mathrm{H_2O}
+\]
+
+Al contar los átomos, se observa que hay 4 hidrógenos en reactivos y 2 en productos. Al agregar un coeficiente 2 al \(\mathrm{H_2O}\), se equilibra el hidrógeno:
+
+\[
+\mathrm{CH_4} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + 2\mathrm{H_2O}
+\]
+
+Luego se balancean el carbono y el oxígeno.
+
+### Importancia en Química
+
+El balanceo es fundamental porque permite conocer las proporciones en que se combinan y se separan las sustancias, lo cual es esencial para realizar cálculos estequiométricos precisos y predecir cantidades de reactivos y productos. Además, un balanceo correcto garantiza que la ecuación refleje fielmente la realidad química de la reacción.

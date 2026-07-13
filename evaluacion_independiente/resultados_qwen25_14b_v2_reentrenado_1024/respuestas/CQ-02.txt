@@ -1,0 +1,15 @@
+### Definición
+
+La electronegatividad es la capacidad de un átomo para atraer hacia sí los electrones compartidos de un enlace covalente.
+
+### Explicación
+
+Es una propiedad química que describe la intensidad con la que un átomo atrae los electrones hacia su núcleo cuando forma un enlace covalente con otro átomo. Esta propiedad es fundamental para entender la polarización de los enlaces y la formación de moléculas polares.
+
+### Ejemplo
+
+Cuando el carbono se une al oxígeno en el \(\mathrm{CO_2}\), el oxígeno atrae con mayor fuerza los electrones compartidos debido a su mayor electronegatividad. Esto genera una distribución desigual de densidad electrónica y una molécula polar.
+
+### Importancia en Química
+
+La electronegatividad es crucial para predecir la polaridad de los enlaces, la dirección de la corriente eléctrica en redes cristalinas, la afinidad de los átomos por formar iones y la reactividad de los elementos. Permite predecir la polaridad de los enlaces y la formación de moléculas polares.

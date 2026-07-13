@@ -1,0 +1,50 @@
+El último subnivel de la configuración electrónica es 3p5. El subnivel p tiene 5 electrones, lo que indica que el elemento pertenece al Grupo 17 (de la notación moderna del sistema IUPAC).
+</think>
+
+### 1. Fundamento químico del problema
+
+El número de grupo en la notación moderna (del 1 al 18) se determina por la cantidad de electrones de valencia de un elemento. Los electrones de valencia se encuentran en el último subnivel de la configuración electrónica.
+
+### 2. Información proporcionada
+
+Configuración electrónica final del elemento:
+
+\[
+3s^2\,3p^5
+\]
+
+### 3. Lo que se debe determinar
+
+El número de grupo (notación moderna, del 1 al 18) al que pertenece el elemento.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+El subnivel \(p\) puede contener hasta 6 electrones. Cuando un subnivel \(p\) contiene 5 electrones, el elemento pertenece al Grupo 17 (de la notación moderna del sistema IUPAC).
+
+### 5. Aplicación de los datos
+
+El último subnivel de la configuración electrónica es:
+
+\[
+3p^5
+\]
+
+El subnivel \(p\) tiene 5 electrones.
+
+### 6. Resolución paso a paso
+
+El subnivel \(p\) puede contener hasta 6 electrones. Cuando un subnivel \(p\) contiene 5 electrones, el elemento pertenece al Grupo 17 (de la notación moderna del sistema IUPAC).
+
+\[
+3p^5 \Rightarrow \text{Grupo 17}
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\text{Grupo 17}}
+\]
+
+### 8. Conclusión
+
+El elemento cuya configuración electrónica termina en \(3s^2\,3p^5\) pertenece al Grupo 17, porque el subnivel \(3p^5\) indica la presencia de 7 electrones de valencia.

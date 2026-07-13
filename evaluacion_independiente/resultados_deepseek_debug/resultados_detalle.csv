@@ -1,0 +1,2 @@
+id,eje,tipo,esperado,unidad,num_detectado,todos_los_numeros,resultado_correcto,apartados_detectados,apartados_faltantes,estructura_completa,contenido_no_solicitado,clasificacion,archivo_respuesta
+EA-01,estructura_atomica,ejercicio_numerico,19,,,,False,0/8,1;2;3;4;5;6;7;8,False,False,error_inferencia,

@@ -1,0 +1,87 @@
+### 1. Fundamento químico del problema
+
+La masa molar de un compuesto se obtiene sumando las masas molares de todos los átomos que lo constituyen, multiplicadas por sus respectivos subíndices de la fórmula química.
+
+### 2. Información proporcionada
+
+Fórmula de la glucosa:
+
+\[
+\mathrm{C_6H_{12}O_6}
+\]
+
+Masas atómicas:
+
+\[
+C = 12,01 \, \mathrm{g/mol}
+\]
+
+\[
+H = 1,008 \, \mathrm{g/mol}
+\]
+
+\[
+O = 16,00 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+La masa molar de la glucosa.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La masa molar se calcula con la expresión:
+
+\[
+PM = \sum (PA_i \cdot n_i)
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores de la glucosa:
+
+\[
+PM = (12,01 \times 6) + (1,008 \times 12) + (16,00 \times 6)
+\]
+
+### 6. Resolución paso a paso
+
+Se resuelven los productos parciales:
+
+\[
+12,01 \times 6 = 72,06
+\]
+
+\[
+1,008 \times 12 = 12,096
+\]
+
+\[
+16,00 \times 6 = 96,00
+\]
+
+Se verifican los signos de suma:
+
+\[
+72,06 + 12,096 + 96,00
+\]
+
+Se realiza la suma final:
+
+\[
+72,06 + 12,096 = 84,156
+\]
+
+\[
+84,156 + 96,00 = 180,156
+\]
+
+### 7. Resultado obtenido
+
+\[
+\boxed{PM = 180,156 \, \mathrm{g/mol}}
+\]
+
+### 8. Conclusión
+
+La masa molar de la glucosa es \(180,156 \, \mathrm{g/mol}\). Este valor representa la masa de una molécula de glucosa expresada en gramos, y es fundamental para convertir entre masa y cantidad de sustancia en

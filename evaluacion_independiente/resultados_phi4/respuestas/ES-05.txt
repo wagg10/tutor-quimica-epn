@@ -1,0 +1,54 @@
+### 1. Fundamento químico del problema
+
+Para convertir una masa en moles, se utiliza la masa molar de la sustancia. La masa molar es la masa de una sustancia expresada en gramos por mol, y permite relacionar la masa macroscópica con la cantidad de sustancia en moles.
+
+### 2. Información proporcionada
+
+- Masa de la sustancia: \(88 \, \text{g de } \mathrm{CO_2}\)
+- Masa molar del \(\mathrm{CO_2}\): \(44,01 \, \text{g/mol}\)
+
+### 3. Lo que se debe determinar
+
+- El número de moles de \(\mathrm{CO_2}\) presentes en la masa dada.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación entre masa, masa molar y número de moles se expresa mediante la fórmula:
+
+\[
+n = \frac{m}{M}
+\]
+
+donde:
+
+- \(n\) es el número de moles.
+- \(m\) es la masa de la sustancia en gramos.
+- \(M\) es la masa molar de la sustancia en \(\text{g/mol}\).
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores del problema en la fórmula:
+
+\[
+n = \frac{88 \, \text{g}}{44,01 \, \text{g/mol}}
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la división de la masa entre la masa molar:
+
+\[
+n = 2,000 \, \text{mol}
+\]
+
+**Verificación Aritmética:**
+
+- La masa molar del \(\mathrm{CO_2}\) es \(44,01 \, \text{g/mol}\).
+- La masa dada es \(88 \, \text{g}\).
+- Al dividir \(88\) entre \(44,01\), se obtiene \(2,000\), lo cual es correcto.
+- Las unidades se cancelan adecuadamente: \(\text{g} / \text{g/mol} = \text{mol}\).
+
+### 7. Resultado obtenido
+
+\[
+\boxed{n = 2,000 \, \text{mol de } \mathrm{CO

@@ -1,0 +1,63 @@
+### 1. Fundamento químico del problema
+
+El número atómico \(Z\) indica la cantidad de protones de un átomo. El número másico \(A\) indica la masa o número de nucleones. El número de neutrones se obtiene mediante la diferencia entre el número másico y el número atómico.
+
+### 2. Información proporcionada
+
+El ion es:
+
+\[
+\mathrm{Fe^{3+}}
+\]
+
+El número atómico es:
+
+\[
+Z = 26
+\]
+
+El número másico es:
+
+\[
+A = 56
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe determinar el número de neutrones del ion \(\mathrm{Fe^{3+}}\).
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para calcular el número de neutrones se usa la relación:
+
+\[
+\#n^0 = A - Z
+\]
+
+### 5. Aplicación de los datos
+
+Se sustituyen los valores del problema:
+
+\[
+\#n^0 = 56 - 26
+\]
+
+### 6. Resolución paso a paso
+
+Se realiza la operación:
+
+\[
+\#n^0 = 30
+\]
+
+Verificación aritmética: \(56 - 26 = 30\). La unidad es número de neutrones, por lo tanto, no hay unidades.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\#n^0 = 30}
+\]
+
+### 8. Conclusión
+
+El ion \(\mathrm{Fe^{3+}}\) tiene \(30\) neutrones porque el número másico es \(56\) y el número atómico es \(26\).

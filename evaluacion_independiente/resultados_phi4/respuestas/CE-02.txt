@@ -1,0 +1,91 @@
+### 1. Fundamento químico del problema
+
+La configuración electrónica permite distribuir los electrones de un átomo en sus orbitales de menor a mayor energía siguiendo el principio de Aufbau, la regla de Hund y el principio de exclusión de Pauli.
+
+### 2. Información proporcionada
+
+El elemento analizado es el cloro.
+
+\[
+\mathrm{Cl}
+\]
+
+El número atómico del cloro es:
+
+\[
+Z = 17
+\]
+
+Como se trata de un átomo neutro, el número de electrones es igual al número atómico:
+
+\[
+e^- = 17
+\]
+
+### 3. Lo que se debe determinar
+
+Se debe escribir la configuración electrónica del cloro.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+Para un átomo neutro:
+
+\[
+Z = e^-
+\]
+
+La configuración electrónica se escribe siguiendo el orden de llenado de orbitales:
+
+\[
+1s,\ 2s,\ 2p,\ 3s,\ 3p
+\]
+
+### 5. Aplicación de los datos
+
+Se distribuyen los 17 electrones del cloro en los orbitales correspondientes:
+
+\[
+1s^2
+\]
+
+\[
+2s^2
+\]
+
+\[
+2p^6
+\]
+
+\[
+3s^2
+\]
+
+\[
+3p^5
+\]
+
+### 6. Resolución paso a paso
+
+Se escribe la configuración electrónica completa:
+
+\[
+\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5
+\]
+
+Se verifica la suma de los exponentes:
+
+\[
+2 + 2 + 6 + 2 + 5 = 17
+\]
+
+La suma coincide con el número atómico del cloro.
+
+### 7. Resultado obtenido
+
+\[
+\boxed{\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^2\,3p^5}
+\]
+
+### 8. Conclusión
+
+La configuración electrónica del cloro es \(\mathrm{Cl}: 1s^2\,2s^2\,2p^6\,3s^

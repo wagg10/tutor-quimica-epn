@@ -1,0 +1,64 @@
+### 1. Fundamento químico del problema
+
+La estequiometría permite calcular cantidades de reactivos y productos en una reacción química balanceada. En este ejercicio, el agua se forma a partir de hidrógeno y oxígeno, y el hidrógeno es el reactivo limitante porque el oxígeno está en exceso.
+
+### 2. Información proporcionada
+
+Reacción química balanceada:
+
+\[
+2\mathrm{H_2} + \mathrm{O_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+Masa de reactivo disponible:
+
+\[
+m_{\mathrm{H_2}} = 4 \, \mathrm{g}
+\]
+
+Masas molares aproximadas:
+
+\[
+M_{\mathrm{H_2}} = 2 \, \mathrm{g/mol}
+\]
+
+\[
+M_{\mathrm{H_2O}} = 18 \, \mathrm{g/mol}
+\]
+
+### 3. Lo que se debe determinar
+
+La masa de agua formada al reaccionar completamente 4 g de \(\mathrm{H_2}\) con oxígeno en exceso.
+
+### 4. Relaciones químicas y expresiones necesarias
+
+La relación estequiométrica entre el reactivo limitante y el producto se obtiene de la ecuación balanceada:
+
+\[
+2\mathrm{H_2} \rightarrow 2\mathrm{H_2O}
+\]
+
+La relación molar es:
+
+\[
+2 \, \text{mol } \mathrm{H_2} \rightarrow 2 \, \text{mol } \mathrm{H_2O}
+\]
+
+Por lo tanto:
+
+\[
+1 \, \text{mol } \mathrm{H_2} \rightarrow 1 \, \text{mol } \mathrm{H_2O}
+\]
+
+La masa de agua se calcula mediante:
+
+\[
+m_{\mathrm{H_2O}} = n_{\mathrm{H_2O}} \cdot M_{\mathrm{H_2O}}
+\]
+
+### 5. Aplicación de los datos
+
+Primero se calculan los moles de hidrógeno disponibles:
+
+\[
+n_{\mathrm{H_2}} = \frac{m_{\mathrm{H_2}}}{M

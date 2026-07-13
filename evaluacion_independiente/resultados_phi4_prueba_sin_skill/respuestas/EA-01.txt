@@ -1,0 +1,41 @@
+### 1. Fundamento químico del problema
+El número másico ($A$) representa la masa total de un núcleo atómico expresada en unidades de masa atómica ($uma$). Este valor es la suma de los protones y los neutrones que se encuentran en el núcleo.
+
+### 2. Información proporcionada
+Número másico del átomo:
+
+\[
+A = 39
+\]
+
+Número de neutrones:
+
+\[
+n^0 = 20
+\]
+
+### 3. Lo que se debe determinar
+Se debe calcular el número atómico ($Z$) del átomo.
+
+### 4. Relaciones químicas y expresiones necesarias
+La relación entre el número másico, el número de protones y el número de neutrones es:
+
+\[
+A = Z + n^0
+\]
+
+Despejando el número atómico:
+
+\[
+Z = A - n^0
+\]
+
+### 5. Aplicación de los datos
+Sustituyendo los valores conocidos:
+
+\[
+Z = 39 - 20
+\]
+
+### 6. Resolución paso a paso
+Se realiza la
