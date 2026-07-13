@@ -1,0 +1,39 @@
+============================================================
+EVIDENCIA DEL ENTORNO VIRTUAL DE PYTHON
+============================================================
+
+Directorio actual del proyecto:
+/home/lasinac/Quimica
+
+Ruta del entorno virtual activo:
+/home/lasinac/Quimica/entorno_quimica_qlora
+
+Python utilizado:
+/home/lasinac/Quimica/entorno_quimica_qlora/bin/python
+Python 3.12.3
+
+Pip utilizado:
+/home/lasinac/Quimica/entorno_quimica_qlora/bin/pip
+pip 26.1.2 from /home/lasinac/Quimica/entorno_quimica_qlora/lib/python3.12/site-packages/pip (python 3.12)
+
+============================================================
+VERSIONES DE LIBRERÍAS PRINCIPALES
+============================================================
+PyTorch: 2.11.0+cu128
+Transformers: 5.12.1
+Datasets: 5.0.0
+Accelerate: 1.14.0
+PEFT: 0.19.1
+TRL: 1.6.0
+BitsAndBytes: 0.49.2
+Safetensors: 0.8.0
+SentencePiece: 0.2.1
+NumPy: 2.4.4
+Pandas: 3.0.3
+Scikit-learn: 1.9.0
+TensorBoard: 2.20.0
+
+CUDA disponible en PyTorch:
+True
+GPU: NVIDIA GeForce RTX 5090
+CUDA PyTorch: 12.8

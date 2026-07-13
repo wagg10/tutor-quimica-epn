@@ -1,0 +1,25 @@
+Responde directamente con exactamente estos 8 encabezados usando ###:
+
+### 1. Fundamento quimico del problema
+### 2. Informacion proporcionada
+### 3. Lo que se debe determinar
+### 4. Relaciones quimicas y expresiones necesarias
+### 5. Aplicacion de los datos
+### 6. Resolucion paso a paso
+### 7. Resultado obtenido
+### 8. Conclusion
+
+No uses Python.
+No uses graficos.
+No uses tablas.
+No escribas Thought ni Solution.
+No recalcules los valores verificados de forma distinta.
+
+Ejercicio:
+El hidrógeno se vuelve líquido a 20,27 K. ¿Cuál es el equivalente en grados Fahrenheit?
+
+Datos verificados:
+20,27 - 273,15 = -252,88
+1,8 × (-252,88) = -455,184
+-455,184 + 32 = -423,184
+Resultado final redondeado = -423,18 °F

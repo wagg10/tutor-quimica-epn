@@ -1,0 +1,97 @@
+{
+  "metadata_tesis": {
+    "institucion": "Escuela Politécnica Nacional",
+    "carrera": "Ingeniería de Software",
+    "asignatura": "Química",
+    "proyecto": "Implementación de Modelos Extensos de Lenguaje aplicados a la tutoría académica en Química",
+    "modelo_base": "microsoft/Phi-4-reasoning",
+    "metodo": "QLoRA 4-bit + PEFT",
+    "profesor": "PhD. Erick Herrera",
+    "fecha": "20260623_011228",
+    "version_dataset": "v2 - 684 ejercicios corregidos con formato de 8 encabezados"
+  },
+  "configuracion": {
+    "dataset_path": "/home/lasinac/Quimica/dataset_quimica_final.jsonl",
+    "output_dir": "./modelo_tutor_quimica_phi4_v2",
+    "checkpoint_dir": "./checkpoints_phi4_v2",
+    "model_id": "microsoft/Phi-4-reasoning",
+    "seed": 42,
+    "test_size": 0.1,
+    "load_in_4bit": true,
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "bnb_4bit_compute_dtype": "torch.bfloat16",
+    "lora_r": 64,
+    "lora_alpha": 128,
+    "lora_dropout": 0.1,
+    "lora_target_modules": "all-linear",
+    "max_seq_length": 3072,
+    "packing": false,
+    "per_device_train_batch_size": 1,
+    "per_device_eval_batch_size": 1,
+    "gradient_accumulation_steps": 8,
+    "num_train_epochs": 4,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.05,
+    "lr_scheduler_type": "cosine",
+    "eval_steps": 19,
+    "save_steps": 38,
+    "save_total_limit": 3,
+    "logging_steps": 5,
+    "early_stopping_patience": 8,
+    "early_stopping_threshold": 0.001,
+    "bf16": true,
+    "fp16": false,
+    "gradient_checkpointing": true,
+    "optim": "paged_adamw_8bit",
+    "tesis_info": {
+      "institucion": "Escuela Politécnica Nacional",
+      "carrera": "Ingeniería de Software",
+      "asignatura": "Química",
+      "proyecto": "Implementación de Modelos Extensos de Lenguaje aplicados a la tutoría académica en Química",
+      "modelo_base": "microsoft/Phi-4-reasoning",
+      "metodo": "QLoRA 4-bit + PEFT",
+      "profesor": "PhD. Erick Herrera",
+      "fecha": "20260623_011228",
+      "version_dataset": "v2 - 684 ejercicios corregidos con formato de 8 encabezados"
+    }
+  },
+  "gpu_info": {
+    "disponible": true,
+    "nombre": "NVIDIA GeForce RTX 5090",
+    "vram_total_gb": 33.66,
+    "vram_libre_gb": 32.62,
+    "vram_usada_gb": 1.04,
+    "compute_capability": "12.0"
+  },
+  "parametros_lora": {
+    "total": 8066585600,
+    "entrenables": 222822400,
+    "porcentaje": 2.7623
+  },
+  "plan_entrenamiento": {
+    "batch_efectivo": 8,
+    "steps_por_epoca": 76,
+    "total_steps_planificados": 304,
+    "warmup_steps": 15
+  },
+  "resultado_train": {
+    "global_step": 304,
+    "training_loss": 0.4049718848576671,
+    "duracion_minutos": 42.45
+  },
+  "mejor_checkpoint": "./checkpoints_phi4_v2/checkpoint-152",
+  "mejor_metrica_valor": 0.4357180595397949,
+  "metricas_finales": {
+    "eval_loss": 0.4357180595397949,
+    "eval_mean_token_accuracy": 0.8826395929723546,
+    "eval_runtime": 19.8927,
+    "eval_samples_per_second": 3.469,
+    "eval_steps_per_second": 3.469,
+    "eval_entropy": 0.4260706635920898,
+    "eval_num_tokens": 2790360.0,
+    "epoch": 3.9495934959349595,
+    "num_input_tokens_seen": 2790360
+  }
+}

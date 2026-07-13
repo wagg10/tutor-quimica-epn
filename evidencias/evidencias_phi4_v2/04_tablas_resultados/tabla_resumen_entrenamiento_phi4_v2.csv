@@ -1,0 +1,27 @@
+Indicador,Valor
+Modelo base,microsoft/Phi-4-reasoning
+Método,QLoRA 4-bit + PEFT
+Dataset,/home/lasinac/Quimica/dataset_quimica_final.jsonl
+Épocas,4
+Longitud máxima de secuencia,3072
+Batch efectivo,8
+Steps por época,76
+Total steps planificados,304
+Warmup steps,15
+Learning rate,0.0001
+LoRA r,64
+LoRA alpha,128
+LoRA dropout,0.1
+Training loss,0.4049718848576671
+Eval loss final,0.4357180595397949
+Token accuracy final,0.8826395929723546
+Duración total min,42.45
+Global step final,304
+Mejor checkpoint,./checkpoints_phi4_v2/checkpoint-152
+Mejor métrica valor,0.4357180595397949
+GPU,NVIDIA GeForce RTX 5090
+VRAM total GB,33.66
+VRAM libre inicial GB,32.62
+Parámetros totales,8066585600
+Parámetros entrenables,222822400
+Porcentaje entrenable,2.7623

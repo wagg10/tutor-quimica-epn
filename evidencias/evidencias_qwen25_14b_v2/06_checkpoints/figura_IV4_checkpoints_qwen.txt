@@ -1,0 +1,15 @@
+============================================================
+PUNTOS DE CONTROL DEL MODELO QWEN2.5-14B-INSTRUCT
+============================================================
+
+Carpeta de checkpoints recuperada desde evidencias_qwen25_14b_v2.tar.gz
+
+total 20K
+drwxrwxr-x 2 lasinac lasinac 4,0K jun 23 12:04 checkpoint-152
+drwxrwxr-x 2 lasinac lasinac 4,0K jun 23 12:22 checkpoint-266
+drwxrwxr-x 2 lasinac lasinac 4,0K jun 23 12:28 checkpoint-304
+-rw-rw-r-- 1 lasinac lasinac 1,4K jun 23 12:27 README.md
+drwxrwxr-x 3 lasinac lasinac 4,0K jun 23 11:41 runs
+
+Tamaño total:
+3,2G	checkpoints_qwen25_14b_v2

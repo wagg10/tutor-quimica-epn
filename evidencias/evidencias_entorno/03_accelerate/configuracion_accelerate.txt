@@ -1,0 +1,61 @@
+============================================================
+EVIDENCIA DE CONFIGURACIÓN DE ACCELERATE
+============================================================
+
+Ruta del archivo de configuración:
+/home/lasinac/.cache/huggingface/accelerate/default_config.yaml
+
+============================================================
+CONTENIDO DE default_config.yaml
+============================================================
+compute_environment: LOCAL_MACHINE
+debug: false
+distributed_type: 'NO'
+downcast_bf16: 'no'
+enable_cpu_affinity: false
+gpu_ids: '0'
+machine_rank: 0
+main_training_function: main
+mixed_precision: bf16
+num_machines: 1
+num_processes: 1
+rdzv_backend: static
+same_network: true
+tpu_env: []
+tpu_use_cluster: false
+tpu_use_sudo: false
+use_cpu: false
+
+============================================================
+INFORMACIÓN DEL ENTORNO ACCELERATE
+============================================================
+
+Copy-and-paste the text below in your GitHub issue
+
+- `Accelerate` version: 1.14.0
+- Platform: Linux-6.17.0-35-generic-x86_64-with-glibc2.39
+- `accelerate` bash location: /home/lasinac/Quimica/entorno_quimica_qlora/bin/accelerate
+- Python version: 3.12.3
+- Numpy version: 2.4.4
+- PyTorch version: 2.11.0+cu128
+- PyTorch accelerator: CUDA
+- System RAM: 125.51 GB
+- GPU type: NVIDIA GeForce RTX 5090
+- `Accelerate` default config:
+	- compute_environment: LOCAL_MACHINE
+	- distributed_type: NO
+	- mixed_precision: bf16
+	- use_cpu: False
+	- debug: False
+	- num_processes: 1
+	- machine_rank: 0
+	- num_machines: 1
+	- gpu_ids: 0
+	- rdzv_backend: static
+	- same_network: True
+	- main_training_function: main
+	- enable_cpu_affinity: False
+	- downcast_bf16: no
+	- tpu_use_cluster: False
+	- tpu_use_sudo: False
+	- tpu_env: []

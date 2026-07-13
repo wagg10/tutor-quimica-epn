@@ -1,0 +1,6 @@
+total 20K
+drwxrwxr-x 2 lasinac lasinac 4,0K jun 23 01:33 checkpoint-152
+drwxrwxr-x 2 lasinac lasinac 4,0K jun 23 01:49 checkpoint-266
+drwxrwxr-x 2 lasinac lasinac 4,0K jun 23 01:55 checkpoint-304
+-rw-rw-r-- 1 lasinac lasinac 1,4K jun 23 01:55 README.md
+drwxrwxr-x 3 lasinac lasinac 4,0K jun 23 01:12 runs

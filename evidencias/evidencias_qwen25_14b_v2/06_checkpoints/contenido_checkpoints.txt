@@ -1,0 +1,8 @@
+============================================================
+CHECKPOINTS DEL MODELO QWEN2.5-14B-INSTRUCT
+============================================================
+
+Carpeta evaluada: checkpoints_qwen25_14b_v2
+
+
+Tamaño total de la carpeta:

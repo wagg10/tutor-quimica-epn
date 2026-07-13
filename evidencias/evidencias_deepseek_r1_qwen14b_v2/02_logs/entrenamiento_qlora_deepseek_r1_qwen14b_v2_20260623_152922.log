@@ -1,0 +1,232 @@
+2026-06-23 15:29:22,187 [INFO] ================================================================================
+2026-06-23 15:29:22,187 [INFO]  TUTOR LLM QUÍMICA v2 - QLORA - DEEPSEEK-R1-DISTILL-QWEN 14B
+2026-06-23 15:29:22,187 [INFO]  Inicio: 20260623_152922
+2026-06-23 15:29:22,187 [INFO]  Dataset: 684 ejercicios corregidos con formato de 8 encabezados
+2026-06-23 15:29:22,187 [INFO] ================================================================================
+2026-06-23 15:29:22,505 [INFO] GPU detectada: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 32.63, 'vram_usada_gb': 1.04, 'compute_capability': '12.0'}
+2026-06-23 15:29:22,505 [INFO] Configuración guardada en: ./modelo_tutor_quimica_deepseek_r1_qwen14b_v2/configuracion_entrenamiento.json
+2026-06-23 15:29:22,505 [INFO] Validando dataset en: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-06-23 15:29:22,518 [INFO] ============================================================
+2026-06-23 15:29:22,518 [INFO] REPORTE DE VALIDACIÓN
+2026-06-23 15:29:22,518 [INFO] ============================================================
+2026-06-23 15:29:22,518 [INFO] Total ejemplos              : 684
+2026-06-23 15:29:22,518 [INFO] Errores de estructura       : 0
+2026-06-23 15:29:22,518 [INFO] Sin 8 encabezados completos : 3
+2026-06-23 15:29:22,518 [INFO] Con LaTeX prohibido         : 0
+2026-06-23 15:29:22,518 [INFO] Con código Python           : 0
+2026-06-23 15:29:22,518 [INFO] ============================================================
+2026-06-23 15:29:22,518 [INFO] ✅ Dataset apto para entrenamiento
+2026-06-23 15:29:22,518 [INFO] Cargando dataset desde: /home/lasinac/Quimica/dataset_quimica_final.jsonl
+2026-06-23 15:29:22,898 [INFO] HTTP Request: HEAD https://s3.amazonaws.com/datasets.huggingface.co/datasets/datasets/json/json.py "HTTP/1.1 200 OK"
+2026-06-23 15:29:22,920 [INFO] Dataset dividido → Train: 615 | Validación: 69
+2026-06-23 15:29:22,920 [INFO] ============================================================
+2026-06-23 15:29:22,920 [INFO] PLAN DE ENTRENAMIENTO
+2026-06-23 15:29:22,920 [INFO] ============================================================
+2026-06-23 15:29:22,920 [INFO]   Batch efectivo            : 8
+2026-06-23 15:29:22,920 [INFO]   Steps por época           : 76
+2026-06-23 15:29:22,920 [INFO]   Total steps               : 304
+2026-06-23 15:29:22,920 [INFO]   Warmup steps              : 15
+2026-06-23 15:29:22,920 [INFO]   Evaluaciones por época    : ~4
+2026-06-23 15:29:22,920 [INFO]   Checkpoints por época     : ~2
+2026-06-23 15:29:22,920 [INFO] ============================================================
+2026-06-23 15:29:22,920 [INFO] Cargando tokenizador: deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+2026-06-23 15:29:23,754 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:23,796 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:23,925 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:24,057 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:24,099 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:24,229 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:24,366 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:24,410 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:24,534 [INFO] HTTP Request: GET https://huggingface.co/api/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:24,663 [INFO] HTTP Request: GET https://huggingface.co/api/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-23 15:29:24,790 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/vocab.json "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:24,934 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/merges.txt "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:25,070 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:25,197 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:25,356 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:25,838 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:25,961 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/special_tokens_map.json "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:26,093 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:26,440 [INFO] HTTP Request: GET https://huggingface.co/api/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B "HTTP/1.1 200 OK"
+2026-06-23 15:29:26,444 [INFO] Cargando modelo base en QLoRA 4-bit: deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+2026-06-23 15:29:26,690 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:26,732 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:26,857 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:27,090 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:27,133 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:27,751 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-06-23 15:29:27,882 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/model.safetensors.index.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 15:29:28,007 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/model.safetensors.index.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:28,135 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/model.safetensors.index.json "HTTP/1.1 200 OK"
+2026-06-23 15:29:28,263 [INFO] HTTP Request: GET https://huggingface.co/api/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/revision/main "HTTP/1.1 200 OK"
+2026-06-23 15:29:28,393 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/1df8507178afcc1bef68cd8c393f61a886323761/model-00001-of-000004.safetensors "HTTP/1.1 302 Found"
+2026-06-23 15:29:28,483 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/1df8507178afcc1bef68cd8c393f61a886323761/model-00004-of-000004.safetensors "HTTP/1.1 302 Found"
+2026-06-23 15:29:28,483 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/1df8507178afcc1bef68cd8c393f61a886323761/model-00003-of-000004.safetensors "HTTP/1.1 302 Found"
+2026-06-23 15:29:28,492 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/1df8507178afcc1bef68cd8c393f61a886323761/model-00002-of-000004.safetensors "HTTP/1.1 302 Found"
+2026-06-23 16:08:16,308 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:08:16,449 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/generation_config.json "HTTP/1.1 200 OK"
+2026-06-23 16:08:16,629 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/generation_config.json "HTTP/1.1 200 OK"
+2026-06-23 16:08:16,755 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/custom_generate/generate.py "HTTP/1.1 404 Not Found"
+2026-06-23 16:08:16,777 [INFO] GPU tras cargar modelo: {'disponible': True, 'nombre': 'NVIDIA GeForce RTX 5090', 'vram_total_gb': 33.66, 'vram_libre_gb': 16.17, 'vram_usada_gb': 17.49, 'compute_capability': '12.0'}
+2026-06-23 16:08:22,026 [INFO] Parámetros QLoRA → Total: 8,439,256,064 | Entrenables: 275,251,200 | 3.2616%
+2026-06-23 16:08:22,172 [INFO] 
+🚀 INICIANDO ENTRENAMIENTO QLORA v2 🚀
+
+2026-06-23 16:08:22,493 [INFO] HTTP Request: HEAD https://huggingface.co/api/telemetry/trl/SFTTrainer "HTTP/1.1 200 OK"
+2026-06-23 16:09:04,477 [INFO] 📈 Train step=5 | loss=1.3316 | lr=2.50e-05
+2026-06-23 16:09:40,094 [INFO] 📈 Train step=10 | loss=1.2186 | lr=5.63e-05
+2026-06-23 16:10:17,063 [INFO] 📈 Train step=15 | loss=0.8433 | lr=8.75e-05
+2026-06-23 16:11:06,133 [INFO] 📊 Eval step=19 | epoch=0.24715447154471545 | loss=0.6771 | acc=0.8435 | t=2.82 min
+2026-06-23 16:11:06,133 [INFO] ✨ Nuevo mejor eval_loss: 0.6771
+2026-06-23 16:11:15,209 [INFO] 📈 Train step=20 | loss=0.6834 | lr=1.00e-04
+2026-06-23 16:11:52,943 [INFO] 📈 Train step=25 | loss=0.6982 | lr=9.98e-05
+2026-06-23 16:12:34,424 [INFO] 📈 Train step=30 | loss=0.5561 | lr=9.95e-05
+2026-06-23 16:13:14,302 [INFO] 📈 Train step=35 | loss=0.6217 | lr=9.91e-05
+2026-06-23 16:13:58,774 [INFO] 📊 Eval step=38 | epoch=0.4943089430894309 | loss=0.5866 | acc=0.8548 | t=5.7 min
+2026-06-23 16:13:58,774 [INFO] ✨ Nuevo mejor eval_loss: 0.5866
+2026-06-23 16:13:59,526 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:13:59,582 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:13:59,707 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:13:59,748 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:14:15,022 [INFO] 📈 Train step=40 | loss=0.5626 | lr=9.85e-05
+2026-06-23 16:14:49,926 [INFO] 📈 Train step=45 | loss=0.5916 | lr=9.77e-05
+2026-06-23 16:15:26,335 [INFO] 📈 Train step=50 | loss=0.5907 | lr=9.69e-05
+2026-06-23 16:16:05,313 [INFO] 📈 Train step=55 | loss=0.5859 | lr=9.59e-05
+2026-06-23 16:16:39,837 [INFO] 📊 Eval step=57 | epoch=0.7414634146341463 | loss=0.5400 | acc=0.8629 | t=8.38 min
+2026-06-23 16:16:39,837 [INFO] ✨ Nuevo mejor eval_loss: 0.5400
+2026-06-23 16:17:02,007 [INFO] 📈 Train step=60 | loss=0.5352 | lr=9.47e-05
+2026-06-23 16:17:39,207 [INFO] 📈 Train step=65 | loss=0.4565 | lr=9.35e-05
+2026-06-23 16:18:15,803 [INFO] 📈 Train step=70 | loss=0.5512 | lr=9.21e-05
+2026-06-23 16:18:54,704 [INFO] 📈 Train step=75 | loss=0.5037 | lr=9.06e-05
+2026-06-23 16:19:21,625 [INFO] 📊 Eval step=76 | epoch=0.9886178861788618 | loss=0.5114 | acc=0.8704 | t=11.08 min
+2026-06-23 16:19:21,625 [INFO] ✨ Nuevo mejor eval_loss: 0.5114
+2026-06-23 16:19:21,950 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:19:22,000 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:19:22,130 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:19:22,171 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:19:51,774 [INFO] 📈 Train step=80 | loss=0.4989 | lr=8.89e-05
+2026-06-23 16:20:30,027 [INFO] 📈 Train step=85 | loss=0.4413 | lr=8.72e-05
+2026-06-23 16:21:08,342 [INFO] 📈 Train step=90 | loss=0.4050 | lr=8.54e-05
+2026-06-23 16:21:49,926 [INFO] 📈 Train step=95 | loss=0.3898 | lr=8.34e-05
+2026-06-23 16:22:10,437 [INFO] 📊 Eval step=95 | epoch=1.2341463414634146 | loss=0.5001 | acc=0.8736 | t=13.89 min
+2026-06-23 16:22:10,437 [INFO] ✨ Nuevo mejor eval_loss: 0.5001
+2026-06-23 16:22:45,815 [INFO] 📈 Train step=100 | loss=0.4095 | lr=8.14e-05
+2026-06-23 16:23:22,968 [INFO] 📈 Train step=105 | loss=0.4053 | lr=7.92e-05
+2026-06-23 16:24:00,720 [INFO] 📈 Train step=110 | loss=0.4318 | lr=7.70e-05
+2026-06-23 16:24:49,358 [INFO] 📊 Eval step=114 | epoch=1.4813008130081302 | loss=0.4883 | acc=0.8758 | t=16.54 min
+2026-06-23 16:24:49,358 [INFO] ✨ Nuevo mejor eval_loss: 0.4883
+2026-06-23 16:24:50,158 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:24:50,199 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:24:50,338 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:24:50,382 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:24:57,939 [INFO] 📈 Train step=115 | loss=0.4356 | lr=7.47e-05
+2026-06-23 16:25:35,234 [INFO] 📈 Train step=120 | loss=0.4467 | lr=7.23e-05
+2026-06-23 16:26:14,745 [INFO] 📈 Train step=125 | loss=0.4624 | lr=6.99e-05
+2026-06-23 16:26:51,744 [INFO] 📈 Train step=130 | loss=0.4339 | lr=6.74e-05
+2026-06-23 16:27:33,767 [INFO] 📊 Eval step=133 | epoch=1.7284552845528456 | loss=0.4766 | acc=0.8777 | t=19.28 min
+2026-06-23 16:27:33,767 [INFO] ✨ Nuevo mejor eval_loss: 0.4766
+2026-06-23 16:27:48,780 [INFO] 📈 Train step=135 | loss=0.4416 | lr=6.48e-05
+2026-06-23 16:28:26,172 [INFO] 📈 Train step=140 | loss=0.4696 | lr=6.22e-05
+2026-06-23 16:29:04,501 [INFO] 📈 Train step=145 | loss=0.4180 | lr=5.96e-05
+2026-06-23 16:29:43,192 [INFO] 📈 Train step=150 | loss=0.3955 | lr=5.70e-05
+2026-06-23 16:30:18,568 [INFO] 📊 Eval step=152 | epoch=1.975609756097561 | loss=0.4663 | acc=0.8801 | t=22.03 min
+2026-06-23 16:30:18,568 [INFO] ✨ Nuevo mejor eval_loss: 0.4663
+2026-06-23 16:30:19,139 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:30:19,191 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:30:19,313 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:30:19,355 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:30:44,162 [INFO] 📈 Train step=155 | loss=0.3242 | lr=5.43e-05
+2026-06-23 16:31:20,783 [INFO] 📈 Train step=160 | loss=0.2727 | lr=5.16e-05
+2026-06-23 16:32:00,483 [INFO] 📈 Train step=165 | loss=0.2808 | lr=4.89e-05
+2026-06-23 16:32:38,284 [INFO] 📈 Train step=170 | loss=0.2500 | lr=4.62e-05
+2026-06-23 16:33:06,093 [INFO] 📊 Eval step=171 | epoch=2.221138211382114 | loss=0.4787 | acc=0.8809 | t=24.82 min
+2026-06-23 16:33:06,093 [INFO] ⏳ Sin mejora (1/8) | Mejor: 0.4663 | Actual: 0.4787
+2026-06-23 16:33:36,881 [INFO] 📈 Train step=175 | loss=0.2802 | lr=4.36e-05
+2026-06-23 16:34:14,814 [INFO] 📈 Train step=180 | loss=0.2609 | lr=4.09e-05
+2026-06-23 16:34:55,514 [INFO] 📈 Train step=185 | loss=0.2856 | lr=3.83e-05
+2026-06-23 16:35:32,282 [INFO] 📈 Train step=190 | loss=0.2717 | lr=3.57e-05
+2026-06-23 16:35:52,792 [INFO] 📊 Eval step=190 | epoch=2.4682926829268292 | loss=0.4842 | acc=0.8818 | t=27.6 min
+2026-06-23 16:35:52,792 [INFO] ⏳ Sin mejora (2/8) | Mejor: 0.4663 | Actual: 0.4842
+2026-06-23 16:35:53,486 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:35:53,526 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:35:53,738 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:35:53,779 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:36:31,537 [INFO] 📈 Train step=195 | loss=0.2705 | lr=3.31e-05
+2026-06-23 16:37:08,191 [INFO] 📈 Train step=200 | loss=0.2926 | lr=3.06e-05
+2026-06-23 16:37:46,162 [INFO] 📈 Train step=205 | loss=0.3160 | lr=2.82e-05
+2026-06-23 16:38:36,869 [INFO] 📊 Eval step=209 | epoch=2.7154471544715446 | loss=0.4772 | acc=0.8830 | t=30.33 min
+2026-06-23 16:38:36,869 [INFO] ⏳ Sin mejora (3/8) | Mejor: 0.4663 | Actual: 0.4772
+2026-06-23 16:38:44,180 [INFO] 📈 Train step=210 | loss=0.3280 | lr=2.58e-05
+2026-06-23 16:39:20,665 [INFO] 📈 Train step=215 | loss=0.2890 | lr=2.35e-05
+2026-06-23 16:39:59,921 [INFO] 📈 Train step=220 | loss=0.3429 | lr=2.12e-05
+2026-06-23 16:40:37,638 [INFO] 📈 Train step=225 | loss=0.3611 | lr=1.91e-05
+2026-06-23 16:41:20,201 [INFO] 📊 Eval step=228 | epoch=2.9626016260162604 | loss=0.4760 | acc=0.8828 | t=33.06 min
+2026-06-23 16:41:20,201 [INFO] ⏳ Sin mejora (4/8) | Mejor: 0.4663 | Actual: 0.4760
+2026-06-23 16:41:20,668 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:41:20,717 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:41:20,845 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:41:20,886 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:41:36,392 [INFO] 📈 Train step=230 | loss=0.3136 | lr=1.70e-05
+2026-06-23 16:42:11,357 [INFO] 📈 Train step=235 | loss=0.2049 | lr=1.50e-05
+2026-06-23 16:42:47,976 [INFO] 📈 Train step=240 | loss=0.2106 | lr=1.32e-05
+2026-06-23 16:43:25,163 [INFO] 📈 Train step=245 | loss=0.2207 | lr=1.14e-05
+2026-06-23 16:44:00,534 [INFO] 📊 Eval step=247 | epoch=3.208130081300813 | loss=0.5047 | acc=0.8806 | t=35.73 min
+2026-06-23 16:44:00,534 [INFO] ⏳ Sin mejora (5/8) | Mejor: 0.4663 | Actual: 0.5047
+2026-06-23 16:44:21,595 [INFO] 📈 Train step=250 | loss=0.2166 | lr=9.74e-06
+2026-06-23 16:44:56,874 [INFO] 📈 Train step=255 | loss=0.2257 | lr=8.20e-06
+2026-06-23 16:45:36,588 [INFO] 📈 Train step=260 | loss=0.2452 | lr=6.79e-06
+2026-06-23 16:46:15,745 [INFO] 📈 Train step=265 | loss=0.1646 | lr=5.50e-06
+2026-06-23 16:46:44,391 [INFO] 📊 Eval step=266 | epoch=3.4552845528455283 | loss=0.4995 | acc=0.8806 | t=38.46 min
+2026-06-23 16:46:44,391 [INFO] ⏳ Sin mejora (6/8) | Mejor: 0.4663 | Actual: 0.4995
+2026-06-23 16:46:44,873 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:46:44,916 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:46:45,129 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:46:45,174 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:47:17,804 [INFO] 📈 Train step=270 | loss=0.1843 | lr=4.34e-06
+2026-06-23 16:47:56,850 [INFO] 📈 Train step=275 | loss=0.2201 | lr=3.31e-06
+2026-06-23 16:48:35,171 [INFO] 📈 Train step=280 | loss=0.2180 | lr=2.41e-06
+2026-06-23 16:49:13,668 [INFO] 📈 Train step=285 | loss=0.2096 | lr=1.66e-06
+2026-06-23 16:49:34,179 [INFO] 📊 Eval step=285 | epoch=3.7024390243902436 | loss=0.5015 | acc=0.8807 | t=41.29 min
+2026-06-23 16:49:34,180 [INFO] ⏳ Sin mejora (7/8) | Mejor: 0.4663 | Actual: 0.5015
+2026-06-23 16:50:12,755 [INFO] 📈 Train step=290 | loss=0.1815 | lr=1.04e-06
+2026-06-23 16:50:50,968 [INFO] 📈 Train step=295 | loss=0.2041 | lr=5.66e-07
+2026-06-23 16:51:29,703 [INFO] 📈 Train step=300 | loss=0.2176 | lr=2.34e-07
+2026-06-23 16:52:21,676 [INFO] 📊 Eval step=304 | epoch=3.9495934959349595 | loss=0.5015 | acc=0.8805 | t=44.08 min
+2026-06-23 16:52:21,677 [INFO] ⏳ Sin mejora (8/8) | Mejor: 0.4663 | Actual: 0.5015
+2026-06-23 16:52:21,677 [INFO] 🛑 Early stopping activado
+2026-06-23 16:52:22,145 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:52:22,188 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:52:22,317 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:52:22,360 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:52:22,945 [INFO] 🏁 Entrenamiento completado en 44.1 minutos
+2026-06-23 16:52:22,945 [INFO] ⏱ Duración total: 44.0 minutos
+2026-06-23 16:52:22,945 [INFO] 
+📊 Evaluación final...
+2026-06-23 16:52:43,514 [INFO] 📊 Eval step=304 | epoch=3.9495934959349595 | loss=0.4663 | acc=0.8801 | t=44.45 min
+2026-06-23 16:52:43,514 [INFO] ⏳ Sin mejora (9/8) | Mejor: 0.4663 | Actual: 0.4663
+2026-06-23 16:52:43,514 [INFO] 🛑 Early stopping activado
+2026-06-23 16:52:43,515 [INFO] Métricas finales: {'eval_loss': 0.4662958085536957, 'eval_mean_token_accuracy': 0.8800832041795703, 'eval_runtime': 20.5665, 'eval_samples_per_second': 3.355, 'eval_steps_per_second': 3.355, 'eval_entropy': 0.45178987129011017, 'eval_num_tokens': 2978851.0, 'epoch': 3.9495934959349595, 'num_input_tokens_seen': 2978851}
+2026-06-23 16:52:43,515 [INFO] Mejor checkpoint: ./checkpoints_deepseek_r1_qwen14b_v2/checkpoint-152
+2026-06-23 16:52:43,515 [INFO] Mejor métrica: 0.4662958085536957
+2026-06-23 16:52:43,515 [INFO] 
+💾 Guardando adaptador QLoRA en: ./modelo_tutor_quimica_deepseek_r1_qwen14b_v2
+2026-06-23 16:52:43,758 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:52:43,801 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:52:43,934 [INFO] HTTP Request: HEAD https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 16:52:43,977 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/1df8507178afcc1bef68cd8c393f61a886323761/config.json "HTTP/1.1 200 OK"
+2026-06-23 16:52:44,455 [INFO] ================================================================================
+2026-06-23 16:52:44,455 [INFO] ✅ ENTRENAMIENTO QLORA DEEPSEEK-R1-QWEN14B v2 COMPLETADO
+2026-06-23 16:52:44,455 [INFO] Modelo guardado: ./modelo_tutor_quimica_deepseek_r1_qwen14b_v2
+2026-06-23 16:52:44,455 [INFO] Reporte:         ./modelo_tutor_quimica_deepseek_r1_qwen14b_v2/reporte_entrenamiento.json
+2026-06-23 16:52:44,455 [INFO] Historial:       ./modelo_tutor_quimica_deepseek_r1_qwen14b_v2/historial_metricas.json
+2026-06-23 16:52:44,455 [INFO] Log:             entrenamiento_qlora_deepseek_r1_qwen14b_v2_20260623_152922.log
+2026-06-23 16:52:44,455 [INFO] ================================================================================
+2026-06-23 16:52:44,455 [INFO] 
+📋 PRÓXIMOS PASOS:
+2026-06-23 16:52:44,455 [INFO]   1. Convertir el adaptador LoRA a GGUF:
+2026-06-23 16:52:44,455 [INFO]      python convert_lora_to_gguf.py --adapter ./modelo_tutor_quimica_deepseek_r1_qwen14b_v2
+2026-06-23 16:52:44,455 [INFO]   2. Combinar con el modelo base Phi-4 y cuantizar a Q4_K_M
+2026-06-23 16:52:44,455 [INFO]   3. Reemplazar el archivo phi4_quimica_Q4_K_M.gguf en Hermes
+2026-06-23 16:52:44,455 [INFO]   4. Reiniciar llama-server y probar con un ejercicio
+2026-06-23 16:52:44,455 [INFO] 

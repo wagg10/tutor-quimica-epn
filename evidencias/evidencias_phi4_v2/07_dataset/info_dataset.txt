@@ -1,0 +1,2 @@
+-rw-rw-r-- 1 lasinac lasinac 2,8M jun 23 00:50 dataset_quimica_final.jsonl
+684 dataset_quimica_final.jsonl

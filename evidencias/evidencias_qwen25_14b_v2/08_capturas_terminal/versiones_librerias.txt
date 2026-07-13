@@ -1,0 +1,7 @@
+PyTorch: 2.11.0+cu128
+CUDA disponible: True
+GPU: NVIDIA GeForce RTX 5090
+Transformers: 5.12.1
+PEFT: 0.19.1
+TRL: 1.6.0
+bitsandbytes: 0.49.2

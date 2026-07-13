@@ -1,0 +1,1 @@
+1,1G	modelo_tutor_quimica_qwen25_14b_v2

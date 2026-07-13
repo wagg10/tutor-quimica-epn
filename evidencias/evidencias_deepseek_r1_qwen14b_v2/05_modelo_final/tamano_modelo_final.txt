@@ -1,0 +1,1 @@
+1,1G	modelo_tutor_quimica_deepseek_r1_qwen14b_v2

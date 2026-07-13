@@ -1,0 +1,10 @@
+total 857M
+-rw-rw-r-- 1 lasinac lasinac 1,1K jun 23 01:55 adapter_config.json
+-rw------- 1 lasinac lasinac 851M jun 23 01:55 adapter_model.safetensors
+-rw-rw-r-- 1 lasinac lasinac 1,7K jun 23 01:55 chat_template.jinja
+-rw-rw-r-- 1 lasinac lasinac 1,5K jun 23 01:12 configuracion_entrenamiento.json
+-rw-rw-r-- 1 lasinac lasinac 6,5K jun 23 01:55 historial_metricas.json
+-rw-rw-r-- 1 lasinac lasinac 5,1K jun 23 01:55 README.md
+-rw-rw-r-- 1 lasinac lasinac 3,2K jun 23 01:55 reporte_entrenamiento.json
+-rw-rw-r-- 1 lasinac lasinac  340 jun 23 01:55 tokenizer_config.json
+-rw-rw-r-- 1 lasinac lasinac 6,9M jun 23 01:55 tokenizer.json
